@@ -139,9 +139,9 @@ Cabe recordar que cada una de ellas propone una o varias interfaces (entornos de
 
 🟢<img src="./icons/libreelec.png" width="30">[LibreELEC](https://libreelec.tv) : centro multimedia para TV
 
-🟢[Batocera](https://batocera.org) : emulador de consolas, retrogaming
+🟢<img src="./icons/batocera.png" width="30">[Batocera](https://batocera.org) : emulador de consolas, retrogaming
 
-🟢[RetroPie](https://retropie.org.uk) : emulador de consolas, retrogaming
+🟢<img src="./icons/retropie.png" width="30">[RetroPie](https://retropie.org.uk) : emulador de consolas, retrogaming
 
 ### 3-2 Servicios y programas
 
@@ -149,9 +149,9 @@ Navegador :
 
 🔵<img src="./icons/firefox.png" width="30">[Firefox](https://www.mozilla.org)
 
-🟢[Tor Browser](https://www.torproject.org/download)
+🟢<img src="./icons/torbrowser.png" width="30">[Tor Browser](https://www.torproject.org/download)
 
-🟢[LibreWolf*](https://librewolf-community.gitlab.io)
+🟢<img src="./icons/librewolf.png" width="30">[LibreWolf*](https://librewolf-community.gitlab.io)
 
 🔵[Iridium Browser](https://iridiumbrowser.de)
 
@@ -1226,7 +1226,7 @@ webgl.enable-debug-renderer-info = false
 
 webgl.enable-webgl2 = false
 
-**Solo si no se usa la extensión Chameleon : **
+**Solo si no se usa la extensión Chameleon :**
 
 (privacy.resistFingerprinting = true)
 

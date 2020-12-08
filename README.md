@@ -135,9 +135,9 @@ Windows is currently the worst operating system in terms of privacy and security
 
 🟢<img src="./icons/libreelec.png" width="30">[LibreELEC](https://libreelec.tv) : multimedia center for TV
 
-🟢[Batocera](https://batocera.org) : console emulator, retrogaming
+🟢<img src="./icons/batocera.png" width="30">[Batocera](https://batocera.org) : console emulator, retrogaming
 
-🟢[RetroPie](https://retropie.org.uk) : console emulator, retrogaming
+🟢<img src="./icons/retropie.png" width="30">[RetroPie](https://retropie.org.uk) : console emulator, retrogaming
 
 ### 3-2 Services and programs
 
@@ -145,9 +145,9 @@ Browser :
 
 🔵<img src="./icons/firefox.png" width="30">[Firefox](https://www.mozilla.org)
 
-🟢[Tor Browser](https://www.torproject.org/download)
+🟢<img src="./icons/torbrowser.png" width="30">[Tor Browser](https://www.torproject.org/download)
 
-🟢[LibreWolf*](https://librewolf-community.gitlab.io)
+🟢<img src="./icons/librewolf.png" width="30">[LibreWolf*](https://librewolf-community.gitlab.io)
 
 🔵[Iridium Browser](https://iridiumbrowser.de)
 
@@ -1235,7 +1235,7 @@ webgl.enable-debug-renderer-info = false
 
 webgl.enable-webgl2 = false
 
-**Only if Chameleon extension is not used:**
+**Only if Chameleon extension is not used :**
 
 (privacy.resistFingerprinting = true)
 
