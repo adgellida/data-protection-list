@@ -319,7 +319,7 @@ Limpieza y optimización de sistema :
 
 🟢[Stacer](https://oguzhaninan.github.io/Stacer-Web)
 
-🟢<img src="./icons/vollaos.png" width="30">[ubunsys](https://github.com/adgellida/ubunsys)
+🟢<img src="./icons/ubunsys.png" width="30">[ubunsys](https://github.com/adgellida/ubunsys)
 
 🟢[BleachBit](https://www.bleachbit.org)
 
