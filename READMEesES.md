@@ -119,7 +119,7 @@ Cabe recordar que cada una de ellas propone una o varias interfaces (entornos de
 
 🟢<img src="./icons/mxlinux.png" width="30">[MX Linux](https://mxlinux.org) : conviene a los principiantes
 
-🟢<img src="./icons/solus.png" width="30">(https://getsol.us/home) : conviene a los principiantes
+🟢<img src="./icons/solus.png" width="30">[Solus](https://getsol.us/home) : conviene a los principiantes
 
 🟢<img src="./icons/parrotos.png" width="30">[Parrot OS](https://www.parrotsec.org/download) : seguridad y privacidad mejoradas (usuarios confirmados)
 
