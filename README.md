@@ -5,9 +5,11 @@ Manual of resistance to capitalism of vigilance
 
 # Languages
 
-<a href="https://github.com/adgellida/data-protection-list/README.md" ><img src="https://github.com/adgellida/data-protection-list/main/images/languages/united-kingdom.png" width="60"</a>
-<a href="https://github.com/adgellida/data-protection-list/READMEesES.md" ><img src="https://github.com/adgellida/data-protection-list/main/images/languages/spain.png" width="60"</a>
-<a href="https://github.com/adgellida/data-protection-list/READMEfrFR.md" ><img src="https://github.com/adgellida/data-protection-list/main/images/languages/france.png" width="60"</a>
+<p align="center">
+  <a href="https://github.com/adgellida/data-protection-list/README.md" target="_blank"><img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/languages/united-kingdom.png" width="80"></a>
+  <a href="https://github.com/adgellida/data-protection-list/READMEesES.md" target="_blank"><img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/languages/spain.png" width="80"></a>
+  <a href="https://github.com/adgellida/data-protection-list/READMEfrFR.md" target="_blank"><img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/languages/france.png" width="80"></a>
+</p>
 
 # Index
 
@@ -27,7 +29,7 @@ Manual of resistance to capitalism of vigilance
 * [6 Service instances](#6-service-instances)
 * [6-1 Searx](#6-1-searx)
 * [6-2 Invidious](#6-2-invidious)
-* [6-3 Videoconferencia](#6-3-videoconferencia)
+* [6-3 Video calls/video conferencing](#6-3-video-calls/video-conferencing)
 * [6-4 DNS](#6-4-dns)
 * [7 Recursos adicionales y fuentes](#7-additional-resources-and-sources)
 * [8 Configurations](#8-configurations)
@@ -37,7 +39,7 @@ Manual of resistance to capitalism of vigilance
 
 ## 0 Comments about fork
 
-I have seen the need to forge this document of Valentin Delacour hosted [here](https://codeberg.org/PrivacyFirst/PrivacyFirst/issues) under his approval and license to give it more visibility, readability, comfort, improvement in some aspects and participation. If someone forks any of the 2 they should do the same.
+I have seen the need to fork this document of Valentin Delacour hosted [here](https://codeberg.org/PrivacyFirst/PrivacyFirst/issues) under his approval and license to give it more visibility, readability, comfort, improvement in some aspects and participation. If someone forks any of the 2 they should do the same.
 
 I think that we should share how much more the better and the knowledge about good practices to follow regarding security, privacy and open source that are detailed are no exception.
 
@@ -68,7 +70,7 @@ This document has been copied 1: 1 with very slight modifications in version 7/1
 
 Now, the document begins. Put on your belt curves are coming!
 
-## 1 Introducción
+## 1 Introduction
 
 The main objective of this document is to propose tools and alternatives to protect data and privacy from predation by private companies under the current system of surveillance capitalism. Now, follow the following
 recommendations also allows to improve, in certain measures, the protection against other entities such as state services or pirates, for example.
@@ -412,7 +414,7 @@ Android, in its default configuration, is currently the worst operating system i
 
 Linux-based options, in their current state of development, are not yet recommended for average users (except Sailfish OS).
 
-### 4-2 Preinstallled hardware
+### 4-2 Preinstalled hardware
 
 [Fairphone 3 y 3+](https://www.fairphone.com) : /e/ OS (version only available on project site /e/)
 
@@ -1017,11 +1019,11 @@ https://newpipe.schabi.org/
 
 **General configuration**
 
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/1.png" width="200">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/2.png" width="200">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/3.png" width="200">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/4.png" width="200">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/5.png" width="200">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/1.png" width="750">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/2.png" width="750">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/3.png" width="750">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/4.png" width="750">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/5.png" width="750">
 
 **Extension settings**
 
@@ -1040,11 +1042,9 @@ No configuration necessary
 
 Chameleon :
 
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/11.png" width="200">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/22.png" width="200">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/33.png" width="200">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/44.png" width="200">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/55.png" width="200">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/11.png" width="450"><img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/22.png" width="450">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/33.png" width="450"><img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/44.png" width="450">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/55.png" width="450">
 
 CanvasBlocker :
 General: - check "Expert mode"

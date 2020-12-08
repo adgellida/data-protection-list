@@ -5,9 +5,11 @@ Manual de resistencia al capitalismo de vigilancia
 
 # Idiomas
 
-<a href="https://github.com/adgellida/data-protection-list/README.md" ><img src="https://github.com/adgellida/data-protection-list/main/images/languages/united-kingdom.png" width="60"</a>
-<a href="https://github.com/adgellida/data-protection-list/READMEesES.md" ><img src="https://github.com/adgellida/data-protection-list/main/images/languages/spain.png" width="60"</a>
-<a href="https://github.com/adgellida/data-protection-list/READMEfrFR.md" ><img src="https://github.com/adgellida/data-protection-list/main/images/languages/france.png" width="60"</a>
+<p align="center">
+  <a href="https://github.com/adgellida/data-protection-list/README.md" target="_blank"><img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/languages/united-kingdom.png" width="80"></a>
+  <a href="https://github.com/adgellida/data-protection-list/READMEesES.md" target="_blank"><img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/languages/spain.png" width="80"></a>
+  <a href="https://github.com/adgellida/data-protection-list/READMEfrFR.md" target="_blank"><img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/languages/france.png" width="80"></a>
+</p>
 
 # Índice
 
@@ -1012,11 +1014,11 @@ https://newpipe.schabi.org/
 
 **Configuración general**
 
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/1.png" width="80">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/2.png" width="80">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/3.png" width="80">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/4.png" width="80">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/5.png" width="80">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/1.png" width="750">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/2.png" width="750">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/3.png" width="750">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/4.png" width="750">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/5.png" width="750">
 
 **Configuración de las extensiones**
 
@@ -1033,11 +1035,9 @@ Ninguna configuración necesaria
 
 Chameleon :
 
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/11.png" width="80">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/22.png" width="80">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/33.png" width="80">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/44.png" width="80">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/55.png" width="80">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/11.png" width="450"><img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/22.png" width="450">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/33.png" width="450"><img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/44.png" width="450">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/55.png" width="450">
 
 CanvasBlocker :
 General : - marcar "Expert mode"
