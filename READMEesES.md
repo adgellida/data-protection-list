@@ -151,7 +151,7 @@ Cabe recordar que cada una de ellas propone una o varias interfaces (entornos de
 
 Navegador :
 
-🔵[Firefox](https://www.mozilla.org)
+🔵<img src="./icons/firefox.png" width="30">[Firefox](https://www.mozilla.org)
 
 🟢[Tor Browser](https://www.torproject.org/download)
 

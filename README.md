@@ -148,7 +148,7 @@ Windows is currently the worst operating system in terms of privacy and security
 
 Browser :
 
-🔵[Firefox](https://www.mozilla.org)
+🔵<img src="./icons/firefox.png" width="30">[Firefox](https://www.mozilla.org)
 
 🟢[Tor Browser](https://www.torproject.org/download)
 
@@ -204,7 +204,7 @@ Instant messaging :
 
 🟢[Signal](https://signal.org)
 
-🔵[Telegram](https://telegram.org)
+🔵<img src="./icons/telegram.png" width="30" >[Telegram](https://telegram.org)
 
 🔵[Element](https://app.element.io)
 
@@ -222,7 +222,7 @@ Video calls/video conferencing :
 
 🔵[Element](https://app.element.io)
 
-🔵[Telegram*](https://telegram.org)
+🔵<img src="./icons/telegram.png" width="30" >[Telegram*](https://telegram.org)
 
 Social network :
 
@@ -671,7 +671,9 @@ Browser :
 
 🟢[Onion Browser](https://apps.apple.com/us/app/onion-browser/id519296448)
 
-🔵[Firefox](https://apps.apple.com/us/app/navegador-firefox/id989804926)
+🔵<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
+
+🔵<img src="./icons/firefox.png" width="30">[Firefox](https://apps.apple.com/us/app/navegador-firefox/id989804926)
 
 🔵[DuckDuckGo Browser](https://apps.apple.com/us/app/duckduckgo-privacy-browser/id663592361)
 

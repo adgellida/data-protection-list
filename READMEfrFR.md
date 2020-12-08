@@ -146,7 +146,7 @@ Il faut savoir que chacune d’entre elles propose une ou plusieurs interfaces (
 
 Navigateur :
 
-🔵[Firefox](https://www.mozilla.org)
+🔵<img src="./icons/firefox.png" width="30">[Firefox](https://www.mozilla.org)
 
 🟢[Tor Browser](https://www.torproject.org/download)
 
