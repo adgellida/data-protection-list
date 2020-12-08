@@ -137,11 +137,11 @@ Cabe recordar que cada una de ellas propone una o varias interfaces (entornos de
 
 **Raspberry Pi :**
 
-🟢[Plasma BigScreen*](https://plasma-bigscreen.org) : centro multimedia para TV (comando de voz con Mycroft AI)
+🟢<img src="./icons/plasmabigscreen.png" width="30">[Plasma BigScreen*](https://plasma-bigscreen.org) : centro multimedia para TV (comando de voz con Mycroft AI)
 
-🟢[Raspberry Pi OS](https://www.raspberrypi.org/software) : sistema operativo clásico
+🟢<img src="./icons/raspberrypios.png" width="30">[Raspberry Pi OS](https://www.raspberrypi.org/software) : sistema operativo clásico
 
-🟢[LibreELEC](https://libreelec.tv) : centro multimedia para TV
+🟢<img src="./icons/libreelec.png" width="30">[LibreELEC](https://libreelec.tv) : centro multimedia para TV
 
 🟢[Batocera](https://batocera.org) : emulador de consolas, retrogaming
 

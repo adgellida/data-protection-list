@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/privacy-first.png" width="80"> data-protection-list
 =============================================
 
-Manual of resistance to capitalism of vigilance
+Manual of resistance to surveillance capitalism
 
 # Languages
 
@@ -133,11 +133,11 @@ Windows is currently the worst operating system in terms of privacy and security
 
 **Raspberry Pi :**
 
-🟢[Plasma BigScreen*](https://plasma-bigscreen.org) : multimedia center for TV (voice command with Mycroft AI)
+🟢<img src="./icons/plasmabigscreen.png" width="30">[Plasma BigScreen*](https://plasma-bigscreen.org) : multimedia center for TV (voice command with Mycroft AI)
 
-🟢[Raspberry Pi OS](https://www.raspberrypi.org/software) : classic operating system
+🟢<img src="./icons/raspberrypios.png" width="30">[Raspberry Pi OS](https://www.raspberrypi.org/software) : classic operating system
 
-🟢[LibreELEC](https://libreelec.tv) : multimedia center for TV
+🟢<img src="./icons/libreelec.png" width="30">[LibreELEC](https://libreelec.tv) : multimedia center for TV
 
 🟢[Batocera](https://batocera.org) : console emulator, retrogaming
 
