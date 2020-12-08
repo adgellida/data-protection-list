@@ -35,8 +35,7 @@ Manual of resistance to capitalism of vigilance
 * [8-2 Smartphone](#8-2-smartphone)
 * [8-3 Firefox](#8-3-firefox)
 
-
-## 0 Commentaires sur la fourche
+## 0 Comments about fork
 
 I have seen the need to forge this document of Valentin Delacour hosted [here](https://codeberg.org/PrivacyFirst/PrivacyFirst/issues) under his approval and license to give it more visibility, readability, comfort, improvement in some aspects and participation. If someone forks any of the 2 they should do the same.
 
@@ -233,7 +232,7 @@ Social network :
 
 🟢[PixelFed](https://pixelfed.org)
 
-🔵[Nitter](https://nitter.net (proxy Twitter)
+🔵[Nitter](https://nitter.net) (proxy Twitter)
 
 🔵[Bibliogram](https://bibliogram.art) (proxy Instagram)
 
@@ -411,17 +410,20 @@ Android, in its default configuration, is currently the worst operating system i
 
 🔵[Sailfish OS Jolla](https://jolla.com)
 
-Linux-based options, in their current state of development, are not yet
-Recommended for average users (except Sailfish OS).
+Linux-based options, in their current state of development, are not yet recommended for average users (except Sailfish OS).
 
 ### 4-2 Preinstallled hardware
 
 [Fairphone 3 y 3+](https://www.fairphone.com) : /e/ OS (version only available on project site /e/)
+
 [Volla Phone](https://volla.online) : Volla OS, UBports, Sailfish OS and others
+
 [PinePhone](https://www.pine64.org/pinephone) : UBports and other Linux-based OS
+
 [Librem 5](https://puri.sm/products/librem-5) : PureOS and other Linux-based OS
 
 Other models with / e / OS pre-installed are available at the / e / project site:
+
 https://esolutions.shop/
 
 ### 4-3 Aplications
@@ -888,6 +890,7 @@ https://spreadprivacy.com/tag/device-privacy-tips
 Great channels about privacy (with tutorials):
 
 The Hated One : https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q
+
 Techlore : https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg
 
 Associations for the defense of privacy (information) :
@@ -1014,11 +1017,11 @@ https://newpipe.schabi.org/
 
 **General configuration**
 
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/1.png" width="130">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/2.png" width="130">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/3.png" width="130">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/4.png" width="130">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/5.png" width="130">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/1.png" width="200">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/2.png" width="200">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/3.png" width="200">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/4.png" width="200">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/5.png" width="200">
 
 **Extension settings**
 
@@ -1037,11 +1040,11 @@ No configuration necessary
 
 Chameleon :
 
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/11.png" width="130">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/22.png" width="130">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/33.png" width="130">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/44.png" width="130">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/55.png" width="130">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/11.png" width="200">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/22.png" width="200">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/33.png" width="200">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/44.png" width="200">
+<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/55.png" width="200">
 
 CanvasBlocker :
 General: - check "Expert mode"

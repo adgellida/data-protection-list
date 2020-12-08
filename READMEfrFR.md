@@ -35,7 +35,6 @@ Manuel de résistance au capitalisme de surveillance
 * [8-2 Smartphone](#8-2-smartphone)
 * [8-3 Firefox](#8-3-firefox)
 
-
 ## 0 Commentaires sur fork
 
 J'ai vu la nécessité de forger ce document de Valentin Delacour hébergé [ici](https://codeberg.org/PrivacyFirst/PrivacyFirst/issues) sous son approbation et sa licence pour lui donner plus de visibilité, lisibilité, confort, amélioration sous certains aspects et participation. Si quelqu'un fourche l'un des 2, il doit faire de même.
@@ -231,7 +230,7 @@ Réseau social : :
 
 🟢[PixelFed](https://pixelfed.org)
 
-🔵[Nitter](https://nitter.net (proxy Twitter)
+🔵[Nitter](https://nitter.net) (proxy Twitter)
 
 🔵[Bibliogram](https://bibliogram.art) (proxy Instagram)
 
@@ -411,17 +410,21 @@ Le système d’exploitation d’Apple (iOS), malgré son marketing basé sur le
 
 🔵[Sailfish OS Jolla](https://jolla.com)
 
-Las opciones basadas en Linux, en su estado de desarrollo actual, todavía no son
-recomendables para usuarios promedios (a excepción de Sailfish OS).
+Les options basées sur Linux, dans leur état de développement actuel, ne sont pas encore recommandables pour des utilisateurs moyens (à l’exception de Sailfish OS).
 
 ### 4-2 Hardware preinstalado
 
 [Fairphone 3 y 3+](https://www.fairphone.com) : /e/OS (versión solo disponible en el sitio del proyecto /e/)
+
 [Volla Phone](https://volla.online) : Volla OS, UBports, Sailfish OS y otros
+
 [PinePhone](https://www.pine64.org/pinephone) : UBports y otros OS basados en Linux
+
 [Librem 5](https://puri.sm/products/librem-5) : PureOS y otros OS basados en Linux
 
-Les options basées sur Linux, dans leur état de développement actuel, ne sont pas encore recommandables pour des utilisateurs moyens (à l’exception de Sailfish OS).
+D'autres modèles avec /e/ OS pré-installé sont disponibles sur le site /e/ project:
+
+https://esolutions.shop/
 
 ### 4-3 Applications
 
@@ -743,11 +746,11 @@ Liste complète :
 
 uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - [Firefox](https://addons.mozilla.org/es/firefox/addon/ublock-origin)
 
-uMatrix - [Chrome](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf) - [Firefox](https://addons.mozilla.org/es/firefox/addon/umatrix) - Development ended - Alternative?
+uMatrix - [Chrome](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf) - [Firefox](https://addons.mozilla.org/es/firefox/addon/umatrix) - Développement terminé - Alternative?
 
-Decentraleyes - [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - [Firefox](https://addons.mozilla.org/es/firefox/addon/decentraleyes) - Finished development? - Alternative?
+Decentraleyes - [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - [Firefox](https://addons.mozilla.org/es/firefox/addon/decentraleyes) - Développement terminé? - Alternative?
 
-[Chameleon](https://github.com/ghostwords/chameleon) Finished development? - Alternative?
+[Chameleon](https://github.com/ghostwords/chameleon) Développement terminé? - Alternative?
 
 CanvasBlocker - [Chrome](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd) - [Firefox](https://addons.mozilla.org/es/firefox/addon/canvasblocker)
 
@@ -889,6 +892,7 @@ https://spreadprivacy.com/tag/device-privacy-tips
 Excellentes chaînes à propos de la confidentialité (avec tutoriels) :
 
 The Hated One : https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q
+
 Techlore : https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg
 
 Associations pour la défense de la vie privée (informations) :

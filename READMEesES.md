@@ -235,7 +235,7 @@ Red social :
 
 🟢[PixelFed](https://pixelfed.org)
 
-🔵[Nitter](https://nitter.net (proxy Twitter)
+🔵[Nitter](https://nitter.net) (proxy Twitter)
 
 🔵[Bibliogram](https://bibliogram.art) (proxy Instagram)
 
@@ -418,11 +418,15 @@ Las opciones basadas en Linux, en su estado de desarrollo actual, todavía no so
 ### 4-2 Hardware preinstalado
 
 [Fairphone 3 y 3+](https://www.fairphone.com) : /e/OS (versión solo disponible en el sitio del proyecto /e/)
+
 [Volla Phone](https://volla.online) : Volla OS, UBports, Sailfish OS y otros
+
 [PinePhone](https://www.pine64.org/pinephone) : UBports y otros OS basados en Linux
+
 [Librem 5](https://puri.sm/products/librem-5) : PureOS y otros OS basados en Linux
 
 Otros modelos con /e/OS preinstalado están disponibles en el sitio del proyecto /e/ :
+
 https://esolutions.shop/
 
 ### 4-3 Aplicaciones
@@ -889,6 +893,7 @@ https://spreadprivacy.com/tag/device-privacy-tips
 Excelentes canales acerca de la privacidad (con tutoriales) :
 
 The Hated One : https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q
+
 Techlore : https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg
 
 Asociaciones para la defensa de la privacidad (informaciones) :
