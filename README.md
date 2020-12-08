@@ -175,7 +175,7 @@ Office automation :
 
 🟢[CryptPad](https://cryptpad.fr)
 
-⚫[Onlyoffice(https://www.onlyoffice.com)
+⚫[Onlyoffice](https://www.onlyoffice.com)
 
 Mail :
 
@@ -1078,93 +1078,175 @@ Those various settings improve privacy, security, and performance.
 Items in parentheses are generally not desirable in all cases.
 
 accessibility.blockautorefresh = true
+
 ((accessibility.force_disabled = 1))
+
 beacon.enabled = false
+
 browser.cache.offline.capacity = 0
+
 browser.cache.offline.enable = false
+
 browser.display.use_document_fonts = 0
+
 browser.send_pings.max_per_link = 0
+
 browser.sessionhistory.max_entries = 15
+
 Maximum number of pages available with "precedent", Firefox lightens
+
 browser.sessionhistory.max_total_viewers = 4
+
 Maximum number of pages loaded with "precedent", Firefox lightens
+
 browser.sessionstore.interval = 50000
+
 browser.sessionstore.privacy_level = 2
+
 (browser.startup.homepage_override.buildID = delete)
+
 browser.urlbar.autofill.enabled = false
+
 (browser.urlbar.maxRichResults = 0)
+
 browser.urlbar.speculativeConnect.enabled = false
+
 browser.urlbar.trimURLs = false
+
 browser.xul.error_pages.expert_bad_cert = true
+
 captivedetect.canonicalURL = delete
+
 device.sensors = false for all elements
+
 dom.allow_cut_copy = false
+
 dom.battery.enabled = false
+
 dom.enable_performance = false
+
 dom.enable_resource_timing = false
+
 dom.event.clipboardevents.enabled = false
+
 dom.event.contextmenu.enabled = false
+
 dom.push = false for all elements + delete addresses and identifiers
+
 dom.serviceWorkers.enabled = false
+
 dom.vr.oculus.enabled = false
+
 dom.webaudio.enabled = false
+
 gamepad = false for all elements
+
 geo = delete all addresses
+
 geo.enabled = false
+
 (gfx.font_rendering.graphite.enabled = false)
+
 google = false for all items + clear addresses
+
 javascript.options.baselinejit = false
+
 javascript.options.ion = false
+
 javascript.options.native_regexp = false
+
 layers.acceleration.force-enabled = true
+
 layout.css.visited_links_enabled = false
+
 mathml.disabled = true
+
 ((media.gmp-widevinecdm.enabled = false))
+
 ((Disable DRM, yes DRM videos not necessary))
+
 media.navigator.enabled = false
+
 media.video_stats.enabled = false
+
 network.captive-portal-service.enabled = false
+
 network.dnsCacheEntries = 4000
+
 network.dnsCacheExpiration = 43200
+
 network.dnsCacheExpirationGracePeriod = 43200
+
 network.IDN_show_punycode = true
+
 network.http.referer.XOriginPolicy = 0
+
 network.http.referer.XOriginTrimmingPolicy = 2
+
 network.http.referer.spoofSource = true
+
 network.http.referer.trimmingPolicy = 2
+
 network.http.speculative-parallel-limit = 0
+
 network.manage-offline-status = false
+
 normandy = false for all elements + clear addresses and identifiers
+
 pocket = false for all items + clear addresses and identifiers
+
 privacy.clearOnShutdown.offlineApps = true
+
 privacy.spoof_english = 2
+
 privacy.trackingprotection.socialtracking.enabled = true
+
 report (reporter / reporting) = false for all items + delete addresses
+
 safebrowsing = false for all items + clear addresses and identifiers
+
 security.cert_pinning.enforcement_level = 2
+
 security.mixed_content.upgrade_display_content = true
+
 security.OCSP.enabled = 0
+
 security.ssl.enable_false_start = false
+
 security.ssl.enable_ocsp_must_staple = false
+
 security.ssl.enable_ocsp_stapling = false
+
 security.ssl.require_safe_negotiation = true
+
 security.ssl3.rsa_des_ede3_sha = false
+
 security.tls.enable_0rtt_data = false
+
 security.tls.version.min = 3
+
 telemetry = false for all items + clear addresses and identifiers
+
 ui.use_standins_for_native_colors = true
+
 webgl.disabled = true
+
 webgl.enable-debug-renderer-info = false
+
 webgl.enable-webgl2 = false
 
 **Only if Chameleon extension is not used:**
 
 (privacy.resistFingerprinting = true)
+
 (Better to put "false" and fake the fingerprint with Chameleon)
 
 These should be configured directly with Chameleon if it is installed:
 
 media.peerconnection.ice.default_address_only = true
+
 media.peerconnection.ice.no_host = true
+
 ((media.peerconnection.enabled = false))
+
 privacy.firstparty.isolate = true

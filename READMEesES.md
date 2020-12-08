@@ -177,7 +177,7 @@ Ofimática :
 
 🟢[CryptPad](https://cryptpad.fr)
 
-⚫[Onlyoffice(https://www.onlyoffice.com)
+⚫[Onlyoffice](https://www.onlyoffice.com)
 
 Correo :
 
@@ -1068,93 +1068,175 @@ Esas diversas configuraciones mejoran la privacidad, la seguridad y el rendimien
 Los elementos entre paréntesis no suelen ser deseables en todos los casos.
 
 accessibility.blockautorefresh = true
+
 ((accessibility.force_disabled = 1))
+
 beacon.enabled = false
+
 browser.cache.offline.capacity = 0
+
 browser.cache.offline.enable = false
+
 browser.display.use_document_fonts = 0
+
 browser.send_pings.max_per_link = 0
+
 browser.sessionhistory.max_entries = 15
+
 Numero máximo de paginas disponibles con "precedente", aligera Firefox
+
 browser.sessionhistory.max_total_viewers = 4
+
 Numero máximo de paginas cargadas con "precedente", aligera Firefox
+
 browser.sessionstore.interval = 50000
+
 browser.sessionstore.privacy_level = 2
+
 (browser.startup.homepage_override.buildID = borrar)
+
 browser.urlbar.autofill.enabled = false
+
 (browser.urlbar.maxRichResults = 0)
+
 browser.urlbar.speculativeConnect.enabled = false
+
 browser.urlbar.trimURLs = false
+
 browser.xul.error_pages.expert_bad_cert = true
+
 captivedetect.canonicalURL = borrar
+
 device.sensors = false para todos los elementos
+
 dom.allow_cut_copy = false
+
 dom.battery.enabled = false
+
 dom.enable_performance = false
+
 dom.enable_resource_timing = false
+
 dom.event.clipboardevents.enabled = false
+
 dom.event.contextmenu.enabled = false
+
 dom.push = false para todos los elementos + borrar las direcciones e identificadores
+
 dom.serviceWorkers.enabled= false
+
 dom.vr.oculus.enabled = false
+
 dom.webaudio.enabled = false
+
 gamepad = false para todos los elementos
+
 geo = borrar todas las direcciones
+
 geo.enabled = false
+
 (gfx.font_rendering.graphite.enabled = false)
+
 google = false para todos los elementos + borrar las direcciones
+
 javascript.options.baselinejit = false
+
 javascript.options.ion = false
+
 javascript.options.native_regexp = false
+
 layers.acceleration.force-enabled = true
+
 layout.css.visited_links_enabled = false
+
 mathml.disabled = true
+
 ((media.gmp-widevinecdm.enabled = false))
+
 ((Desactiva DRM, sí videos DRM no necesarias))
+
 media.navigator.enabled = false
+
 media.video_stats.enabled = false
+
 network.captive-portal-service.enabled = false
+
 network.dnsCacheEntries = 4000
+
 network.dnsCacheExpiration = 43200
+
 network.dnsCacheExpirationGracePeriod = 43200
+
 network.IDN_show_punycode = true
+
 network.http.referer.XOriginPolicy = 0
+
 network.http.referer.XOriginTrimmingPolicy = 2
+
 network.http.referer.spoofSource = true
+
 network.http.referer.trimmingPolicy = 2
+
 network.http.speculative-parallel-limit = 0
+
 network.manage-offline-status = false
+
 normandy = false para todos los elementos + borrar las direcciones e identificadores
+
 pocket = false para todos los elementos + borrar las direcciones e identificadores
+
 privacy.clearOnShutdown.offlineApps = true
+
 privacy.spoof_english = 2
+
 privacy.trackingprotection.socialtracking.enabled = true
+
 report (reporter/reporting) = false para todos los elementos + borrar las direcciones
+
 safebrowsing = false para todos los elementos + borrar direcciones e identificadores
+
 security.cert_pinning.enforcement_level = 2
+
 security.mixed_content.upgrade_display_content = true
+
 security.OCSP.enabled = 0
+
 security.ssl.enable_false_start = false
+
 security.ssl.enable_ocsp_must_staple = false
+
 security.ssl.enable_ocsp_stapling = false
+
 security.ssl.require_safe_negotiation = true
+
 security.ssl3.rsa_des_ede3_sha = false
+
 security.tls.enable_0rtt_data = false
+
 security.tls.version.min = 3
+
 telemetry = false para todos los elementos + borrar las direcciones e identificadores
+
 ui.use_standins_for_native_colors = true
+
 webgl.disabled = true
+
 webgl.enable-debug-renderer-info = false
+
 webgl.enable-webgl2 = false
 
 **Solo si no se usa la extensión Chameleon : **
 
 (privacy.resistFingerprinting = true)
+
 (Mejor poner "false" y falsificar el fingerprint con Chameleon)
 
 Estos deberían ser configurados directamente con Chameleon sí esta instalado :
 
 media.peerconnection.ice.default_address_only = true
+
 media.peerconnection.ice.no_host = true
+
 ((media.peerconnection.enabled = false))
+
 privacy.firstparty.isolate = true
