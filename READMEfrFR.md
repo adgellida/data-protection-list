@@ -314,7 +314,7 @@ Nettoyage et optimisation de système :
 
 🟢[Stacer](https://oguzhaninan.github.io/Stacer-Web)
 
-🟢[ubunsys](https://github.com/adgellida/ubunsys)
+🟢<img src="./icons/vollaos.png" width="30">[ubunsys](https://github.com/adgellida/ubunsys)
 
 🟢[BleachBit](https://www.bleachbit.org)
 
@@ -392,7 +392,7 @@ Le système d’exploitation d’Apple (iOS), malgré son marketing basé sur le
 
 🟢<img src="./icons/grapheneos.png" width="30">[GrapheneOS](https://grapheneos.org) : l’Android dégooglisé le plus confidentiel et sécurisé disponible
 
-🔵<img src="./icons/lineageosmicrog.png" width="30">[LineageOS for microG](https://lineage.microg.org) : LineageOS avec microG pour une meilleure compatibilité
+🔵<img src="./icons/lineageosmicrog.jpg" width="30">[LineageOS for microG](https://lineage.microg.org) : LineageOS avec microG pour une meilleure compatibilité
 
 🔵<img src="./icons/vollaos.png" width="30">[Volla OS](https://volla.online): Android sûr, sans Google Apps mais pas totalement dégooglisé
 

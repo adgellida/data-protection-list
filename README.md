@@ -315,7 +315,7 @@ System cleaning and optimization :
 
 🟢[Stacer](https://oguzhaninan.github.io/Stacer-Web)
 
-🟢[ubunsys](https://github.com/adgellida/ubunsys)
+🟢<img src="./icons/vollaos.png" width="30">[ubunsys](https://github.com/adgellida/ubunsys)
 
 🟢[BleachBit](https://www.bleachbit.org)
 
@@ -391,7 +391,7 @@ Android, in its default configuration, is currently the worst operating system i
 
 🟢<img src="./icons/grapheneos.png" width="30">[GrapheneOS](https://grapheneos.org) : the most private and secure degooglized Android available
 
-🔵<img src="./icons/lineageosmicrog.png" width="30">[LineageOS for microG](https://lineage.microg.org) : LineageOS with microG for better compatibility
+🔵<img src="./icons/lineageosmicrog.jpg" width="30">[LineageOS for microG](https://lineage.microg.org) : LineageOS with microG for better compatibility
 
 🔵<img src="./icons/vollaos.png" width="30">[Volla OS](https://volla.online): Safe Android, without Google apps but not totally degooglized
 
