@@ -111,15 +111,15 @@ Windows is currently the worst operating system in terms of privacy and security
 
 **Desktop :**
 
-🟢[Linux Mint](https://linuxmint.com) : great for beginners
+🟢<img src="./icons/linuxmint.png" width="30">[Linux Mint](https://linuxmint.com) : great for beginners
 
-🟢[MX Linux](https://mxlinux.org) : suits beginners
+🟢<img src="./icons/mxlinux.png" width="30">[MX Linux](https://mxlinux.org) : suits beginners
 
-🟢[Solus](https://getsol.us/home) : suits beginners
+🟢<img src="./icons/solus.png" width="30">[Solus](https://getsol.us/home) : suits beginners
 
-🟢[Parrot Home](https://www.parrotsec.org/download) : improved security and privacy (confirmed users)
+🟢<img src="./icons/parrotos.png" width="30">[Parrot OS](https://www.parrotsec.org/download) : improved security and privacy (confirmed users)
 
-🟢[Qubes OS](https://www.qubes-os.org) : extreme security (advanced users)
+🟢<img src="./icons/qubeos.png" width="30">[Qubes OS](https://www.qubes-os.org) : extreme security (advanced users)
 
 🟢[Whonix](https://www.whonix.org) : anonymity by Tor and extreme security (advanced users)
 

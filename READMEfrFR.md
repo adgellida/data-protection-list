@@ -110,15 +110,15 @@ Il faut savoir que chacune d’entre elles propose une ou plusieurs interfaces (
 
 **Desktop :**
 
-🟢[Linux Mint](https://linuxmint.com) : idéal pour les débutants
+🟢<img src="./icons/linuxmint.png" width="30">[Linux Mint](https://linuxmint.com) : idéal pour les débutants
 
-🟢[MX Linux](https://mxlinux.org) :  convient aux débutants
+🟢<img src="./icons/mxlinux.png" width="30">[MX Linux](https://mxlinux.org) :  convient aux débutants
 
-🟢[Solus](https://getsol.us/home) :  convient aux débutants
+🟢<img src="./icons/solus.png" width="30">[Solus](https://getsol.us/home) :  convient aux débutants
 
-🟢[Parrot Home](https://www.parrotsec.org/download) : sécurité et confidentialité renforcées (utilisateurs confirmés)
+🟢<img src="./icons/parrotos.png" width="30">[Parrot OS](https://www.parrotsec.org/download) : sécurité et confidentialité renforcées (utilisateurs confirmés)
 
-🟢[Qubes OS](https://www.qubes-os.org) : sécurité extrême (utilisateurs avancés)
+🟢<img src="./icons/qubeos.png" width="30">[Qubes OS](https://www.qubes-os.org) : sécurité extrême (utilisateurs avancés)
 
 🟢[Whonix](https://www.whonix.org) : anonymat par Tor et sécurité extrême (utilisateurs avancés)
 

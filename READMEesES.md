@@ -115,15 +115,15 @@ Cabe recordar que cada una de ellas propone una o varias interfaces (entornos de
 
 **Desktop :**
 
-🟢[Linux Mint](https://linuxmint.com) : ideal para principiantes
+🟢<img src="./icons/linuxmint.png" width="30">[Linux Mint](https://linuxmint.com) : ideal para principiantes
 
-🟢[MX Linux](https://mxlinux.org) : conviene a los principiantes
+🟢<img src="./icons/mxlinux.png" width="30">[MX Linux](https://mxlinux.org) : conviene a los principiantes
 
-🟢[Solus](https://getsol.us/home) : conviene a los principiantes
+🟢<img src="./icons/solus.png" width="30">(https://getsol.us/home) : conviene a los principiantes
 
-🟢[Parrot Home](https://www.parrotsec.org/download) : seguridad y privacidad mejoradas (usuarios confirmados)
+🟢<img src="./icons/parrotos.png" width="30">[Parrot OS](https://www.parrotsec.org/download) : seguridad y privacidad mejoradas (usuarios confirmados)
 
-🟢[Qubes OS](https://www.qubes-os.org) : seguridad extrema (usuarios avanzados)
+🟢<img src="./icons/qubeos.png" width="30">[Qubes OS](https://www.qubes-os.org) : seguridad extrema (usuarios avanzados)
 
 🟢[Whonix](https://www.whonix.org) : anonimato por Tor y seguridad extrema (usuarios avanzados)
 
