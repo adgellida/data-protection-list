@@ -15,7 +15,7 @@ Manual of resistance to capitalism of vigilance
 
 * [0 Comments about fork](#0-comments-about-fork)
 * [1 Introduction](#1-introduction)
-* [2 Gold rules](#2-gold-rules)
+* [2 Golden rules](#2-golden-rules)
 * [3 Computer](#3-computer)
 * [3-1 Operating Systems](#3-1-operating-systems)
 * [3-2 Services and programs](#3-2-services-and-programs)
@@ -86,7 +86,7 @@ I hope this document will help you improve the protection of your data personal 
 Any suggestion or comment is then more than welcome to the email: "Privacyfirst@ik.me". Several months after the present version of the document, you must assume that certain information given will be obsolete. The document being
 frequently updated, you are invited to get the latest version on the following website: “https://codeberg.org/PrivacyFirst/PrivacyFirst/issues”.
 
-## 2 Gold rules
+## 2 Golden rules
 
 * Avoid using GAFAM services and programs (Google, Amazon, Facebook, Apple and Microsoft) WHENEVER possible. It is best to remove your eventual accounts.
 * Always review all the settings and authorizations of what is used and optimize them to limit the collection of personal data as much as possible.
@@ -117,7 +117,7 @@ Windows is currently the worst operating system in terms of privacy and security
 
 🟢<img src="./icons/solus.png" width="30">[Solus](https://getsol.us/home) : suits beginners
 
-🟢<img src="./icons/parrotos.png" width="30">[Parrot OS](https://www.parrotsec.org/download) : improved security and privacy (confirmed users)
+🟢<img src="./icons/parrotos.png" width="30">[Parrot Home OS](https://www.parrotsec.org) : improved security and privacy (confirmed users)
 
 🟢<img src="./icons/qubeos.png" width="30">[Qubes OS](https://www.qubes-os.org) : extreme security (advanced users)
 
@@ -129,7 +129,7 @@ Windows is currently the worst operating system in terms of privacy and security
 
 🟢<img src="./icons/tails.png" width="30">[Tails](https://tails.boum.org) : anonymity by Tor (confirmed users)
 
-🟢[Parrot Home](https://www.parrotsec.org/download) : improved security and privacy (confirmed users)
+🟢<img src="./icons/parrotos.png" width="30">[Parrot Home OS](https://www.parrotsec.org) : improved security and privacy (confirmed users)
 
 **Raspberry Pi :**
 
@@ -462,11 +462,11 @@ Instant messaging :
 
 🔵[Element](https://app.element.io)
 
-🟢[Briar](https://briarproject.org)
+🟢<img src="./icons/briar.png" width="30">[Briar](https://briarproject.org)
 
 🟢[Conversations](https://conversations.im)
 
-⚫[Session*](https://getsession.org)
+⚫<img src="./icons/session.png" width="30">[Session*](https://getsession.org)
 
 Video calls/video conferencing :
 

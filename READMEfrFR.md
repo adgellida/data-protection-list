@@ -116,7 +116,7 @@ Il faut savoir que chacune d’entre elles propose une ou plusieurs interfaces (
 
 🟢<img src="./icons/solus.png" width="30">[Solus](https://getsol.us/home) :  convient aux débutants
 
-🟢<img src="./icons/parrotos.png" width="30">[Parrot OS](https://www.parrotsec.org/download) : sécurité et confidentialité renforcées (utilisateurs confirmés)
+🟢<img src="./icons/parrotos.png" width="30">[Parrot Home OS](https://www.parrotsec.org) : sécurité et confidentialité renforcées (utilisateurs confirmés)
 
 🟢<img src="./icons/qubeos.png" width="30">[Qubes OS](https://www.qubes-os.org) : sécurité extrême (utilisateurs avancés)
 
@@ -128,7 +128,7 @@ Il faut savoir que chacune d’entre elles propose une ou plusieurs interfaces (
 
 🟢<img src="./icons/tails.png" width="30">[Tails](https://tails.boum.org) : anonymat par Tor (utilisateurs confirmés)
 
-🟢[Parrot Home](https://www.parrotsec.org/download) : sécurité et confidentialité renforcées (utilisateurs confirmés)
+🟢<img src="./icons/parrotos.png" width="30">[Parrot Home OS](https://www.parrotsec.org) : sécurité et confidentialité renforcées (utilisateurs confirmés)
 
 **Raspberry Pi :**
 
@@ -463,11 +463,11 @@ Messagerie instantanée :
 
 🔵[Element](https://app.element.io)
 
-🟢[Briar](https://briarproject.org)
+🟢<img src="./icons/briar.png" width="30">[Briar](https://briarproject.org)
 
 🟢[Conversations](https://conversations.im)
 
-⚫[Session*](https://getsession.org)
+⚫<img src="./icons/session.png" width="30">[Session*](https://getsession.org)
 
 Appels vidéo/visioconférence :
 
