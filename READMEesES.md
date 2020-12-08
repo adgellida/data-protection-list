@@ -462,7 +462,7 @@ Mensajería instantánea :
 
 🟢[Signal](https://signal.org)
 
-🔵[Telegram](https://telegram.org)
+🔵<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
 
 🔵[Element](https://app.element.io)
 
@@ -482,7 +482,7 @@ Videollamadas/videoconferencia :
 
 🟢[Jami](https://jami.net)
 
-🔵[Telegram](https://telegram.org)
+🔵<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
 
 Plataforma vídeo :
 
@@ -674,7 +674,7 @@ Navegador :
 
 🟢[Onion Browser](https://apps.apple.com/us/app/onion-browser/id519296448)
 
-🔵[Firefox](https://apps.apple.com/us/app/navegador-firefox/id989804926)
+🔵<img src="./icons/firefox.png" width="30">[Firefox](https://apps.apple.com/us/app/navegador-firefox/id989804926)
 
 🔵[DuckDuckGo Browser](https://apps.apple.com/us/app/duckduckgo-privacy-browser/id663592361)
 

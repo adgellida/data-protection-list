@@ -459,7 +459,7 @@ Instant messaging :
 
 🟢[Signal](https://signal.org)
 
-🔵[Telegram](https://telegram.org)
+🔵<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
 
 🔵[Element](https://app.element.io)
 
@@ -479,7 +479,7 @@ Video calls/video conferencing :
 
 🟢[Jami](https://jami.net)
 
-🔵[Telegram](https://telegram.org)
+🔵<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
 
 Video platform :
 
