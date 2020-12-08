@@ -681,7 +681,7 @@ Messagerie instantanée :
 
 🟢[Signal](https://apps.apple.com/us/app/signal-mensajer%C3%ADa-privada/id874139669)
 
-🔵[Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
+🔵<img src="./icons/telegram.png" width="30">[Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
 
 🔵[Element](https://app.element.io)
 
@@ -697,7 +697,7 @@ Appels vidéo/visioconférence :
 
 🟢[Jami](https://apps.apple.com/us/app/jami/id1306951055)
 
-🔵[Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
+🔵<img src="./icons/telegram.png" width="30">[Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
 
 Bloqueur de publicité/pisteurs :
 
