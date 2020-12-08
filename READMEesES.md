@@ -39,7 +39,7 @@ Manual de resistencia al capitalismo de vigilancia
 
 ## 0 Comentarios del fork
 
-Me he visto en la necesidad de forkear este documento de Valentin Delacour hospedado [aquí](https://codeberg.org/PrivacyFirst/PrivacyFirst/issues) bajo su aprobación y licencia para darle más visibilidad, legibilidad, comodidad, mejora en algunos aspectos y participación. Si alguien forkea alguno de los 2 debe hacer lo mismo.
+Me he visto en la necesidad de forkear este documento de **Valentin Delacour** hospedado [aquí](https://codeberg.org/PrivacyFirst/PrivacyFirst/issues) bajo su aprobación y licencia para darle más visibilidad, legibilidad, comodidad, mejora en algunos aspectos y participación. Si alguien forkea alguno de los 2 debe hacer lo mismo.
 
 Pienso que debemos compartir cuánto más mejor y los conocimientos sobre las buenas prácticas a seguir referente a la seguridad, privacidad y open source que se detallan no son una excepción.
 
@@ -389,17 +389,17 @@ Android, en su configuración por defecto, es actualmente el peor sistema operat
 
 **Android modificado para la privacidad :**
 
-🟢[CalyxOS](https://calyxos.org) : Android degooglizado y seguro con microG para una mejor compatibilidad
+🟢<img src="./icons/calyxos.jpg" width="30">[CalyxOS](https://calyxos.org) : Android degooglizado y seguro con microG para una mejor compatibilidad
 
-🟢[/e/ OS](https://e.foundation) : LineageOS degooglizado pero con microG y servicios integrados (cuenta /e/)
+🟢<img src="./icons/e.png" width="30">[/e/ OS](https://e.foundation) : LineageOS degooglizado pero con microG y servicios integrados (cuenta /e/)
 
-🟢[GrapheneOS](https://grapheneos.org) : el Android degooglizado más privado y seguro disponible
+🟢<img src="./icons/grapheneos.png" width="30">[GrapheneOS](https://grapheneos.org) : el Android degooglizado más privado y seguro disponible
 
 🔵[LineageOS for microG](https://lineage.microg.org) : LineageOS con microG para una mejor compatibilidad
 
-🔵[Volla OS](https://volla.online): Android seguro, sin Google apps pero no totalmente degooglizado
+🔵<img src="./icons/vollaos.png" width="30">[Volla OS](https://volla.online): Android seguro, sin Google apps pero no totalmente degooglizado
 
-🔵[LineageOS](https://lineageos.org) : Android sin Google apps pero no totalmente degooglizado
+🔵<img src="./icons/lineageos.png" width="30">[LineageOS](https://lineageos.org) : Android sin Google apps pero no totalmente degooglizado
 
 **Linux :**
 

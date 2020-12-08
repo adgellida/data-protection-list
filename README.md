@@ -39,7 +39,7 @@ Manual of resistance to capitalism of vigilance
 
 ## 0 Comments about fork
 
-I have seen the need to fork this document of Valentin Delacour hosted [here](https://codeberg.org/PrivacyFirst/PrivacyFirst/issues) under his approval and license to give it more visibility, readability, comfort, improvement in some aspects and participation. If someone forks any of the 2 they should do the same.
+I have seen the need to fork this document of **Valentin Delacour** hosted [here](https://codeberg.org/PrivacyFirst/PrivacyFirst/issues) under his approval and license to give it more visibility, readability, comfort, improvement in some aspects and participation. If someone forks any of the 2 they should do the same.
 
 I think that we should share how much more the better and the knowledge about good practices to follow regarding security, privacy and open source that are detailed are no exception.
 
@@ -85,7 +85,6 @@ form an estimate, or a prioritization is not relevant for entry into question). 
 I hope this document will help you improve the protection of your data personal and those of her close ones. Although being the fruit of several years of searches and experiments, this work obviously remains perfectible.
 Any suggestion or comment is then more than welcome to the email: "Privacyfirst@ik.me". Several months after the present version of the document, you must assume that certain information given will be obsolete. The document being
 frequently updated, you are invited to get the latest version on the following website: “https://codeberg.org/PrivacyFirst/PrivacyFirst/issues”.
-
 
 ## 2 Gold rules
 
@@ -386,17 +385,17 @@ Android, in its default configuration, is currently the worst operating system i
 
 **Android modified for privacy :**
 
-🟢[CalyxOS](https://calyxos.org) : Android degooglized and secure with microG for better compatibility
+🟢<img src="./icons/calyxos.jpg" width="30">[CalyxOS](https://calyxos.org) : Android degooglized and secure with microG for better compatibility
 
-🟢[/e/ OS](https://e.foundation) : Degooglized LineageOS but with microG and integrated services (/ e / account)
+🟢<img src="./icons/e.png" width="30">[/e/ OS](https://e.foundation) : Degooglized LineageOS but with microG and integrated services (/ e / account)
 
-🟢[GrapheneOS](https://grapheneos.org) : the most private and secure degooglized Android available
+🟢<img src="./icons/grapheneos.png" width="30">[GrapheneOS](https://grapheneos.org) : the most private and secure degooglized Android available
 
 🔵[LineageOS for microG](https://lineage.microg.org) : LineageOS with microG for better compatibility
 
-🔵[Volla OS](https://volla.online): Safe Android, without Google apps but not totally degooglized
+🔵<img src="./icons/vollaos.png" width="30">[Volla OS](https://volla.online): Safe Android, without Google apps but not totally degooglized
 
-🔵[LineageOS](https://lineageos.org) : Android without Google apps but not totally degooglized
+🔵<img src="./icons/lineageos.png" width="30">[LineageOS](https://lineageos.org) : Android without Google apps but not totally degooglized
 
 **Linux :**
 
