@@ -120,13 +120,13 @@ Il faut savoir que chacune d’entre elles propose une ou plusieurs interfaces (
 
 🟢<img src="./icons/qubeos.png" width="30">[Qubes OS](https://www.qubes-os.org) : sécurité extrême (utilisateurs avancés)
 
-🟢[Whonix](https://www.whonix.org) : anonymat par Tor et sécurité extrême (utilisateurs avancés)
+🟢<img src="./icons/whonix.png" width="30">[Whonix](https://www.whonix.org) : anonymat par Tor et sécurité extrême (utilisateurs avancés)
 
 **USB live (RAM) :**
 
-🟢[MX Linux](https://mxlinux.org) : convient aux débutants
+🟢<img src="./icons/mxlinux.png" width="30">[MX Linux](https://mxlinux.org) :  convient aux débutants
 
-🟢[Tails](https://tails.boum.org) : anonymat par Tor (utilisateurs confirmés)
+🟢<img src="./icons/tails.png" width="30">[Tails](https://tails.boum.org) : anonymat par Tor (utilisateurs confirmés)
 
 🟢[Parrot Home](https://www.parrotsec.org/download) : sécurité et confidentialité renforcées (utilisateurs confirmés)
 
@@ -400,17 +400,17 @@ Le système d’exploitation d’Apple (iOS), malgré son marketing basé sur le
 
 **Linux :**
 
-🟢[UBports](https://ubports.com)
+🟢<img src="./icons/ubports.png" width="30">[UBports](https://ubports.com)
 
-🟢[Postmarket OS*](https://ubports.com)
+🟢<img src="./icons/postmarketos.png" width="30">[Postmarket OS*](https://postmarketos.org)
 
-🟢[PureOS*](https://pureos.net)
+🟢<img src="./icons/pureos.png" width="30">[PureOS*](https://pureos.net)
 
-🟢[Manjaro*](https://manjaro.org)
+🟢<img src="./icons/manjaro.png" width="30">[Manjaro*](https://manjaro.org)
 
-🟢[Mobian*](https://mobian-project.org)
+🟢<img src="./icons/mobian.png" width="30">[Mobian*](https://mobian-project.org)
 
-🔵[Sailfish OS Jolla](https://jolla.com)
+🔵<img src="./icons/sailfishos.png" width="30">[Sailfish OS Jolla](https://jolla.com)
 
 Les options basées sur Linux, dans leur état de développement actuel, ne sont pas encore recommandables pour des utilisateurs moyens (à l’exception de Sailfish OS).
 

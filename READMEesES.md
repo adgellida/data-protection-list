@@ -125,13 +125,13 @@ Cabe recordar que cada una de ellas propone una o varias interfaces (entornos de
 
 🟢<img src="./icons/qubeos.png" width="30">[Qubes OS](https://www.qubes-os.org) : seguridad extrema (usuarios avanzados)
 
-🟢[Whonix](https://www.whonix.org) : anonimato por Tor y seguridad extrema (usuarios avanzados)
+🟢<img src="./icons/whonix.png" width="30">[Whonix](https://www.whonix.org) : anonimato por Tor y seguridad extrema (usuarios avanzados)
 
 **USB live (RAM) :**
 
-🟢[MX Linux](https://mxlinux.org) : conviene a los principiantes
+🟢<img src="./icons/mxlinux.png" width="30">[MX Linux](https://mxlinux.org) : conviene a los principiantes
 
-🟢[Tails](https://tails.boum.org) : anonimato por Tor (usuarios confirmados)
+🟢<img src="./icons/tails.png" width="30">[Tails](https://tails.boum.org) : anonimato por Tor (usuarios confirmados)
 
 🟢[Parrot Home](https://www.parrotsec.org/download) : seguridad y privacidad mejoradas (usuarios confirmados)
 
@@ -403,17 +403,17 @@ Android, en su configuración por defecto, es actualmente el peor sistema operat
 
 **Linux :**
 
-🟢[UBports](https://ubports.com)
+🟢<img src="./icons/ubports.png" width="30">[UBports](https://ubports.com)
 
-🟢[Postmarket OS*](https://ubports.com)
+🟢<img src="./icons/postmarketos.png" width="30">[Postmarket OS*](https://postmarketos.org)
 
-🟢[PureOS*](https://pureos.net)
+🟢<img src="./icons/pureos.png" width="30">[PureOS*](https://pureos.net)
 
-🟢[Manjaro*](https://manjaro.org)
+🟢<img src="./icons/manjaro.png" width="30">[Manjaro*](https://manjaro.org)
 
-🟢[Mobian*](https://mobian-project.org)
+🟢<img src="./icons/mobian.png" width="30">[Mobian*](https://mobian-project.org)
 
-🔵[Sailfish OS Jolla](https://jolla.com)
+🔵<img src="./icons/sailfishos.png" width="30">[Sailfish OS Jolla](https://jolla.com)
 
 Las opciones basadas en Linux, en su estado de desarrollo actual, todavía no son recomendables para usuarios promedios (a excepción de Sailfish OS).
 

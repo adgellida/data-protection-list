@@ -121,13 +121,13 @@ Windows is currently the worst operating system in terms of privacy and security
 
 🟢<img src="./icons/qubeos.png" width="30">[Qubes OS](https://www.qubes-os.org) : extreme security (advanced users)
 
-🟢[Whonix](https://www.whonix.org) : anonymity by Tor and extreme security (advanced users)
+🟢<img src="./icons/whonix.png" width="30">[Whonix](https://www.whonix.org) : anonymity by Tor and extreme security (advanced users)
 
 **USB live (RAM) :**
 
-🟢[MX Linux](https://mxlinux.org) : suits beginners
+🟢<img src="./icons/mxlinux.png" width="30">[MX Linux](https://mxlinux.org) : suits beginners
 
-🟢[Tails](https://tails.boum.org) : anonymity by Tor (confirmed users)
+🟢<img src="./icons/tails.png" width="30">[Tails](https://tails.boum.org) : anonymity by Tor (confirmed users)
 
 🟢[Parrot Home](https://www.parrotsec.org/download) : improved security and privacy (confirmed users)
 
@@ -399,17 +399,17 @@ Android, in its default configuration, is currently the worst operating system i
 
 **Linux :**
 
-🟢[UBports](https://ubports.com)
+🟢<img src="./icons/ubports.png" width="30">[UBports](https://ubports.com)
 
-🟢[Postmarket OS*](https://ubports.com)
+🟢<img src="./icons/postmarketos.png" width="30">[Postmarket OS*](https://postmarketos.org)
 
-🟢[PureOS*](https://pureos.net)
+🟢<img src="./icons/pureos.png" width="30">[PureOS*](https://pureos.net)
 
-🟢[Manjaro*](https://manjaro.org)
+🟢<img src="./icons/manjaro.png" width="30">[Manjaro*](https://manjaro.org)
 
-🟢[Mobian*](https://mobian-project.org)
+🟢<img src="./icons/mobian.png" width="30">[Mobian*](https://mobian-project.org)
 
-🔵[Sailfish OS Jolla](https://jolla.com)
+🔵<img src="./icons/sailfishos.png" width="30">[Sailfish OS Jolla](https://jolla.com)
 
 Linux-based options, in their current state of development, are not yet recommended for average users (except Sailfish OS).
 
