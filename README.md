@@ -22,16 +22,16 @@ Manual of resistance to capitalism of vigilance
 * [4 Smartphone](#4-smartphone)
 * [4-1 Operating Systems](#4-1-operating-systems)
 * [4-2 Preinstalled hardware](#4-2-preinstalled-hardware)
-* [4-3 Aplications](#4-3-aplications)
+* [4-3 Applications](#4-3-applications)
 * [5 Browsers](#5-browsers)
 * [5-1 Firefox](#5-1-firefox)
 * [5-2 Tor Browser](#5-2-tor-browser)
 * [6 Service instances](#6-service-instances)
 * [6-1 Searx](#6-1-searx)
 * [6-2 Invidious](#6-2-invidious)
-* [6-3 Video calls/video conferencing](#6-3-video-calls/video-conferencing)
+* [6-3 Videoconference](#6-3-videoconference)
 * [6-4 DNS](#6-4-dns)
-* [7 Recursos adicionales y fuentes](#7-additional-resources-and-sources)
+* [7 Additional resources and sources](#7-additional-resources-and-sources)
 * [8 Configurations](#8-configurations)
 * [8-1 Computer](#8-1-computer)
 * [8-2 Smartphone](#8-2-smartphone)
@@ -427,7 +427,7 @@ Other models with /e/ OS pre-installed are available at the /e/ project site:
 
 https://esolutions.shop/
 
-### 4-3 Aplications
+### 4-3 Applications
 
 The proposed applications for Android and derivatives must be searched first in the free F-Droid application store (guarantee that they do not have third-party trackers) and only if they are not, in the Aurora Store. These stores must be downloaded directly from their respective official web pages.
 
