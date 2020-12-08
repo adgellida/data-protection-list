@@ -1,13 +1,13 @@
-﻿<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/images/privacy-first.png" width="80"> data-protection-list
+﻿<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/privacy-first.png" width="80"> data-protection-list
 =============================================
 
 Manual de resistencia al capitalismo de vigilancia
 
 # Idiomas
 
-<a href="https://github.com/adgellida/data-protection-list/README.md" ><img src="https://github.com/adgellida/data-protection-list/images/languages/united-kingdom.png" width="60"</a>
-<a href="https://github.com/adgellida/data-protection-list/READMEesES.md" ><img src="https://github.com/adgellida/data-protection-list/images/languages/spain.png" width="60"</a>
-<a href="https://github.com/adgellida/data-protection-list/READMEfrFR.md" ><img src="https://github.com/adgellida/data-protection-list/images/languages/france.png" width="60"</a>
+<a href="https://github.com/adgellida/data-protection-list/README.md" ><img src="https://github.com/adgellida/data-protection-list/main/images/languages/united-kingdom.png" width="60"</a>
+<a href="https://github.com/adgellida/data-protection-list/READMEesES.md" ><img src="https://github.com/adgellida/data-protection-list/main/images/languages/spain.png" width="60"</a>
+<a href="https://github.com/adgellida/data-protection-list/READMEfrFR.md" ><img src="https://github.com/adgellida/data-protection-list/main/images/languages/france.png" width="60"</a>
 
 # Índice
 
