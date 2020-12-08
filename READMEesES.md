@@ -207,7 +207,7 @@ Mensajería instantánea :
 
 🟢[Signal](https://signal.org)
 
-🔵[Telegram](https://telegram.org)
+🔵<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
 
 🔵[Element](https://app.element.io)
 
@@ -225,7 +225,7 @@ Videollamadas/videoconferencia :
 
 🔵[Element](https://app.element.io)
 
-🔵[Telegram*](https://telegram.org)
+🔵<img src="./icons/telegram.png" width="30">[Telegram*](https://telegram.org)
 
 Red social :
 

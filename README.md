@@ -204,7 +204,7 @@ Instant messaging :
 
 🟢[Signal](https://signal.org)
 
-🔵<img src="./icons/telegram.png" width="30" >[Telegram](https://telegram.org)
+🔵<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
 
 🔵[Element](https://app.element.io)
 
@@ -222,7 +222,7 @@ Video calls/video conferencing :
 
 🔵[Element](https://app.element.io)
 
-🔵<img src="./icons/telegram.png" width="30" >[Telegram*](https://telegram.org)
+🔵<img src="./icons/telegram.png" width="30">[Telegram*](https://telegram.org)
 
 Social network :
 
