@@ -23,7 +23,7 @@ Manual of resistance to capitalism of vigilance
 * [4-1 Operating Systems](#4-1-operating-systems)
 * [4-2 Preinstalled hardware](#4-2-preinstalled-hardware)
 * [4-3 Aplications](#4-3-aplications)
-* [5-Browsers](#5-browsers)
+* [5 Browsers](#5-browsers)
 * [5-1 Firefox](#5-1-firefox)
 * [5-2 Tor Browser](#5-2-tor-browser)
 * [6 Service instances](#6-service-instances)
