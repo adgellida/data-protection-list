@@ -79,7 +79,7 @@ This list is intended for all persons aware or aware of the importance of data p
 
 The list format was chosen in order to make your query as efficient as possible possible. This approach precludes detailing true explanations. So I invite you to look for the ones they need on their own or in additional resources mentioned in point 6 of the document. With the purpose of proposing the more reputable and practical options without being too stuffy, the list does not have to vocation to be exhaustive and remains subjective despite seeking to have the greatest possible objectivity.
 
-This list proposes a first prioritization (order of appearance and presence or not of parentheses) subjective based on the privacy / usability report in order to help them choose between the different options mentioned. A second prioritization (colors) is based solely on estimated privacy: green (true respect for privacy), blue (respect for privacy under conditions or presence of a problematic item), red (does not guarantee privacy but still being preferable to the GAFAM options) and colorless (lack of elements to
+This list proposes a first prioritization (order of appearance and presence or not of parentheses) subjective based on the privacy/usability report in order to help them choose between the different options mentioned. A second prioritization (colors) is based solely on estimated privacy: green (true respect for privacy), blue (respect for privacy under conditions or presence of a problematic item), red (does not guarantee privacy but still being preferable to the GAFAM options) and colorless (lack of elements to
 form an estimate, or a prioritization is not relevant for entry into question). The presence of an asterisk indicates that the mentioned option is still in development phase.
 
 I hope this document will help you improve the protection of your data personal and those of her close ones. Although being the fruit of several years of searches and experiments, this work obviously remains perfectible.
@@ -90,16 +90,16 @@ frequently updated, you are invited to get the latest version on the following w
 
 * Avoid using GAFAM services and programs (Google, Amazon, Facebook, Apple and Microsoft) WHENEVER possible. It is best to remove your eventual accounts.
 * Always review all the settings and authorizations of what is used and optimize them to limit the collection of personal data as much as possible.
-* Only install the necessary programs / applications as they are potential accesses to your personal data.
-* Use free / open source programs (their codes are public and also verifiable) instead of proprietary / closed source whenever possible.
-* Favor the popular free options over the unknown ones (they will be more reviewed / reliable).
+* Only install the necessary programs/applications as they are potential accesses to your personal data.
+* Use free/open source programs (their codes are public and also verifiable) instead of proprietary/closed source whenever possible.
+* Favor the popular free options over the unknown ones (they will be more reviewed/reliable).
 * If a company offers its services for free, in general, the product it sells is you (your personal data). Due to the model imposed by the surveillance capitalism, pay now or protect them from also being the product.
-* Update your programs / operating systems frequently to benefit from the latest fixes for exploitable security flaws and think about replacing the ones that no longer seem to be up to date.
+* Update your programs/operating systems frequently to benefit from the latest fixes for exploitable security flaws and think about replacing the ones that no longer seem to be up to date.
 * Do not use third-party antivirus, they are true vacuum cleaners of personal data. Their contribution is negligible as long as good numerical habits are maintained.
 Prudence and a good configuration are the best antivirus.
 * Privilege Web Apps or shortcuts from the browser to access services instead of applications to install to limit access and the possibilities of collecting
 personal information.
-* Use temporary emails to create accounts for unimportant sites / services.
+* Use temporary emails to create accounts for unimportant sites/services.
 * Always disable Wi-Fi, Bluetooth, and geolocation on your smartphone when not in use and don't connect to public Wi-Fi without using a VPN.
 * Do not use connected objects (their purpose is to collect as much personal data as possible) or not connect them to the internet when they are essential.
 
@@ -387,7 +387,7 @@ Android, in its default configuration, is currently the worst operating system i
 
 🟢<img src="./icons/calyxos.jpg" width="30">[CalyxOS](https://calyxos.org) : Android degooglized and secure with microG for better compatibility
 
-🟢<img src="./icons/e.png" width="30">[/e/ OS](https://e.foundation) : Degooglized LineageOS but with microG and integrated services (/ e / account)
+🟢<img src="./icons/e.png" width="30">[/e/ OS](https://e.foundation) : Degooglized LineageOS but with microG and integrated services (/e/ account)
 
 🟢<img src="./icons/grapheneos.png" width="30">[GrapheneOS](https://grapheneos.org) : the most private and secure degooglized Android available
 
@@ -423,7 +423,7 @@ Linux-based options, in their current state of development, are not yet recommen
 
 [Librem 5](https://puri.sm/products/librem-5) : PureOS and other Linux-based OS
 
-Other models with / e / OS pre-installed are available at the / e / project site:
+Other models with /e/ OS pre-installed are available at the /e/ project site:
 
 https://esolutions.shop/
 
@@ -1205,7 +1205,7 @@ privacy.spoof_english = 2
 
 privacy.trackingprotection.socialtracking.enabled = true
 
-report (reporter / reporting) = false for all items + delete addresses
+report (reporter/reporting) = false for all items + delete addresses
 
 safebrowsing = false for all items + clear addresses and identifiers
 
