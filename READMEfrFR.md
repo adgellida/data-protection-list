@@ -370,7 +370,7 @@ Programmes/jeux Windows sous Linux :
 
 ⚫<img src="./icons/wine.png" width="30">[Wine](https://www.winehq.org)
 
-⚫<img src="./icons/winapps.png" width="30">[WinApps*](https://github.com/Fmstrat/winapps)
+⚫<img src="./icons/winapps.svg" width="30">[WinApps*](https://github.com/Fmstrat/winapps)
 
 ## 4 Smartphone
 
