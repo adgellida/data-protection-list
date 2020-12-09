@@ -289,7 +289,7 @@ VPN :
 
 Cloud :
 
-🟢<img src="./icons/disroot.png" width="30">[Disroot](https://cloud.disroot.org) (Nextcloud)
+🟢<img src="./icons/disroot.jpg" width="30">[Disroot](https://cloud.disroot.org) (Nextcloud)
 
 🟢<img src="./icons/cozycloud.jpg" width="30">[Cozy Cloud](https://cozy.io)
 
