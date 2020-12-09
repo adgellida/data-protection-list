@@ -158,7 +158,7 @@ Moteur de recherche :
 
 🔵<img src="./icons/swisscows.png" width="30">[Swisscows](https://swisscows.com)
 
-🔵<img src="./icons/searx.png" width="30">[searx.me](https://searx.me)
+🔵<img src="./icons/searxme.png" width="30">[searx.me](https://searx.me)
 
 🔴<img src="./icons/startpage.png" width="30">[Startpage](https://www.startpage.com) (proxy Google)
 
