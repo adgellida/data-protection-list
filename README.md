@@ -149,229 +149,229 @@ Browser :
 
 🟢<img src="./icons/librewolf.png" width="30">[LibreWolf*](https://librewolf-community.gitlab.io)
 
-🔵[Iridium Browser](https://iridiumbrowser.de)
+🔵<img src="./icons/iridiumbrowser.png" width="30">[Iridium Browser](https://iridiumbrowser.de)
 
-🔴[Brave](https://brave.com)
+🔴<img src="./icons/brave.png" width="30">[Brave](https://brave.com)
 
-Seeker :
+Search engine :
 
-🔵[Qwant](https://www.qwant.com)
+🔵<img src="./icons/qwant.png" width="30">[Qwant](https://www.qwant.com)
 
-🔵[Swisscows](https://swisscows.com)
+🔵<img src="./icons/swisscows.png" width="30">[Swisscows](https://swisscows.com)
 
-🔵[searx.me](https://searx.me)
+🔵<img src="./icons/searx.png" width="30">[searx.me](https://searx.me)
 
-🔴[Startpage](https://www.startpage.com) (proxy Google)
+🔴<img src="./icons/startpage.png" width="30">[Startpage](https://www.startpage.com) (proxy Google)
 
-🔴[DuckDuckGo](https://duckduckgo.com)
+🔴<img src="./icons/duckduckgo.png" width="30">[DuckDuckGo](https://duckduckgo.com)
 
 Office automation :
 
-🟢[LibreOffice](https://www.libreoffice.org)
+🟢<img src="./icons/libreoffice.png" width="30">[LibreOffice](https://www.libreoffice.org)
 
-🟢[CryptPad](https://cryptpad.fr)
+🟢<img src="./icons/cryptpad.png" width="30">[CryptPad](https://cryptpad.fr)
 
-⚫[Onlyoffice](https://www.onlyoffice.com)
+⚫<img src="./icons/onlyoffice.png" width="30">[Onlyoffice](https://www.onlyoffice.com)
 
 Mail :
 
-🔵[Tutanota](https://tutanota.com)
+🔵<img src="./icons/tutanota.png" width="30">[Tutanota](https://tutanota.com)
 
-🔵[Protonmail](https://protonmail.com)
+🔵<img src="./icons/protonmail.png" width="30">[Protonmail](https://protonmail.com)
 
-🔵[CTemplar](https://ctemplar.com)
+🔵<img src="./icons/ctemplar.png" width="30">[CTemplar](https://ctemplar.com)
 
-🔵[Posteo](https://posteo.de)
+🔵<img src="./icons/posteo.png" width="30">[Posteo](https://posteo.de)
 
 Video platform :
 
-🔵[Invidious](https://invidio.us) (proxy Youtube)
+🔵<img src="./icons/invidio.png" width="30">[Invidious](https://invidio.us) (proxy Youtube)
 
-🔵[CloudTube](https://cadence.moe/cloudtube/subscriptions) (proxy Youtube)
+🔵<img src="./icons/cloudtube.png" width="30">[CloudTube](https://cadence.moe/cloudtube/subscriptions) (proxy Youtube)
 
-🔵[FreeTube](https://freetubeapp.io) (cliente Youtube/Invidious)
+🔵<img src="./icons/freetubeapp.png" width="30">[FreeTube](https://freetubeapp.io) (cliente Youtube/Invidious)
 
-🟢[PeerTube](https://joinpeertube.org)
+🟢<img src="./icons/joinpeertube.png" width="30">[PeerTube](https://joinpeertube.org)
 
-🔵[LBRY](https://lbry.com)
+🔵<img src="./icons/lbry.png" width="30">[LBRY](https://lbry.com)
 
 Instant messaging :
 
-🟢[Signal](https://signal.org)
+🟢<img src="./icons/signal.png" width="30">[Signal](https://signal.org)
 
 🔵<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
 
-🔵[Element](https://app.element.io)
+🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
-⚫[Session*](https://getsession.org)
+⚫<img src="./icons/session.png" width="30">[Session*](https://getsession.org)
 
 Video calls/video conferencing :
 
-🟢[Jitsi Meet](https://meet.jit.si)
+🟢<img src="./icons/jitsimeet.png" width="30">[Jitsi Meet](https://meet.jit.si)
 
-🟢[Signal](https://signal.org)
+🟢<img src="./icons/signal.png" width="30">[Signal](https://signal.org)
 
-🔵[BigBlueButton](https://bigbluebutton.org)
+🔵<img src="./icons/bigbluebutton.png" width="30">[BigBlueButton](https://bigbluebutton.org)
 
-🟢[Jami](https://jami.net)
+🟢<img src="./icons/jami.png" width="30">[Jami](https://jami.net)
 
-🔵[Element](https://app.element.io)
+🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
 🔵<img src="./icons/telegram.png" width="30">[Telegram*](https://telegram.org)
 
 Social network :
 
-🟢[Mastodon](https://mastodon.social)
+🟢<img src="./icons/mastodon.png" width="30">[Mastodon](https://mastodon.social)
 
-🟢[Friendica](https://friendi.ca)
+🟢<img src="./icons/friendi.png" width="30">[Friendica](https://friendi.ca)
 
-🟢[Diaspora](https://diasporafoundation.org)
+🟢<img src="./icons/diasporafoundation.png" width="30">[Diaspora](https://diasporafoundation.org)
 
-🟢[PixelFed](https://pixelfed.org)
+🟢<img src="./icons/pixelfed.png" width="30">[PixelFed](https://pixelfed.org)
 
-🔵[Nitter](https://nitter.net) (proxy Twitter)
+🔵<img src="./icons/nitter.png" width="30">[Nitter](https://nitter.net) (proxy Twitter)
 
-🔵[Bibliogram](https://bibliogram.art) (proxy Instagram)
+🔵<img src="./icons/bibliogram.png" width="30">[Bibliogram](https://bibliogram.art) (proxy Instagram)
 
 Translator :
 
-🟢[Apertium](https://www.apertium.org)
+🟢<img src="./icons/apertium.png" width="30">[Apertium](https://www.apertium.org)
 
-🔴[DeepL](https://www.deepl.com/translator)
+🔴<img src="./icons/deepl.png" width="30">[DeepL](https://www.deepl.com/translator)
 
-🟢[Bergamot Project*](https://browser.mt)
+🟢<img src="./icons/bergamoutproject.png" width="30">[Bergamot Project*](https://browser.mt)
 
 Maps :
 
-🟢[OpenStreetMap](https://www.openstreetmap.org)
+🟢<img src="./icons/openstreetmap.png" width="30">[OpenStreetMap](https://www.openstreetmap.org)
 
-🔴[Maps.me](https://maps.me)
+🔴<img src="./icons/mapsme.png" width="30">[Maps.me](https://maps.me)
 
-🟢[Qwant Maps*](https://www.qwant.com/map)
+🟢<img src="./icons/qwant.png" width="30">[Qwant Maps*](https://www.qwant.com/map)
 
-🔴[DuckDuckGo](https://duckduckgo.com)
+🔴<img src="./icons/duckduckgo.png" width="30">[DuckDuckGo](https://duckduckgo.com)
 
 File sharing :
 
-🟢[Disroot](upload.disroot.org)
+🟢<img src="./icons/disroot.jpg" width="30">[Disroot](https://upload.disroot.org)
 
-🔵[Swisst Transfer](swisstransfer.com)
+🔵<img src="./icons/swisstransfer.png" width="30">[Swiss Transfer](https://swisstransfer.com)
 
-🟢[OnionShare](https://onionshare.org)
+🟢<img src="./icons/onionshare.png" width="30">[OnionShare](https://onionshare.org)
 
 Colaboration :
 
-🟢[CryptPad](https://cryptpad.fr)
+🟢<img src="./icons/cryptpad.png" width="30">[CryptPad](https://cryptpad.fr)
 
 Password manager :
 
-🟢[Bitwarden](https://bitwarden.com)
+🟢<img src="./icons/bitwarden.png" width="30">[Bitwarden](https://bitwarden.com)
 
-🟢[KeePassXC](https://keepassxc.org)
+🟢<img src="./icons/keepassxc.png" width="30">[KeePassXC](https://keepassxc.org)
 
 Media player :
 
-🟢[VLC](https://www.videolan.org)
+🟢<img src="./icons/vlc.png" width="30">[VLC](https://www.videolan.org)
 
 VPN :
 
-🟢[IVPN](https://www.ivpn.net)
+🟢<img src="./icons/ivpn.svg" width="30">[IVPN](https://www.ivpn.net)
 
-🔵[Mullvad](https://mullvad.net)
+🔵<img src="./icons/mullvad.png" width="30">[Mullvad](https://mullvad.net)
 
-🔵[ProtonVPN](https://protonvpn.com)
+🔵<img src="./icons/protonvpn.png" width="30">[ProtonVPN](https://protonvpn.com)
 
-⚫[Firefox VPN*](https://vpn.mozilla.org)
+⚫<img src="./icons/firefoxvpn.png" width="30">[Firefox VPN*](https://vpn.mozilla.org)
 
 Cloud :
 
-🟢[Disroot](https://cloud.disroot.org) (Nextcloud)
+🟢<img src="./icons/disroot.png" width="30">[Disroot](https://cloud.disroot.org) (Nextcloud)
 
-🟢[Cozy Cloud](https://cozy.io)
+🟢<img src="./icons/cozycloud.png" width="30">[Cozy Cloud](https://cozy.io)
 
-🟢[Nextcloud](https://nextcloud.com)
+🟢<img src="./icons/nextcloud.jpg" width="30">[Nextcloud](https://nextcloud.com)
 
-🔵[Kdrive](https://www.infomaniak.com/es/kdrive) (Infomaniak)
+🔵<img src="./icons/kdrive.jpg" width="30">[Kdrive](https://www.infomaniak.com/es/kdrive) (Infomaniak)
 
 Temporary mail:
 
-⚫[Temp Mail](temp-mail.org)
+⚫<img src="./icons/tempmail.png" width="30">[Temp Mail](https://temp-mail.org)
 
-⚫[Guerrillamail](guerrillamail.com)
+⚫<img src="./icons/guerrillamail.png" width="30">[Guerrillamail](https://guerrillamail.com)
 
-⚫[EmailOnDeck](https://www.emailondeck.com)
+⚫<img src="./icons/emailondeck.png" width="30">[EmailOnDeck](https://www.emailondeck.com)
 
 Notes :
 
-🟢[Joplin](https://joplinapp.org)
+🟢<img src="./icons/joplin.png" width="30">[Joplin](https://joplinapp.org)
 
-🟢[Standard Notes](https://standardnotes.org)
+🟢<img src="./icons/standardnotes.png" width="30">[Standard Notes](https://standardnotes.org)
 
 System cleaning and optimization :
 
-🟢[Stacer](https://oguzhaninan.github.io/Stacer-Web)
+🟢<img src="./icons/stacer.png" width="30">[Stacer](https://oguzhaninan.github.io/Stacer-Web)
 
 🟢<img src="./icons/ubunsys.png" width="30">[ubunsys](https://github.com/adgellida/ubunsys)
 
-🟢[BleachBit](https://www.bleachbit.org)
+🟢<img src="./icons/bleachbit.png" width="30">[BleachBit](https://www.bleachbit.org)
 
 Image editing and drawing :
 
-🟢[Gimp](http://www.gimp.org)
+🟢<img src="./icons/gimp.png" width="30">[Gimp](http://www.gimp.org)
 
-🟢[Drawing](https://maoschanz.github.io/drawing)
+🟢<img src="./icons/drawing.png" width="30">[Drawing](https://maoschanz.github.io/drawing)
 
-🟢[Krita](https://krita.org)
+🟢<img src="./icons/krita.png" width="30">[Krita](https://krita.org)
 
-🟢[Darktable](https://www.darktable.org)
+🟢<img src="./icons/darktable.png" width="30">[Darktable](https://www.darktable.org)
 
-🟢[RawTherapee](https://rawtherapee.com)
+🟢<img src="./icons/rawtherapee.png" width="30">[RawTherapee](https://rawtherapee.com)
 
 Vector graphics editing :
 
-🟢[Inkscape](https://inkscape.org)
+🟢<img src="./icons/inkscape.png" width="30">[Inkscape](https://inkscape.org)
 
 Page layout :
 
-🟢[Scribus](https://www.scribus.net)
+🟢<img src="./icons/scribus.png" width="30">[Scribus](https://www.scribus.net)
 
 Audio editing :
 
-🟢[Audacity](https://www.audacityteam.org)
+🟢<img src="./icons/audacity.png" width="30">[Audacity](https://www.audacityteam.org)
 
 Video editing :
 
-🟢[OpenShot](https://www.openshot.org)
+🟢<img src="./icons/openshot.png" width="30">[OpenShot](https://www.openshot.org)
 
-🟢[Kdenlive](https://kdenlive.org)
+🟢<img src="./icons/kdenlive.png" width="30">[Kdenlive](https://kdenlive.org)
 
-🟢[Avidemux](https://www.avidemux.org)
+🟢<img src="./icons/avidemux.png" width="30">[Avidemux](https://www.avidemux.org)
 
-🟢[Pitivi](http://www.pitivi.org)
+🟢<img src="./icons/pitivi.png" width="30">[Pitivi](http://www.pitivi.org)
 
-🟢[Cinelerra](http://cinelerra.org)
+🟢<img src="./icons/cinelerra.png" width="30">[Cinelerra](http://cinelerra.org)
 
 Metadata suppression :
 
-🟢[ExifCleaner](https://exifcleaner.com)
+🟢<img src="./icons/exifcleaner.png" width="30">[ExifCleaner](https://exifcleaner.com)
 
 Encryption tool :
 
-🟢[VeraCrypt](https://www.veracrypt.fr)
+🟢<img src="./icons/veracrypt.png" width="30">[VeraCrypt](https://www.veracrypt.fr)
 
-🟢[Cryptomator](https://cryptomator.org)
+🟢<img src="./icons/cryptomator.png" width="30">[Cryptomator](https://cryptomator.org)
 
 Network traffic analysis:
 
-🟢[Wireshark](https://www.wireshark.org)
+🟢<img src="./icons/wireshark.png" width="30">[Wireshark](https://www.wireshark.org)
 
 Windows programs/games under Linux :
 
-⚫[PlayOnLinux](https://www.playonlinux.com)
+⚫<img src="./icons/playonlinux.png" width="30">[PlayOnLinux](https://www.playonlinux.com)
 
-⚫[Wine](https://www.winehq.org)
+⚫<img src="./icons/wine.png" width="30">[Wine](https://www.winehq.org)
 
-⚫[WinApps*](https://github.com/Fmstrat/winapps)
+⚫<img src="./icons/winapps.png" width="30">[WinApps*](https://github.com/Fmstrat/winapps)
 
 ## 4 Smartphone
 
@@ -427,308 +427,306 @@ https://esolutions.shop/
 
 The proposed applications for Android and derivatives must be searched first in the free F-Droid application store (guarantee that they do not have third-party trackers) and only if they are not, in the Aurora Store. These stores must be downloaded directly from their respective official web pages.
 
-[F-Droid](https://f-droid.org/en)
-[Aurora Store](https://auroraoss.com/downloads.php)
+<img src="./icons/fdroid.png" width="30">[F-Droid](https://f-droid.org/en)
+<img src="./icons/aurorastore.png" width="30">[Aurora Store](https://auroraoss.com/downloads.php)
 
 **Android and derivatives :**
 
 App store :
 
-🟢[F-Droid](https://f-droid.org)
+🟢<img src="./icons/fdroid.png" width="30">[F-Droid](https://f-droid.org)
 
-🔵[Aurora Store](https://auroraoss.com) (proxy Play Store)
+🔵<img src="./icons/aurorastore.png" width="30">[Aurora Store](https://auroraoss.com) (proxy Play Store)
 
-🔵[APKMirror](https://www.apkmirror.com)
+🔵<img src="./icons/apkmirror.png" width="30">[APKMirror](https://www.apkmirror.com)
 
 Browser :
 
-🟢[Tor Browser](https://www.torproject.org/es/download/#android)
+🟢<img src="./icons/torbrowser.png" width="30">[Tor Browser](https://www.torproject.org/es/download/#android)
 
-🟢[Bromite](https://www.bromite.org/fdroid)
+🟢<img src="./icons/bromite.png" width="30">[Bromite](https://www.bromite.org/fdroid)
 
-🔵[Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid) (Firefox)
+🔵<img src="./icons/fennec.png" width="30">[Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid) (Firefox)
 
-🟢[Privacy Browser](https://f-droid.org/es/packages/com.stoutner.privacybrowser.standard)
+🟢<img src="./icons/privacybrowser.png" width="30">[Privacy Browser](https://f-droid.org/es/packages/com.stoutner.privacybrowser.standard)
 
 Instant messaging :
 
-🟢[Signal](https://signal.org)
+🟢<img src="./icons/signal.png" width="30">[Signal](https://signal.org)
 
 🔵<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
 
-🔵[Element](https://app.element.io)
+🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
 🟢<img src="./icons/briar.png" width="30">[Briar](https://briarproject.org)
 
-🟢[Conversations](https://conversations.im)
+🟢<img src="./icons/conversations.png" width="30">[Conversations](https://conversations.im)
 
 ⚫<img src="./icons/session.png" width="30">[Session*](https://getsession.org)
 
 Video calls/video conferencing :
 
-🟢[Jitsi Meet](https://meet.jit.si)
+🟢<img src="./icons/jitsimeet.png" width="30">[Jitsi Meet](https://meet.jit.si)
 
-🟢[Signal](https://signal.org)
+🟢<img src="./icons/signal.png" width="30">[Signal](https://signal.org)
 
-🔵[Element](https://app.element.io)
+🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
-🟢[Jami](https://jami.net)
+🟢<img src="./icons/jami.png" width="30">[Jami](https://jami.net)
 
 🔵<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
 
 Video platform :
 
-🔴[Newpipe](https://newpipe.schabi.org) (cliente Youtube)
+🔴<img src="./icons/newpipe.png" width="30">[Newpipe](https://newpipe.schabi.org) (cliente Youtube)
 
-🔵[LBRY](https://lbry.com)
+🔵<img src="./icons/lbry.png" width="30">[LBRY](https://lbry.com)
 
-🔴[Skytube](https://skytube-app.com) (cliente Youtube)
+🔴<img src="./icons/skytube.png" width="30">[Skytube](https://skytube-app.com) (cliente Youtube)
 
 Keyboard :
 
-🟢[OpenBoard](https://f-droid.org/es/packages/org.dslul.openboard.inputmethod.latin)
+🟢<img src="./icons/openboard.png" width="30">[OpenBoard](https://f-droid.org/es/packages/org.dslul.openboard.inputmethod.latin)
 
-🟢[AnySoftKeyboard](https://anysoftkeyboard.github.io)
+🟢<img src="./icons/anysoftkeyboard.png" width="30">[AnySoftKeyboard](https://anysoftkeyboard.github.io)
 
 Maps/GPS navigation:
 
-🟢[Maps](https://f-droid.org/es/packages/com.github.axet.maps) (OpenStreetMap)
+🟢<img src="./icons/maps.png" width="30">[Maps](https://f-droid.org/es/packages/com.github.axet.maps) (OpenStreetMap)
 
-🟢[OsmAnd](https://f-droid.org/es/packages/net.osmand.plus/)
+🟢<img src="./icons/osmand.png" width="30">[OsmAnd](https://f-droid.org/es/packages/net.osmand.plus/)
 
-🔵[Magic Earth](https://www.magicearth.com)
+🔵<img src="./icons/magicearth.png" width="30">[Magic Earth](https://www.magicearth.com)
 
 Ad/Tracker Blocker:
 
-🟢[Blokada](https://f-droid.org/es/packages/org.blokada.alarm)
+🟢<img src="./icons/blokada.png" width="30">[Blokada](https://f-droid.org/es/packages/org.blokada.alarm)
 
-🟢[Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen&hl=es&gl=US)
+🟢<img src="./icons/nebulo.png" width="30">[Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen&hl=es&gl=US)
 
-🟢[personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp)
+🟢<img src="./icons/personaldnsfilter.png" width="30">[personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp)
 
 Mail client :
 
-🟢[Tutanota](https://f-droid.org/es/packages/de.tutao.tutanota)
+🟢<img src="./icons/tutanota.png" width="30">[Tutanota](https://f-droid.org/es/packages/de.tutao.tutanota)
 
-🟢[Protonmail](https://protonmail.com)
+🟢<img src="./icons/protonmail.png" width="30">[Protonmail](https://protonmail.com)
 
-🟢[CTemplar](https://f-droid.org/es/packages/com.ctemplar.app.fdroid)
+🟢<img src="./icons/ctemplar.png" width="30">[CTemplar](https://f-droid.org/es/packages/com.ctemplar.app.fdroid)
 
-🟢[K-9 Mail](https://f-droid.org/es/packages/com.fsck.k9)
+🟢<img src="./icons/k-9mail.png" width="30">[K-9 Mail](https://f-droid.org/es/packages/com.fsck.k9)
 
 Alias manager for mail :
 
-🟢[Simple Login](https://simplelogin.io)
+🟢<img src="./icons/simplelogin.png" width="30">[Simple Login](https://simplelogin.io)
 
 Password manager client :
 
-🟢[Bitwarden](https://bitwarden.com)
+🟢<img src="./icons/bitwarden.png" width="30">[Bitwarden](https://bitwarden.com)
 
-🟢[KeePassDX](https://f-droid.org/es/packages/com.kunzisoft.keepass.libre)
+🟢<img src="./icons/keepassdx.png" width="30">[KeePassDX](https://f-droid.org/es/packages/com.kunzisoft.keepass.libre)
 
 Two-factor authentication :
 
-🟢[Aegis](https://f-droid.org/es/packages/com.beemdevelopment.aegis)
+🟢<img src="./icons/aegis.png" width="30">[Aegis](https://f-droid.org/es/packages/com.beemdevelopment.aegis)
 
-🟢[andOTP](https://f-droid.org/en/packages/org.shadowice.flocke.andotp)
+🟢<img src="./icons/andotp.png" width="30">[andOTP](https://f-droid.org/en/packages/org.shadowice.flocke.andotp)
 
 Web Apps :
 
-🟢[WebApps](https://f-droid.org/en/packages/com.tobykurien.webapps)
+🟢<img src="./icons/webapps.png" width="30">[WebApps](https://f-droid.org/en/packages/com.tobykurien.webapps)
 
 Redirector of content YouTube, Twitter, Instagram and Google Map :
 
-🟢[UntrackMe](https://f-droid.org/en/packages/app.fedilab.nitterizeme)
+🟢<img src="./icons/untraackme.png" width="30">[UntrackMe](https://f-droid.org/en/packages/app.fedilab.nitterizeme)
 
 Client Mastodon, Friendica, Peertube y PixelFed :
 
-🟢[Fedilab](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon)
+🟢<img src="./icons/fedilab.png" width="30">[Fedilab](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon)
 
-🟢[Tusky](https://f-droid.org/en/packages/com.keylesspalace.tusky) (Mastodon)
+🟢<img src="./icons/tusky.png" width="30">[Tusky](https://f-droid.org/en/packages/com.keylesspalace.tusky) (Mastodon)
 
 Respectful client respetuoso Facebook/Twitter/Instagram :
 
-🔴[Frost for Facebook](https://f-droid.org/es/packages/com.pitchedapps.frost)
+🔴<img src="./icons/frost.png" width="30">[Frost for Facebook](https://f-droid.org/es/packages/com.pitchedapps.frost)
 
-🔴[Twidere](https://f-droid.org/es/packages/org.mariotaku.twidere)
+🔴<img src="./icons/twidere.png" width="30">[Twidere](https://f-droid.org/es/packages/org.mariotaku.twidere)
 
-🔴[Barinsta](https://f-droid.org/en/packages/me.austinhuang.instagrabber) (Instagrabber)
+🔴<img src="./icons/barinsta.png" width="30">[Barinsta](https://f-droid.org/en/packages/me.austinhuang.instagrabber) (Instagrabber)
 
 Schedule :
 
-🟢[Simple Calendar](https://f-droid.org/es/packages/com.simplemobiletools.calendar.pro)
+🟢<img src="./icons/simplecalendar.png" width="30">[Simple Calendar](https://f-droid.org/es/packages/com.simplemobiletools.calendar.pro)
 
-🟢[Etar](https://f-droid.org/es/packages/ws.xsoh.etar)
+🟢<img src="./icons/etar.png" width="30">[Etar](https://f-droid.org/es/packages/ws.xsoh.etar)
 
 Notes :
 
-🟢[Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin&utm_source=GitHub&utm_campaign=README&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+🟢<img src="./icons/joplin.png" width="30">[Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin&utm_source=GitHub&utm_campaign=README&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
-🟢[Nextcloud Notes](https://f-droid.org/es/packages/it.niedermann.owncloud.notes)
+🟢<img src="./icons/nextcloudnotes.png" width="30">[Nextcloud Notes](https://f-droid.org/es/packages/it.niedermann.owncloud.notes)
 
-🟢[Simple Notes](https://f-droid.org/es/packages/com.simplemobiletools.notes.pro)
+🟢<img src="./icons/simplenotes.png" width="30">[Simple Notes](https://f-droid.org/es/packages/com.simplemobiletools.notes.pro)
 
-🟢[Standard Notes](https://play.google.com/store/apps/details?id=com.standardnotes)
+🟢<img src="./icons/standardnotes.png" width="30">[Standard Notes](https://play.google.com/store/apps/details?id=com.standardnotes)
 
 File manager :
 
-🟢[Simple File Manager](https://f-droid.org/es/packages/com.simplemobiletools.filemanager.pro)
+🟢<img src="./icons/simplefilemanager.png" width="30">[Simple File Manager](https://f-droid.org/es/packages/com.simplemobiletools.filemanager.pro)
 
 Gallery :
 
-🟢[Simple Gallery](https://f-droid.org/es/packages/com.simplemobiletools.gallery.pro)
+🟢<img src="./icons/simplegallery.png" width="30">[Simple Gallery](https://f-droid.org/es/packages/com.simplemobiletools.gallery.pro)
 
 Audioplayer :
 
-🟢[Music Player GO](https://f-droid.org/es/packages/com.iven.musicplayergo)
+🟢<img src="./icons/musicplayergo.png" width="30">[Music Player GO](https://f-droid.org/es/packages/com.iven.musicplayergo)
 
-🟢[Vinyl Music Player](https://f-droid.org/es/packages/com.poupa.vinylmusicplayer)
+🟢<img src="./icons/vinylmusicplayer.png" width="30">[Vinyl Music Player](https://f-droid.org/es/packages/com.poupa.vinylmusicplayer)
 
 PDF :
 
-🟢[PDF Viewer Plus](https://f-droid.org/es/packages/com.gsnathan.pdfviewer)
+🟢<img src="./icons/pdfviewerplus.png" width="30">[PDF Viewer Plus](https://f-droid.org/es/packages/com.gsnathan.pdfviewer)
 
-🟢[MuPDF Viewer](https://f-droid.org/es/packages/com.artifex.mupdf.viewer.app)
+🟢<img src="./icons/mupdfviewer.png" width="30">[MuPDF Viewer](https://f-droid.org/es/packages/com.artifex.mupdf.viewer.app)
 
 Contacts :
 
-🟢[Open Contacts](https://f-droid.org/es/packages/opencontacts.open.com.opencontacts)
+🟢<img src="./icons/opencontacts.png" width="30">[Open Contacts](https://f-droid.org/es/packages/opencontacts.open.com.opencontacts)
 
-🟢[Simple Contacts](https://f-droid.org/es/packages/com.simplemobiletools.contacts.pro)
+🟢<img src="./icons/simplecontacts.png" width="30">[Simple Contacts](https://f-droid.org/es/packages/com.simplemobiletools.contacts.pro)
 
 Camera :
 
-🟢[Open Camera](https://f-droid.org/es/packages/net.sourceforge.opencamera)
+🟢<img src="./icons/opencamera.png" width="30">[Open Camera](https://f-droid.org/es/packages/net.sourceforge.opencamera)
 
-🟢[Simple Camera](https://f-droid.org/es/packages/com.simplemobiletools.camera)
+🟢<img src="./icons/simplecamera.png" width="30">[Simple Camera](https://f-droid.org/es/packages/com.simplemobiletools.camera)
 
 Radio :
 
-🟢[RadioDroid](https://f-droid.org/es/packages/net.programmierecke.radiodroid2)
+🟢<img src="./icons/radiodroid.png" width="30">[RadioDroid](https://f-droid.org/es/packages/net.programmierecke.radiodroid2)
 
 Metadata suppression :
 
-🟢[ImagePipe](https://f-droid.org/es/packages/de.kaffeemitkoffein.imagepipe)
+🟢<img src="./icons/imagepipe.png" width="30">[ImagePipe](https://f-droid.org/es/packages/de.kaffeemitkoffein.imagepipe)
 
-🟢[Scrambled Exif](https://f-droid.org/es/packages/com.jarsilio.android.scrambledeggsif)
+🟢<img src="./icons/scrambledexif.png" width="30">[Scrambled Exif](https://f-droid.org/es/packages/com.jarsilio.android.scrambledeggsif)
 
 To go further :
 
 Third Party Tracker Developer :
 
-🟢[ClassyShark3xodus](https://f-droid.org/es/packages/com.oF2pks.classyshark3xodus)
+🟢<img src="./icons/classyshark3xodus.png" width="30">[ClassyShark3xodus](https://f-droid.org/es/packages/com.oF2pks.classyshark3xodus)
 
-🟢[Exodus](https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy)
+🟢<img src="./icons/exodus.png" width="30">[Exodus](https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy)
 
 Application stop (background):
 
-🟢[SuperFreezZ](https://f-droid.org/es/packages/superfreeze.tool.android)
+🟢<img src="./icons/superfreezz.png" width="30">[SuperFreezZ](https://f-droid.org/es/packages/superfreeze.tool.android)
 
 Applications Isolator :
 
-🟢[Shelter](https://f-droid.org/en/packages/net.typeblog.shelter)
+🟢<img src="./icons/shelter.png" width="30">[Shelter](https://f-droid.org/en/packages/net.typeblog.shelter)
 
 Network anonymization by Tor :
 
-🟢[Orbot Proxy](https://play.google.com/store/apps/details?id=org.torproject.android&hl=es&gl=US)
+🟢<img src="./icons/orbotproxy.png" width="30">[Orbot Proxy](https://play.google.com/store/apps/details?id=org.torproject.android&hl=es&gl=US)
 
 Location simulator :
 
-🟢[Private Location](https://f-droid.org/es/packages/com.wesaphzt.privatelocation)
+🟢<img src="./icons/privatelocation.png" width="30">[Private Location](https://f-droid.org/es/packages/com.wesaphzt.privatelocation)
 
 Replacement of Google Services:
 
-🔴[MicroG GmsCore](https://microg.org)
+🔴<img src="./icons/microg.png" width="30">[MicroG GmsCore](https://microg.org)
 
 Privacy manager :
 
-🟢[XprivacyLua](https://f-droid.org/es/packages/eu.faircode.xlua)
+🟢<img src="./icons/xprivacylua.png" width="30">[XprivacyLua](https://f-droid.org/es/packages/eu.faircode.xlua)
 
-🟢[App Manager](https://f-droid.org/es/packages/io.github.muntashirakon.AppManager)
+🟢<img src="./icons/appmanager.png" width="30">[App Manager](https://f-droid.org/es/packages/io.github.muntashirakon.AppManager)
 
-🟢[App Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227) (root)
+🟢<img src="./icons/appwarden.png" width="30">[App Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227) (root)
 
 Application network isolator :
 
-🟢[NetGuard](https://f-droid.org/es/packages/eu.faircode.netguard)
+🟢<img src="./icons/netguard.png" width="30">[NetGuard](https://f-droid.org/es/packages/eu.faircode.netguard)
 
 Network traffic monitor :
 
-🟢[Net Monitor](https://f-droid.org/es/packages/org.secuso.privacyfriendlynetmonitor)
+🟢<img src="./icons/netmonitor.png" width="30">[Net Monitor](https://f-droid.org/es/packages/org.secuso.privacyfriendlynetmonitor)
 
 Microphone usage blocker :
 
-🟢[PilferShush Jammer](https://f-droid.org/en/packages/cityfreqs.com.pilfershushjammer)
+🟢<img src="./icons/pilfershushjammer.png" width="30">[PilferShush Jammer](https://f-droid.org/en/packages/cityfreqs.com.pilfershushjammer)
 
 ### IOS :
 
 Browser :
 
-🟢[Onion Browser](https://apps.apple.com/us/app/onion-browser/id519296448)
-
-🔵<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
+🟢<img src="./icons/onionbrowser.png" width="30">[Onion Browser](https://apps.apple.com/us/app/onion-browser/id519296448)
 
 🔵<img src="./icons/firefox.png" width="30">[Firefox](https://apps.apple.com/us/app/navegador-firefox/id989804926)
 
-🔵[DuckDuckGo Browser](https://apps.apple.com/us/app/duckduckgo-privacy-browser/id663592361)
+🔵<img src="./icons/duckduckgobrowser.png" width="30">[DuckDuckGo Browser](https://apps.apple.com/us/app/duckduckgo-privacy-browser/id663592361)
 
-🔴[Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175)
+🔴<img src="./icons/brave.png" width="30">[Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175)
 
 Instant messaging :
 
-🟢[Signal](https://apps.apple.com/us/app/signal-mensajer%C3%ADa-privada/id874139669)
+🟢<img src="./icons/signal.png" width="30">[Signal](https://apps.apple.com/us/app/signal-mensajer%C3%ADa-privada/id874139669)
 
 🔵<img src="./icons/telegram.png" width="30">[Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
 
-🔵[Element](https://app.element.io)
+🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
-⚫[Session*](https://apps.apple.com/us/app/session-private-messenger/id1470168868)
+⚫<img src="./icons/session.png" width="30">[Session*](https://apps.apple.com/us/app/session-private-messenger/id1470168868)
 
 Video calls/video conferencing :
 
-🟢[Jitsi Meet](https://apps.apple.com/us/app/jitsi-meet/id1165103905)
+🟢<img src="./icons/jitsimeet.png" width="30">[Jitsi Meet](https://apps.apple.com/us/app/jitsi-meet/id1165103905)
 
-🟢[Signal](https://apps.apple.com/us/app/signal-mensajer%C3%ADa-privada/id874139669)
+🟢<img src="./icons/signal.png" width="30">[Signal](https://apps.apple.com/us/app/signal-mensajer%C3%ADa-privada/id874139669)
 
-🔵[Element](https://app.element.io)
+🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
-🟢[Jami](https://apps.apple.com/us/app/jami/id1306951055)
+🟢<img src="./icons/jami.png" width="30">[Jami](https://apps.apple.com/us/app/jami/id1306951055)
 
 🔵<img src="./icons/telegram.png" width="30">[Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
 
 Ad/Tracker Blocker :
 
-🟢[Blokada](https://apps.apple.com/us/app/blokada/id1508341781)
+🟢<img src="./icons/blokada.png" width="30">[Blokada](https://apps.apple.com/us/app/blokada/id1508341781)
 
-🟢[Lockdown](https://apps.apple.com/us/app/lockdown-apps/id1469783711)
+🟢<img src="./icons/lockdown.png" width="30">[Lockdown](https://apps.apple.com/us/app/lockdown-apps/id1469783711)
 
-🟢[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)
+🟢<img src="./icons/dnscloak.png" width="30">[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)
 
 Video platform :
 
-🔵[LBRY](https://lbry.tv/)
+🔵<img src="./icons/bitwarden.png" width="30">[LBRY](https://lbry.tv/)
 
 Mail client : 
 
-🟢[Tutanota](https://apps.apple.com/us/app/tutanota/id922429609)
+🟢<img src="./icons/tutanota.png" width="30">[Tutanota](https://apps.apple.com/us/app/tutanota/id922429609)
 
-🟢[Protonmail](https://apps.apple.com/us/app/protonmail-correo-cifrado/id979659905)
+🟢<img src="./icons/protonmail.png" width="30">[Protonmail](https://apps.apple.com/us/app/protonmail-correo-cifrado/id979659905)
 
-🟢[CTemplar](https://apps.apple.com/us/app/ctemplar/id1495837525)
+🟢<img src="./icons/ctemplar.png" width="30">[CTemplar](https://apps.apple.com/us/app/ctemplar/id1495837525)
 
 Alias manager for mail :
 
-🟢[Simple Login](https://apps.apple.com/us/app/simplelogin-anti-spam/id1494359858)
+🟢<img src="./icons/simplelogin.png" width="30">[Simple Login](https://apps.apple.com/us/app/simplelogin-anti-spam/id1494359858)
 
 Password manager client :
 
-🟢[Bitwarden](https://apps.apple.com/us/app/bitwarden-gestor-de-contrase/id1137397744)
+🟢<img src="./icons/bitwarden.png" width="30">[Bitwarden](https://apps.apple.com/us/app/bitwarden-gestor-de-contrase/id1137397744)
 
-🟢[Strongbox](https://apps.apple.com/es/app/strongbox-keepass-pwsafe/id897283731) - KeePass & PwSafe
+🟢<img src="./icons/strongbox.png" width="30">[Strongbox](https://apps.apple.com/es/app/strongbox-keepass-pwsafe/id897283731) - KeePass & PwSafe
 
 Two-factor authentication :
 
-🟢[Tofu Authenticator](https://apps.apple.com/us/app/tofu-authenticator/id1082229305)
+🟢<img src="./icons/tofuauthenticator.png" width="30">[Tofu Authenticator](https://apps.apple.com/us/app/tofu-authenticator/id1082229305)
 
 ## 5 Browsers
 
@@ -743,31 +741,31 @@ For Firefox to protect privacy, it needs to be configured appropriately (setting
 
 Complete list :
 
-uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - [Firefox](https://addons.mozilla.org/es/firefox/addon/ublock-origin)
+<img src="./icons/ublockorigin.png" width="30">uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - [Firefox](https://addons.mozilla.org/es/firefox/addon/ublock-origin)
 
-uMatrix - [Chrome](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf) - [Firefox](https://addons.mozilla.org/es/firefox/addon/umatrix) - Development ended - Alternative?
+<img src="./icons/umatrix.png" width="30">uMatrix - [Chrome](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf) - [Firefox](https://addons.mozilla.org/es/firefox/addon/umatrix) - Development ended - Alternative?
 
-Decentraleyes - [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - [Firefox](https://addons.mozilla.org/es/firefox/addon/decentraleyes) - Finished development? - Alternative?
+<img src="./icons/decentraleyes.png" width="30">Decentraleyes - [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - [Firefox](https://addons.mozilla.org/es/firefox/addon/decentraleyes) - Finished development? - Alternative?
 
-[Chameleon](https://github.com/ghostwords/chameleon) Finished development? - Alternative?
+<img src="./icons/chameleon.png" width="30">[Chameleon](https://github.com/ghostwords/chameleon) Finished development? - Alternative?
 
-CanvasBlocker - [Chrome](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd) - [Firefox](https://addons.mozilla.org/es/firefox/addon/canvasblocker)
+<img src="./icons/canvablocker.png" width="30">CanvasBlocker - [Chrome](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd) - [Firefox](https://addons.mozilla.org/es/firefox/addon/canvasblocker)
 
-Cookie AutoDelete - [Chrome](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete)
+<img src="./icons/cookieautodelete.png" width="30">Cookie AutoDelete - [Chrome](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete)
 
-ClearURLs - [Chrome](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) - [Firefox](https://addons.mozilla.org/es/firefox/addon/clearurls)
+<img src="./icons/clearurls.png" width="30">ClearURLs - [Chrome](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) - [Firefox](https://addons.mozilla.org/es/firefox/addon/clearurls)
 
-Privacy Redirect - [Chrome](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
+<img src="./icons/privacyredirect.png" width="30">Privacy Redirect - [Chrome](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
 
 Light list :
 
-uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - [Firefox](https://addons.mozilla.org/es/firefox/addon/ublock-origin)
+<img src="./icons/ublockorigin.png" width="30">uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - [Firefox](https://addons.mozilla.org/es/firefox/addon/ublock-origin)
 
-Decentraleyes - [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - [Firefox](https://addons.mozilla.org/es/firefox/addon/decentraleyes)
+<img src="./icons/decentraleyes.png" width="30">Decentraleyes - [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - [Firefox](https://addons.mozilla.org/es/firefox/addon/decentraleyes)
 
-Cookie AutoDelete - [Chrome](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete)
+<img src="./icons/cookieautodelete.png" width="30">Cookie AutoDelete - [Chrome](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete)
 
-HTTPS Everywhere - [Chrome](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - [Firefox](https://addons.mozilla.org/es/firefox/addon/https-everywhere)
+<img src="./icons/https-everywhere.png" width="30">HTTPS Everywhere - [Chrome](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - [Firefox](https://addons.mozilla.org/es/firefox/addon/https-everywhere)
 
 ### 5-2 Tor Browser
 
