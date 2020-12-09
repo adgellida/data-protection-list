@@ -291,7 +291,7 @@ Cloud :
 
 🟢<img src="./icons/disroot.png" width="30">[Disroot](https://cloud.disroot.org) (Nextcloud)
 
-🟢<img src="./icons/cozycloud.png" width="30">[Cozy Cloud](https://cozy.io)
+🟢<img src="./icons/cozycloud.jpg" width="30">[Cozy Cloud](https://cozy.io)
 
 🟢<img src="./icons/nextcloud.jpg" width="30">[Nextcloud](https://nextcloud.com)
 
