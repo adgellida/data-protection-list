@@ -429,6 +429,7 @@ https://esolutions.shop/
 Les applications proposées pour Android et dérivés doivent en premier lieu être cherchées sur le magasin d’applications libres F-Droid (garantie qu’aucun pisteur tiers n’est présent) et seulement si elles ne s’y trouvent pas, sur Aurora store. Ces magasins doivent être téléchargés directement depuis leurs sites web respectifs.
 
 [F-Droid](https://f-droid.org/en)
+
 [Aurora Store](https://auroraoss.com/downloads.php)
 
 **Android et dérivés :**
@@ -701,7 +702,7 @@ Bloqueur de publicité/pisteurs :
 
 🟢<img src="./icons/lockdown.png" width="30">[Lockdown](https://apps.apple.com/us/app/lockdown-apps/id1469783711)
 
-🟢<img src="./icons/dnscloak.png" width="30">[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)
+🟢<img src="./icons/dnscloak.jpg" width="30">[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)
 
 Plateforme vidéo :
 
@@ -723,11 +724,11 @@ Client gestionnaire de mots de passe :
 
 🟢<img src="./icons/bitwarden.png" width="30">[Bitwarden](https://apps.apple.com/us/app/bitwarden-gestor-de-contrase/id1137397744)
 
-🟢<img src="./icons/strongbox.png" width="30">[Strongbox](https://apps.apple.com/es/app/strongbox-keepass-pwsafe/id897283731) - KeePass & PwSafe
+🟢<img src="./icons/strongbox.jpg" width="30">[Strongbox](https://apps.apple.com/es/app/strongbox-keepass-pwsafe/id897283731) - KeePass & PwSafe
 
 Authentification à deux facteurs :
 
-🟢<img src="./icons/tofuauthenticator.png" width="30">[Tofu Authenticator](https://apps.apple.com/us/app/tofu-authenticator/id1082229305)
+🟢<img src="./icons/tofuauthenticator.jpg" width="30">[Tofu Authenticator](https://apps.apple.com/us/app/tofu-authenticator/id1082229305)
 
 ## 5 Navigateurs
 
