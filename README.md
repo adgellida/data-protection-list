@@ -185,13 +185,13 @@ Mail :
 
 Video platform :
 
-🔵<img src="./icons/invidio.png" width="30">[Invidious](https://invidio.us) (proxy Youtube)
+🔵<img src="./icons/invidious.png" width="30">[Invidious](https://invidio.us) (proxy Youtube)
 
 🔵<img src="./icons/cloudtube.png" width="30">[CloudTube](https://cadence.moe/cloudtube/subscriptions) (proxy Youtube)
 
-🔵<img src="./icons/freetubeapp.png" width="30">[FreeTube](https://freetubeapp.io) (cliente Youtube/Invidious)
+🔵<img src="./icons/freetube.png" width="30">[FreeTube](https://freetubeapp.io) (Youtube/Invidious client)
 
-🟢<img src="./icons/joinpeertube.png" width="30">[PeerTube](https://joinpeertube.org)
+🟢<img src="./icons/peertube.png" width="30">[PeerTube](https://joinpeertube.org)
 
 🔵<img src="./icons/lbry.png" width="30">[LBRY](https://lbry.com)
 
@@ -539,7 +539,7 @@ Web Apps :
 
 Redirector of content YouTube, Twitter, Instagram and Google Map :
 
-🟢<img src="./icons/untraackme.png" width="30">[UntrackMe](https://f-droid.org/en/packages/app.fedilab.nitterizeme)
+🟢<img src="./icons/untrackme.png" width="30">[UntrackMe](https://f-droid.org/en/packages/app.fedilab.nitterizeme)
 
 Client Mastodon, Friendica, Peertube y PixelFed :
 
