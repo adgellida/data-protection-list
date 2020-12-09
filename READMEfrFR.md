@@ -222,9 +222,9 @@ Réseau social : :
 
 🟢<img src="./icons/mastodon.png" width="30">[Mastodon](https://mastodon.social)
 
-🟢<img src="./icons/friendi.png" width="30">[Friendica](https://friendi.ca)
+🟢<img src="./icons/friendica.png" width="30">[Friendica](https://friendi.ca)
 
-🟢<img src="./icons/diasporafoundation.png" width="30">[Diaspora](https://diasporafoundation.org)
+🟢<img src="./icons/diaspora.png" width="30">[Diaspora](https://diasporafoundation.org)
 
 🟢<img src="./icons/pixelfed.png" width="30">[PixelFed](https://pixelfed.org)
 
@@ -284,7 +284,7 @@ VPN :
 
 Cloud :
 
-🟢<img src="./icons/disroot.png" width="30">[Disroot](https://cloud.disroot.org) (Nextcloud)
+🟢<img src="./icons/disroot.jpg" width="30">[Disroot](https://cloud.disroot.org) (Nextcloud)
 
 🟢<img src="./icons/cozycloud.png" width="30">[Cozy Cloud](https://cozy.io)
 

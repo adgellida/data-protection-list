@@ -227,9 +227,9 @@ Red social :
 
 🟢<img src="./icons/mastodon.png" width="30">[Mastodon](https://mastodon.social)
 
-🟢<img src="./icons/friendi.png" width="30">[Friendica](https://friendi.ca)
+🟢<img src="./icons/friendica.png" width="30">[Friendica](https://friendi.ca)
 
-🟢<img src="./icons/diasporafoundation.png" width="30">[Diaspora](https://diasporafoundation.org)
+🟢<img src="./icons/diaspora.png" width="30">[Diaspora](https://diasporafoundation.org)
 
 🟢<img src="./icons/pixelfed.png" width="30">[PixelFed](https://pixelfed.org)
 
@@ -257,7 +257,7 @@ Mapas :
 
 Compartición de archivos :
 
-🟢<img src="./icons/disroot.png" width="30">[Disroot](https://upload.disroot.org)
+🟢<img src="./icons/disroot.jpg" width="30">[Disroot](https://upload.disroot.org)
 
 🔵<img src="./icons/swisstransfer.png" width="30">[Swiss Transfer](https://swisstransfer.com)
 
