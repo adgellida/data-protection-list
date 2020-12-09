@@ -439,7 +439,7 @@ Las aplicaciones propuestas para Android y derivados deben ser buscadas primero 
 
 Tienda de aplicaciones :
 
-🟢<img src="./icons/fdroid.png" width="30">[F-Droid](https://f-droid.org)
+🟢<img src="./icons/f-droid.png" width="30">[F-Droid](https://f-droid.org)
 
 🔵<img src="./icons/aurorastore.png" width="30">[Aurora Store](https://auroraoss.com) (proxy Play Store)
 
