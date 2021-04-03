@@ -541,9 +541,9 @@ VPN :
 
 🔵<img src="./icons/protonvpn.png" width="30">[ProtonVPN](https://protonvpn.com)
 
-🔵<img src="./icons/riseupvpn.png" width="30">[Riseup VPN](https://riseup.net/es/vpn)
+🔵<img src="./icons/riseupvpn.svg" width="30">[Riseup VPN](https://riseup.net/es/vpn)
 
-🔵<img src="./icons/calyxvpn.png" width="30">[Calyx VPN](https://calyx.net/)
+🔵<img src="./icons/calyxos.jpg" width="30">[Calyx VPN](https://calyx.net/)
 
 Client Mastodon, Friendica, PeerTube et PixelFed :
 
@@ -606,9 +606,9 @@ SMS :
 
 🔴<img src="./icons/signal.png" width="30">[Signal](https://signal.org)
 
-🔴<img src="./icons/simplesmsmessenger.png" width="30">[Simple SMS Messenger,](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/)
+🔴<img src="./icons/simplesmsmessenger.png" width="30">[Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/)
 
-🔴<img src="./icons/qksms.png" width="30">[QKSMS).](https://f-droid.org/en/packages/com.moez.QKSMS/)
+🔴<img src="./icons/qksms.png" width="30">[QKSMS](https://f-droid.org/en/packages/com.moez.QKSMS/)
 
 Agenda :
 
