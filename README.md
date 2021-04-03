@@ -82,8 +82,15 @@ This list is intended for all persons aware or aware of the importance of data p
 
 The list format was chosen in order to make your query as efficient as possible possible. This approach precludes detailing true explanations. So I invite you to look for the ones they need on their own or in additional resources mentioned in point 6 of the document. With the purpose of proposing the more reputable and practical options without being too stuffy, the list does not have to vocation to be exhaustive and remains subjective despite seeking to have the greatest possible objectivity.
 
-This list proposes a first prioritization (order of appearance and presence or not of parentheses) subjective based on the privacy/usability report in order to help them choose between the different options mentioned. A second prioritization (colors) is based solely on estimated privacy: green (true respect for privacy), blue (respect for privacy under conditions or presence of a problematic item), red (does not guarantee privacy but still being preferable to the GAFAM options) and colorless (lack of elements to
-form an estimate, or a prioritization is not relevant for entry into question). The presence of an asterisk indicates that the mentioned option is still in development phase.
+This list proposes a first prioritization (order of appearance and presence or not of parentheses) subjective based on the privacy/usability report in order to help them choose between the different options mentioned. A second prioritization (colors) is based solely on estimated privacy:
+
+🟢green (true respect for privacy)
+
+🔵blue (respect for privacy under conditions or presence of a problematic item)
+
+🔴red (does not guarantee privacy but still being preferable to the GAFAM options)
+
+⚫colorless (lack of elements to form an estimate, or a prioritization is not relevant for entry into question). The presence of an asterisk indicates that the mentioned option is still in development phase.
 
 I hope this document will help you improve the protection of your data personal and those of her close ones. Although being the fruit of several years of searches and experiments, this work obviously remains perfectible.
 Any suggestion or comment is then more than welcome to the email: "Privacyfirst@ik.me". Several months after the present version of the document, you must assume that certain information given will be obsolete. The document being

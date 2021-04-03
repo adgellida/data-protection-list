@@ -86,9 +86,15 @@ mencionados en el punto 6 del documento. Teniendo el propósito de proponer las 
 objetividad posible.
 
 Esta lista propone una primera priorización (orden de aparición y presencia o no de paréntesis) subjetiva basada en el reporte privacidad/usabilidad con el fin de ayudarles a escoger entre las diferentes opciones citadas. Una segunda priorización
-(colores) se basa unicamente en la privacidad estimada : verde (verdadero respeto de la privacidad), azul (respeto de la privacidad bajo condiciones o presencia de un elemento problemático), rojo (no garantiza el respeto de la privacidad pero sigue
-siendo preferible a las opciones de los GAFAM) e incoloro (falta de elementos para formar una estimación, o una priorización no es pertinente para la entrada en cuestión). La presencia de un asterisco indica que la opción mencionada sigue en
-fase de desarrollo.
+(colores) se basa unicamente en la privacidad estimada :
+
+🟢verde (verdadero respeto de la privacidad)
+
+🔵azul (respeto de la privacidad bajo condiciones o presencia de un elemento problemático)
+
+🔴rojo (no garantiza el respeto de la privacidad pero sigue siendo preferible a las opciones de los GAFAM)
+
+⚫incoloro (falta de elementos para formar una estimación, o una priorización no es pertinente para la entrada en cuestión). La presencia de un asterisco indica que la opción mencionada sigue enfase de desarrollo.
 
 Espero que este documento les servirá para mejorar la protección de sus datos personales y de los de sus cercanos. Aunque siendo el fruto de varios años de búsquedas y experimentos, este trabajo permanece obviamente perfectible.
 Cualquier sugerencia o comentario es entonces más que bienvenido al correo : “privacyfirst@ik.me”. Varios meses después de la presente versión del documento, se debe asumir que ciertas informaciones dadas serán obsoletas. El documento siendo

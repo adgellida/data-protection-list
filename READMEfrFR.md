@@ -83,8 +83,15 @@ Cette liste est destinée à toute personne consciente ou prenant conscience des
 Le format de liste a été choisi afin de rendre sa consultation la plus efficace possible. Cette approche empêche de détailler de véritables explications. Vous êtes donc invités à chercher celles qui vous sont nécessaires par vous-mêmes ou dans les ressources additionnelles mentionnées au point 7 du document. Ayant pour but de proposer les options les plus réputées et pratiques sans être encombrée, la liste n’a pas pour vocation d’être exhaustive et demeure subjective bien que visant la plus grande objectivité possible.
 
 Cette liste propose une première hiérarchisation (ordre d’apparition et présence ou non de parenthèses) subjective basée sur le rapport confidentialité/facilité d’utilisation afin de vous aider à choisir parmi les différentes options citées. Une deuxième
-hiérarchisation (couleurs) se base uniquement sur la confidentialité estimée : vert (véritable respect de la vie privée), bleu (respect de la vie privée sous conditions ou présence d’un élément problématique), rouge (ne garantit pas le respect de la vie privée
-mais reste préférable aux options des GAFAM) et incolore (manque d’éléments pour former une estimation pertinente). La présence d’un astérisque indique que l’option mentionnée est encore en phase de développement.
+hiérarchisation (couleurs) se base uniquement sur la confidentialité estimée :
+
+🟢 vert (véritable respect de la vie privée)
+
+🔵 bleu (respect de la vie privée sous conditions ou présence d’un élément problématique)
+
+🔴rouge (ne garantit pas le respect de la vie privée mais reste préférable aux options des GAFAM)
+
+⚫incolore (manque d’éléments pour former une estimation pertinente). La présence d’un astérisque indique que l’option mentionnée est encore en phase de développement.
 
 J’espère que ce document vous servira pour améliorer la protection de vos données personnelles et de celles de vos proches. Bien qu’étant le fruit de plusieurs années de recherches et d’expériences, ce travail demeure bien évidemment perfectible. Toute
 suggestion ou remarque est donc plus que bienvenue à l’adresse mail suivante : "privacyfirst@ik.me". Plusieurs mois après la présente version du document, certaines informations données seront obsolètes. Le document étant fréquemment actualisé, vous êtes invités à vous procurer la dernière version sur la page web : "https://codeberg.org/PrivacyFirst/PrivacyFirst/issues".
