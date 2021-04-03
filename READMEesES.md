@@ -276,7 +276,7 @@ Mapas :
 
 Compartición de archivos :
 
-🟢<img src="./icons/disroot.jpg" width="30">[Disroot](https://upload.disroot.org)
+🟢<img src="./icons/disroot.png" width="30">[Disroot](https://upload.disroot.org)
 
 🔵<img src="./icons/swisstransfer.png" width="30">[Swiss Transfer](https://swisstransfer.com)
 
@@ -310,13 +310,13 @@ VPN :
 
 Cloud :
 
-🟢<img src="./icons/disroot.jpg" width="30">[Disroot](https://cloud.disroot.org) (Nextcloud)
+🟢<img src="./icons/disroot.png" width="30">[Disroot](https://cloud.disroot.org) (Nextcloud)
 
-🟢<img src="./icons/cozycloud.jpg" width="30">[Cozy Cloud](https://cozy.io)
+🟢<img src="./icons/cozycloud.png" width="30">[Cozy Cloud](https://cozy.io)
 
-🟢<img src="./icons/nextcloud.jpg" width="30">[Nextcloud](https://nextcloud.com)
+🟢<img src="./icons/nextcloud.png" width="30">[Nextcloud](https://nextcloud.com)
 
-🔵<img src="./icons/kdrive.jpg" width="30">[Kdrive](https://www.infomaniak.com/es/kdrive) (Infomaniak)
+🔵<img src="./icons/kdrive.png" width="30">[Kdrive](https://www.infomaniak.com/es/kdrive) (Infomaniak)
 
 Correo temporal :
 
@@ -406,13 +406,13 @@ Android, en su configuración por defecto, es actualmente el peor sistema operat
 
 **Android modificado para la privacidad :**
 
-🟢<img src="./icons/calyxos.jpg" width="30">[CalyxOS](https://calyxos.org) : Android degooglizado y seguro con microG para una mejor compatibilidad
+🟢<img src="./icons/calyxos.png" width="30">[CalyxOS](https://calyxos.org) : Android degooglizado y seguro con microG para una mejor compatibilidad
 
 🟢<img src="./icons/grapheneos.png" width="30">[GrapheneOS](https://grapheneos.org) : el Android degooglizado más privado y seguro disponible
 
 🟢<img src="./icons/e.png" width="30">[/e/ OS](https://e.foundation) : LineageOS degooglizado pero con microG y servicios integrados (cuenta /e/)
 
-🔵<img src="./icons/lineageosmicrog.jpg" width="30">[LineageOS for microG](https://lineage.microg.org) : LineageOS con microG para una mejor compatibilidad
+🔵<img src="./icons/lineageosmicrog.png" width="30">[LineageOS for microG](https://lineage.microg.org) : LineageOS con microG para una mejor compatibilidad
 
 🔵<img src="./icons/vollaos.png" width="30">[Volla OS](https://volla.online): Android seguro, sin Google apps pero no totalmente degooglizado
 
@@ -546,7 +546,7 @@ VPN :
 
 🔵<img src="./icons/riseupvpn.svg" width="30">[Riseup VPN](https://riseup.net/es/vpn)
 
-🔵<img src="./icons/calyxos.jpg" width="30">[Calyx VPN](https://calyx.net/)
+🔵<img src="./icons/calyxos.png" width="30">[Calyx VPN](https://calyx.net/)
 
 Cliente Mastodon, Friendica, Peertube y PixelFed:
 
@@ -761,7 +761,7 @@ Bloqueador publicidad/rastreadores :
 
 🟢<img src="./icons/lockdown.png" width="30">[Lockdown](https://apps.apple.com/us/app/lockdown-apps/id1469783711)
 
-🟢<img src="./icons/dnscloak.jpg" width="30">[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)
+🟢<img src="./icons/dnscloak.png" width="30">[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)
 
 Plataforma vídeo :
 
@@ -783,11 +783,11 @@ Cliente administrador de contraseñas :
 
 🟢<img src="./icons/bitwarden.png" width="30">[Bitwarden](https://apps.apple.com/us/app/bitwarden-gestor-de-contrase/id1137397744)
 
-🟢<img src="./icons/strongbox.jpg" width="30">[Strongbox](https://apps.apple.com/es/app/strongbox-keepass-pwsafe/id897283731) - KeePass & PwSafe
+🟢<img src="./icons/strongbox.png" width="30">[Strongbox](https://apps.apple.com/es/app/strongbox-keepass-pwsafe/id897283731) - KeePass & PwSafe
 
 Autentificación a dos factores :
 
-🟢<img src="./icons/tofuauthenticator.jpg" width="30">[Tofu Authenticator](https://apps.apple.com/us/app/tofu-authenticator/id1082229305)
+🟢<img src="./icons/tofuauthenticator.png" width="30">[Tofu Authenticator](https://apps.apple.com/us/app/tofu-authenticator/id1082229305)
 
 Herramienta de cifrado para la nube :
 
