@@ -61,15 +61,15 @@ I think that they take advantage of the ignorance of the majority to do things t
 
 This document has been copied 1: 1 with very slight modifications in version 7/12/2020 and from now on it will undergo modifications following the following strategies:
 
-- Following updates of the original file
-- Pull requests from the community
-- Own discoveries
+* Following updates of the original file
+* Pull requests from the community
+* Own discoveries
 
 The most notable improvements are:
 
--It encourages a more orderly, effective, public participation.
--Images of the apps to better identify them.
--Links to them to find them quickly.
+* It encourages a more orderly, effective, public participation
+* Images of the apps to better identify them
+* Links to them to find them quickly
 
 Now, the document begins. Put on your belt curves are coming!
 

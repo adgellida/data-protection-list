@@ -61,15 +61,15 @@ Je pense qu’ils profitent de l’ignorance de la majorité pour faire des chos
 
 Ce document a été copié 1: 1 avec de très légères modifications dans la version 7/12/2020 et subira désormais des modifications suivant les stratégies suivantes:
 
-- Suite aux mises à jour du fichier d'origine
-- Extraire les demandes de la communauté
-- Propres découvertes
+* Suite aux mises à jour du fichier d'origine
+* Extraire les demandes de la communauté
+* Propres découvertes
 
 Les améliorations les plus notables sont:
 
--Elle encourage une participation publique plus ordonnée et efficace.
--Images des applications pour mieux les identifier.
--Liens vers eux pour les trouver rapidement.
+* Elle encourage une participation publique plus ordonnée et efficace.
+* Images des applications pour mieux les identifier.
+* Liens vers eux pour les trouver rapidement.
 
 Maintenant, le document commence. Mettez votre ceinture, les courbes arrivent!
 

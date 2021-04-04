@@ -61,15 +61,15 @@ Yo pienso que se aprovechan del desconocimiento de la mayoría para hacer cosas 
 
 Este documento ha sido copiado 1:1 con muy ligeras modificaciones en la versión 7/12/2020 y a partir de ahora sufrirá modificaciones siguiendo las siguientes estrategias:
 
-- Siguientes actualizaciones del fichero original
-- Pull requests de la comunidad
-- Descubrimientos propios
+* Siguientes actualizaciones del fichero original
+* Pull requests de la comunidad
+* Descubrimientos propios
 
 Las mejoras más destacables son:
 
--Fomenta una participación más ordenada, efectiva, pública.
--Imágenes de las apps para identificarlas mejor.
--Enlaces a las mismas para encontrarlas rápidamente.
+* Fomenta una participación más ordenada, efectiva, pública.
+* Imágenes de las apps para identificarlas mejor.
+* Enlaces a las mismas para encontrarlas rápidamente.
 
 Ahora sí, empieza el documento. Póngase el cinturón que vienen curvas!
 
