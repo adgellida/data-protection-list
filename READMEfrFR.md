@@ -25,12 +25,13 @@ Manuel de résistance au capitalisme de surveillance
 * [6-1 Searx](#6-1-searx)
 * [6-2 Invidious](#6-2-invidious)
 * [6-3 Visioconférence](#6-3-visioconférence)
-* [6-4 Serveur DNS](#6-4-serveur-dns)
-* [7 Ressources additionnelles et sources](#7-ressources-additionnelles-et-sources)
+* [6-4 Serveurs DNS](#6-4-serveurs-dns)
+* [7 Ressources additionnelles (sources vedettes)](#7-ressources-additionnelles-sources-vedettes)
 * [8 Configurations](#8-configurations)
 * [8-1 Systèmes d'exploitation](#8-1-systemes-d-exploitation)
-* [8-2 Applications et programmes](#8-2-applications-et-programmes)
-* [8-3 Firefox](#8-3-firefox)
+* [8-2 F-Droid](#8-2-f-droid)
+* [8-3 Applications et programmes](#8-3-applications-et-programmes)
+* [8-4 Firefox](#8-4-firefox)
 
 ## 0 Commentaires sur fork
 
@@ -118,13 +119,15 @@ Il faut savoir que chacune d’entre elles propose une ou plusieurs interfaces (
 
 **Desktop :**
 
+🟢<img src="./icons/mxlinux.png" width="30">[MX Linux](https://mxlinux.org) :  convient aux débutants
+
 🟢<img src="./icons/linuxmint.png" width="30">[Linux Mint](https://linuxmint.com) : idéal pour les débutants
 
-🟢<img src="./icons/mxlinux.png" width="30">[MX Linux](https://mxlinux.org) :  convient aux débutants
+🟢<img src="./icons/parrotos.png" width="30">[Parrot Home OS](https://www.parrotsec.org) : sécurité et confidentialité renforcées (utilisateurs confirmés)
 
 🟢<img src="./icons/solus.png" width="30">[Solus](https://getsol.us/home) :  convient aux débutants
 
-🟢<img src="./icons/parrotos.png" width="30">[Parrot Home OS](https://www.parrotsec.org) : sécurité et confidentialité renforcées (utilisateurs confirmés)
+🟢<img src="./icons/elementaryos.png" width="30">[ElementaryOS](https://elementary.io) : idéal pour les débutants habitués à macOS
 
 🟢<img src="./icons/qubeos.png" width="30">[Qubes OS](https://www.qubes-os.org) : sécurité extrême (utilisateurs avancés)
 
@@ -140,15 +143,29 @@ Il faut savoir que chacune d’entre elles propose une ou plusieurs interfaces (
 
 **Raspberry Pi :**
 
-🟢<img src="./icons/plasmabigscreen.png" width="30">[Plasma BigScreen*](https://plasma-bigscreen.org) : centre multimédia pour TV (commande vocale avec Mycroft AI)
-
-🟢<img src="./icons/raspberrypios.png" width="30">[Raspberry Pi OS](https://www.raspberrypi.org/software) : système d’exploitation classique
-
 🟢<img src="./icons/libreelec.png" width="30">[LibreELEC](https://libreelec.tv) : centre multimédia pour TV
 
 🟢<img src="./icons/batocera.png" width="30">[Batocera](https://batocera.org) : émulateur de consoles, retrogaming
 
-🟢<img src="./icons/retropie.png" width="30">[RetroPie](https://retropie.org.uk) : émulateur de consoles, retrogaming
+🟢<img src="./icons/plasmabigscreen.png" width="30">[Plasma BigScreen*](https://plasma-bigscreen.org) : centre multimédia pour TV (commande vocale avec Mycroft AI)
+
+🟢<img src="./icons/raspberrypios.png" width="30">[Raspberry Pi OS](https://www.raspberrypi.org/software) : système d’exploitation classique
+
+🟢<img src="./icons/nymphcast.png" width="30">[Nymphcast](http://nyanko.ws/product_nymphcast.php) : alternative gratuite et écologique au Chromecast
+
+**Hardware :**
+
+Les marques suivantes vendent des ordinateurs avec Linux préinstallé :
+Linux Mint
+Slimbook
+PINE64
+Librem
+ThinkPenguin
+System76
+Dell (quelques modèles)
+
+Il existe également d'autres fournisseurs d'ordinateurs moins connus avec Linux préinstallé. Concernant les fournisseurs d'ordinateurs Windows
+Les modèles préinstallés Dell, Asus et HP sont réputés pour avoir une bonne compatibilité Linux. Il est conseillé d'éviter d'acheter des ordinateurs équipés d'une carte graphique Nvidia car ils sont connus pour souffrir de problèmes de compatibilité.
 
 ### 3-2 Services et programmes
 
@@ -168,15 +185,17 @@ Navigateur :
 
 Moteur de recherche :
 
+🔵<img src="./icons/duckduckgo.png" width="30">[DuckDuckGo](https://duckduckgo.com)
+
 🔵<img src="./icons/searxme.png" width="30">[searx.me](https://searx.me)
 
 🔵<img src="./icons/qwant.png" width="30">[Qwant](https://www.qwant.com)
 
-🔵<img src="./icons/duckduckgo.png" width="30">[DuckDuckGo](https://duckduckgo.com)
-
 🔵<img src="./icons/swisscows.png" width="30">[Swisscows](https://swisscows.com)
 
 🔴<img src="./icons/startpage.png" width="30">[Startpage](https://www.startpage.com) (proxy Google)
+
+⚫<img src="./icons/brave.png" width="30">[Brave Search](https://search.brave.com/)
 
 Bureautique :
 
@@ -186,21 +205,23 @@ Bureautique :
 
 🟢<img src="./icons/collaboraoffice.png" width="30">[Collabora Office - LibreOffice prof.](https://www.collaboraoffice.com)
 
+🟢<img src="./icons/calligra.png" width="30">[Calligra](https://calligra.org)
+
 🟢<img src="./icons/cryptpad.png" width="30">[CryptPad](https://cryptpad.fr)
 
 Courriel :
 
-🔵<img src="./icons/tutanota.png" width="30">[Tutanota](https://tutanota.com)
+<img src="./icons/tutanota.png" width="30">[Tutanota](https://tutanota.com) 🔵libre 🔴payer
 
-🔵<img src="./icons/protonmail.png" width="30">[Protonmail](https://protonmail.com)
+<img src="./icons/posteo.png" width="30">[Posteo](https://posteo.de) 🔵payer
 
-🔵<img src="./icons/ctemplar.png" width="30">[CTemplar](https://ctemplar.com)
+<img src="./icons/disroot.png" width="30">[Disroot](https://disroot.org/en/services/email) 🔵libre
 
-🔵<img src="./icons/posteo.png" width="30">[Posteo](https://posteo.de)
+<img src="./icons/protonmail.png" width="30">[Protonmail](https://protonmail.com) 🔴libre 🔴payer
 
 Plateforme vidéo :
 
-🔵<img src="./icons/lbry.png" width="30">[Odysee - LBRY](https://lbry.com)
+🔴<img src="./icons/lbry.png" width="30">[Odysee - LBRY](https://lbry.com)
 
 🟢<img src="./icons/peertube.png" width="30">[PeerTube](https://joinpeertube.org)
 
@@ -218,9 +239,9 @@ Messagerie instantanée :
 
 🔵<img src="./icons/signal.png" width="30">[Signal](https://signal.org)
 
-🔵<img src="./icons/session.png" width="30">[Session*](https://getsession.org)
-
 🔴<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
+
+🟢<img src="./icons/session.png" width="30">[Session*](https://getsession.org)
 
 🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
@@ -240,21 +261,29 @@ Visioconférence :
 
 🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
-Réseau social : :
+🔵<img src="./icons/whereby.png" width="30">[Whereby](https://whereby.com)
 
-🔵<img src="./icons/telegram.png" width="30">[Telegram*](https://telegram.org)
+🔴<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
 
-🟢<img src="./icons/mastodon.png" width="30">[Mastodon](https://mastodon.social)
+Réseau social respectueux :
 
-🟢<img src="./icons/movim.png" width="30">[movim](https://movim.eu/)
+🔵<img src="./icons/mastodon.png" width="30">[Mastodon](https://mastodon.social)
 
-🟢<img src="./icons/lemmy.png" width="30">[Lemmy](https://join.lemmy.ml/)
+🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
-🟢<img src="./icons/friendica.png" width="30">[Friendica](https://friendi.ca)
+🔴<img src="./icons/telegram.png" width="30">[Telegram*](https://telegram.org)
 
-🟢<img src="./icons/pixelfed.png" width="30">[PixelFed](https://pixelfed.org)
+🔵<img src="./icons/pixelfed.png" width="30">[PixelFed](https://pixelfed.org)
 
-Proxy de réseau social :
+🔵<img src="./icons/lemmy.png" width="30">[Lemmy](https://join.lemmy.ml/)
+
+🔵<img src="./icons/pleroma.png" width="30">[Pleroma](https://pleroma.social/)
+
+🔵<img src="./icons/movim.png" width="30">[movim](https://movim.eu/)
+
+🔵<img src="./icons/friendica.png" width="30">[Friendica](https://friendi.ca)
+
+Proxy abusif de réseau social :
 
 🔵<img src="./icons/nitter.png" width="30">[Nitter](https://nitter.net) (Twitter)
 
@@ -270,6 +299,19 @@ Traduction :
 
 🟢<img src="./icons/apertium.png" width="30">[Apertium](https://www.apertium.org)
 
+🔴<img src="./icons/lingva.png" width="30">[Lingva Translate](https://lingva.ml) (proxy Google
+Translate)
+
+Bloqueur de publicités/trackers et contrôleur de trafic réseau :
+
+⚫<img src="./icons/portmaster.png" width="30">[Portmaster](https://safing.io/portmaster)
+
+Gestionnaire de mots de passe :
+
+🟢<img src="./icons/keepassxc.png" width="30">[KeePassXC](https://keepassxc.org)
+
+🔵<img src="./icons/bitwarden.png" width="30">[Bitwarden](https://bitwarden.com)
+
 Cartes :
 
 🟢<img src="./icons/openstreetmap.png" width="30">[OpenStreetMap](https://www.openstreetmap.org)
@@ -279,32 +321,6 @@ Cartes :
 🔵<img src="./icons/duckduckgo.png" width="30">[DuckDuckGo](https://duckduckgo.com)
 
 🔴<img src="./icons/mapsme.png" width="30">[Maps.me](https://maps.me)
-
-Partage de fichiers :
-
-🟢<img src="./icons/disroot.png" width="30">[Disroot](https://upload.disroot.org)
-
-🔵<img src="./icons/swisstransfer.png" width="30">[Swiss Transfer](https://swisstransfer.com)
-
-🟢<img src="./icons/onionshare.png" width="30">[OnionShare](https://onionshare.org)
-
-Collaboration :
-
-🟢<img src="./icons/cryptpad.png" width="30">[CryptPad](https://cryptpad.fr)
-
-🟢<img src="./icons/mobilizon.png" width="30">[Mobilizon](https://mobilizon.org/en/)
-
-Gestionnaire de mots de passe :
-
-🟢<img src="./icons/bitwarden.png" width="30">[Bitwarden](https://bitwarden.com)
-
-🟢<img src="./icons/keepassxc.png" width="30">[KeePassXC](https://keepassxc.org)
-
-Lecteur multimédia :
-
-🟢<img src="./icons/mpv.png" width="30">[mpv](https://mpv.io/)
-
-🟢<img src="./icons/vlc.png" width="30">[VLC](https://www.videolan.org)
 
 VPN :
 
@@ -316,6 +332,14 @@ VPN :
 
 🔵<img src="./icons/windscribe.png" width="30">[Windscribe](https://windscribe.com/)
 
+Partage de fichiers :
+
+🟢<img src="./icons/disroot.png" width="30">[Disroot](https://upload.disroot.org)
+
+🔵<img src="./icons/swisstransfer.png" width="30">[Swiss Transfer](https://swisstransfer.com)
+
+🟢<img src="./icons/onionshare.png" width="30">[OnionShare](https://onionshare.org)
+
 Cloud :
 
 🟢<img src="./icons/disroot.png" width="30">[Disroot](https://cloud.disroot.org) (Nextcloud)
@@ -325,6 +349,10 @@ Cloud :
 🟢<img src="./icons/nextcloud.png" width="30">[Nextcloud](https://nextcloud.com)
 
 🔵<img src="./icons/kdrive.png" width="30">[Kdrive](https://www.infomaniak.com/es/kdrive) (Infomaniak)
+
+Outil de synchronisation peer-to-peer :
+
+🟢<img src="./icons/syncthing.png" width="30">[Syncthing](https://syncthing.net)
 
 Courriel temporaire :
 
@@ -338,13 +366,39 @@ Gestionnaire d'alias pour le courrier :
 
 🟢<img src="./icons/forwardemail.png" width="30">[forwardemail](https://forwardemail.net)
 
-Notes :
+Collaboration et organisation :
 
-🟢<img src="./icons/joplin.png" width="30">[Joplin](https://joplinapp.org)
+🟢<img src="./icons/cryptpad.png" width="30">[CryptPad](https://cryptpad.fr)
+
+🟢<img src="./icons/mobilizon.png" width="30">[Mobilizon](https://mobilizon.org/en/)
+
+Lecteur audio :
+
+🟢<img src="./icons/elisa.png" width="30">[Elisa](https://elisa.kde.org)
+
+🟢<img src="./icons/audacious.png" width="30">[Audacious](https://audacious-media-player.org)
+
+Lecteur multimédia :
+
+🟢<img src="./icons/mpv.png" width="30">[mpv](https://mpv.io)
+
+🟢<img src="./icons/vlc.png" width="30">[VLC](https://www.videolan.org)
+
+Notes :
 
 🟢<img src="./icons/standardnotes.png" width="30">[Standard Notes](https://standardnotes.org)
 
-🟢<img src="./icons/simplenote.png" width="30">[Simplenote](https://simplenote.com/)
+🟢<img src="./icons/joplin.png" width="30">[Joplin](https://joplinapp.org)
+
+🟢<img src="./icons/knotes.png" width="30">[Knotes](http://knotesapp.com)
+
+🟢<img src="./icons/gnome.png" width="30">[Gnote](https://wiki.gnome.org/Apps/Gnote)
+
+Antivirus (ClamAV):
+
+🟢ClamTK (Linux)
+
+🟢ClamWin (Windows)
 
 Nettoyage et optimisation de système :
 
@@ -354,13 +408,25 @@ Nettoyage et optimisation de système :
 
 🟢<img src="./icons/bleachbit.png" width="30">[BleachBit](https://www.bleachbit.org)
 
+Outil de chiffrement :
+
+🟢<img src="./icons/veracrypt.png" width="30">[VeraCrypt](https://www.veracrypt.fr)
+
+🟢<img src="./icons/cryptomator.png" width="30">[Cryptomator](https://cryptomator.org)
+
+Suppression de métadonnées :
+
+🟢<img src="./icons/exifcleaner.png" width="30">[ExifCleaner](https://exifcleaner.com)
+
 Traitement d’image et dessin :
 
 🟢<img src="./icons/gimp.png" width="30">[Gimp](http://www.gimp.org)
 
+🟢<img src="./icons/krita.png" width="30">[Krita](https://krita.org)
+
 🟢<img src="./icons/drawing.png" width="30">[Drawing](https://maoschanz.github.io/drawing)
 
-🟢<img src="./icons/krita.png" width="30">[Krita](https://krita.org)
+Traitement des photos :
 
 🟢<img src="./icons/darktable.png" width="30">[Darktable](https://www.darktable.org)
 
@@ -376,11 +442,11 @@ Mise en page, édition (PAO) :
 
 Édition audio :
 
-🟢<img src="./icons/audacity.png" width="30">[Audacity](https://www.audacityteam.org)
-
 🟢<img src="./icons/lmms.png" width="30">[LMMS](https://www.lmms.io)
 
 🟢<img src="./icons/ardour.png" width="30">[Ardour](https://www.ardour.org)
+
+🔵<img src="./icons/audacity.png" width="30">[Audacity](https://www.audacityteam.org)
 
 Édition vidéo :
 
@@ -394,19 +460,15 @@ Mise en page, édition (PAO) :
 
 🟢<img src="./icons/cinelerra.png" width="30">[Cinelerra](http://cinelerra.org)
 
-Suppression de métadonnées :
+Transcodage :
 
-🟢<img src="./icons/exifcleaner.png" width="30">[ExifCleaner](https://exifcleaner.com)
+🟢Handbrake
 
-Outil de chiffrement :
+🟢MKV
 
-🟢<img src="./icons/veracrypt.png" width="30">[VeraCrypt](https://www.veracrypt.fr)
+Interface de connexion entre ordinateur et téléphone portable :
 
-🟢<img src="./icons/cryptomator.png" width="30">[Cryptomator](https://cryptomator.org)
-
-Analyse de trafic réseau :
-
-🟢<img src="./icons/wireshark.png" width="30">[Wireshark](https://www.wireshark.org)
+🟢KDE Connect
 
 Programmes/jeux Windows sous Linux :
 
@@ -416,21 +478,29 @@ Programmes/jeux Windows sous Linux :
 
 ⚫<img src="./icons/winapps.svg" width="30">[WinApps*](https://github.com/Fmstrat/winapps)
 
+Analyse de trafic réseau :
+
+🟢<img src="./icons/wireshark.png" width="30">[Wireshark](https://www.wireshark.org)
+
 ## 4 Smartphone
 
 ### 4-1 Systèmes d’exploitation
 
-Android, dans sa configuration par défaut, est actuellement le pire système d’exploitation quant au respect de la vie privée. Son but est d’envoyer en permanence les données personnelles de ses utilisateurs aux serveurs Google afin de les exploiter et les revendre. La solution la plus recommandable actuellement en d’utiliser une version d’Android modifiée (custom ROM) pour respecter la vie privée. Si vous ne souhaitez pas installer ou acheter un smartphone avec un OS respectueux (grave erreur), gardez à l’esprit que toutes les marques chinoises ainsi que Samsung sont à éviter absolument. Afin de ne pas subir un profilage complet et continu, il est capital de ne
-jamais se connecter avec un compte Google et d’utiliser un bloqueur de pisteurs.
-Le système d’exploitation d’Apple (iOS), malgré son marketing basé sur le respect de la vie privée, collecte et exploite également les données personnelles de ses utilisateurs bien que sans commune mesure avec Android par défaut. Apple limite et contrôle plus ses utilisateurs qu’Android mais il offre également plus de sécurité et de protections pour la vie privée contre les tiers.
+Android, dans sa configuration par défaut, est actuellement le pire système d’exploitation quant au respect de la vie privée. Son but est d’envoyer en permanence les données personnelles de ses utilisateurs aux serveurs Google afin de les exploiter et les revendre. La solution la plus recommandable actuellement en d’utiliser une version d’Android modifiée (custom ROM) pour respecter la vie privée.
+
+Si vous ne souhaitez pas installer ou acheter un smartphone avec un OS respectueux (grave erreur) et que vous souhaitez tout de même utiliser Android stock, suivez les conseils détaillés au point 8.1 de ce document afin de limiter au maximum la collecte de données personnelles.
+
+Le système d'exploitation d'Apple (iOS), malgré sa commercialisation basée sur le respect de la vie privée, collecte et exploite également les données personnelles de ses utilisateurs en plus de limiter considérablement leur liberté.
+
+Les options basées sur Linux sont respectueuses de la vie privée et prometteuses en termes d'indépendance, mais elles n'offrent pas les mêmes garanties de sécurité qu'Android. De plus, dans leur état de développement actuel, ils ne sont pas recommandés pour les utilisateurs moyens (sauf pour Sailfish OS).
 
 **Android modifié pour la vie privée :**
 
 🟢<img src="./icons/calyxos.png" width="30">[CalyxOS](https://calyxos.org) : Android dégooglisé et sûr avec microG pour une meilleure compatibilité
 
-🔵<img src="./icons/e.png" width="30">[/e/ OS](https://e.foundation) : LineageOS dégooglisé mais avec microG et services intégrés (compte /e/)
-
 🟢<img src="./icons/grapheneos.png" width="30">[GrapheneOS](https://grapheneos.org) : l’Android dégooglisé le plus confidentiel et sécurisé disponible
+
+🔵<img src="./icons/e.png" width="30">[/e/ OS](https://e.foundation) : LineageOS dégooglisé mais avec microG et services intégrés (compte /e/)
 
 🔵<img src="./icons/lineageosmicrog.png" width="30">[LineageOS for microG](https://lineage.microg.org) : LineageOS avec microG pour une meilleure compatibilité
 
@@ -438,13 +508,29 @@ Le système d’exploitation d’Apple (iOS), malgré son marketing basé sur le
 
 🔵<img src="./icons/lineageos.png" width="30">[LineageOS](https://lineageos.org) : Android sans Google apps mais pas totalement dégooglisé
 
+**Linux :**
+
+🔵<img src="./icons/sailfishos.png" width="30">[Sailfish OS](https://sailfishos.org) (partiellement propriétaire)
+
+🔵<img src="./icons/ubuntutouch.png" width="30">[Ubuntu Touch](https://ubuntu-touch.io)
+
+🔵<img src="./icons/postmarketos.png" width="30">[PostmarketOS](https://postmarketos.org)
+
+🔵<img src="./icons/manjaro.png" width="30">[Manjaro](https://manjaro.org)
+
+🔵<img src="./icons/mobian.png" width="30">[Mobian](https://mobian-project.org)
+
+🔵<img src="./icons/pureos.png" width="30">[PureOS](https://pureos.net)
+
 **Matériel préinstallé :**
 
 [Fairphone 3 y 3+](https://www.fairphone.com) : /e/ OS (version disponible uniquement sur le site du projet /e/)
 
 [Gigaset GS290](https://e.foundation/es/e-announces-the-e-gs290-as-the-latest-device-available-with-privacy-friendly-e-os-pre-installed/) : /e/ OS (version disponible uniquement sur le site du projet /e/)
 
-[Volla Phone](https://volla.online) : Volla OS, UBports, Sailfish OS avec autres
+[Volla Phone](https://volla.online) : Volla OS, Ubuntu Touch avec autres
+
+[Pinephone](https://www.pine64.org/pinephone) : Manjaro avec autres S.O. Linux compatibles)
 
 D'autres modèles avec /e/ OS pré-installé sont disponibles sur le site /e/ project:
 
@@ -452,7 +538,9 @@ https://esolutions.shop/
 
 ### 4-2 Applications
 
-Les applications proposées pour Android et dérivés doivent en premier lieu être cherchées sur le magasin d’applications libres F-Droid (garantie qu’aucun pisteur tiers n’est présent) et seulement si elles ne s’y trouvent pas, sur Aurora store. Ces magasins doivent être téléchargés directement depuis leurs sites web respectifs.
+Les applications proposées pour Android et dérivés doivent être recherchées au préalable dans la boutique d'applications gratuite F-Droid (garantir qu'elles ne disposent pas de trackers tiers) et uniquement si elles ne sont pas, dans Aurora Store, un proxy Google Play permettant d'accéder à leur applications gratuites de manière anonyme (ne jamais se connecter avec un compte Google personnel, toujours de manière anonyme).
+
+Ces magasins doivent être téléchargés directement à partir de leurs pages Web officielles. Pensez alors à retirer l'autorisation d'installer des applications inconnues sur votre navigateur, pour des raisons de sécurité (paramètres > applications > navigateur utilisé).
 
 **Android et dérivés :**
 
@@ -466,13 +554,15 @@ Magasin d’applications :
 
 Navigateur :
 
-🟢<img src="./icons/torbrowser.png" width="30">[Tor Browser](https://www.torproject.org/es/download/#android)
-
 🟢<img src="./icons/bromite.png" width="30">[Bromite](https://www.bromite.org/fdroid)
+
+🟢<img src="./icons/torbrowser.png" width="30">[Tor Browser](https://www.torproject.org/es/download/#android)
 
 🔵<img src="./icons/mull.png" width="30">[mull](https://github.com/Divested-Mobile/mull)
 
 🟢<img src="./icons/privacybrowser.png" width="30">[Privacy Browser](https://f-droid.org/es/packages/com.stoutner.privacybrowser.standard)
+
+🔵<img src="./icons/ungoogledchromium.png" width="30">[Ungoogled Chromium(](https://uc.droidware.info/fdroid.html)
 
 Messagerie instantanée :
 
@@ -480,9 +570,9 @@ Messagerie instantanée :
 
 🔵<img src="./icons/signal.png" width="30">[Signal](https://signal.org)
 
-🔵<img src="./icons/session.png" width="30">[Session*](https://getsession.org)
-
 🔴<img src="./icons/telegram.png" width="30">[Telegram FOSS](https://f-droid.org/packages/org.telegram.messenger/)
+
+🔵<img src="./icons/session.png" width="30">[Session*](https://getsession.org)
 
 🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
@@ -490,7 +580,7 @@ Messagerie instantanée :
 
 🟢<img src="./icons/briar.png" width="30">[Briar](https://briarproject.org)
 
-🟢<img src="./icons/conversations.png" width="30">[Conversations](https://conversations.im)
+🔵<img src="./icons/conversations.png" width="30">[Conversations](https://conversations.im)
 
 Visioconférence :
 
@@ -502,13 +592,17 @@ Visioconférence :
 
 🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
+🔴<img src="./icons/telegram.png" width="30">[Telegram FOSS](https://f-droid.org/packages/org.telegram.messenger/)
+
+🔵<img src="./icons/whereby.png" width="30">[Whereby](https://whereby.com)
+
 Plateforme vidéo :
+
+🔴<img src="./icons/lbry.png" width="30">[LBRY](https://lbry.com)
 
 🔴<img src="./icons/newpipe.png" width="30">[Newpipe](https://newpipe.schabi.org) (client Youtube)
 
 🟢<img src="./icons/tubelab.png" width="30">[Tubelab](https://f-droid.org/en/packages/app.fedilab.tubelab/) (client Peertube)
-
-🔵<img src="./icons/lbry.png" width="30">[LBRY](https://lbry.com)
 
 Bloqueur de publicité/pisteurs :
 
@@ -518,21 +612,25 @@ Bloqueur de publicité/pisteurs :
 
 🟢<img src="./icons/nebulo.png" width="30">[Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen&hl=es&gl=US)
 
+🟢TrackerControl
+
 Cartes/navigation GPS :
 
 🟢<img src="./icons/osmand.png" width="30">[OsmAnd+](https://f-droid.org/es/packages/net.osmand.plus/)
 
 🔵<img src="./icons/magicearth.png" width="30">[Magic Earth](https://www.magicearth.com)
 
+🟢Organic Maps
+
 Client courriel :
 
 🔵<img src="./icons/tutanota.png" width="30">[Tutanota](https://f-droid.org/es/packages/de.tutao.tutanota)
 
-🔵<img src="./icons/protonmail.png" width="30">[Protonmail](https://protonmail.com)
+🔴<img src="./icons/protonmail.png" width="30">[Protonmail](https://protonmail.com)
 
-🔵<img src="./icons/ctemplar.png" width="30">[CTemplar](https://f-droid.org/es/packages/com.ctemplar.app.fdroid)
+⚫FairEmail
 
-🔵<img src="./icons/k-9mail.png" width="30">[K-9 Mail](https://f-droid.org/es/packages/com.fsck.k9)
+⚫<img src="./icons/k-9mail.png" width="30">[K-9 Mail](https://f-droid.org/es/packages/com.fsck.k9)
 
 Gestionnaire d’alias pour courriel  :
 
@@ -542,9 +640,11 @@ Gestionnaire d’alias pour courriel  :
 
 Client gestionnaire de mots de passe :
 
+🟢<img src="./icons/keepassdx.png" width="30">[KeePassDX](https://f-droid.org/es/packages/com.kunzisoft.keepass.libre)
+
 🔵<img src="./icons/bitwarden.png" width="30">[Bitwarden](https://bitwarden.com)
 
-🟢<img src="./icons/keepassdx.png" width="30">[KeePassDX](https://f-droid.org/es/packages/com.kunzisoft.keepass.libre)
+🟢AuthPass
 
 Authentification à deux facteurs :
 
@@ -573,19 +673,57 @@ VPN :
 
 🔵<img src="./icons/calyxos.png" width="30">[Calyx VPN](https://calyx.net/)
 
-Client Mastodon, Friendica, PeerTube et PixelFed :
+Outil de synchronisation :
 
-🟢<img src="./icons/fedilab.png" width="30">[Fedilab](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon)
+🟢<img src="./icons/syncthing.png" width="30">[Syncthing](https://f-droid.org/en/packages/com.nutomic.syncthingandroid)
 
-🟢<img src="./icons/tusky.png" width="30">[Tusky](https://f-droid.org/en/packages/com.keylesspalace.tusky) (Mastodon)
+⚫DAVx5
 
-Client respectueux Facebook/Twitter/Instagram :
+Outil de chiffrement pour le cloud :
+
+🟢<img src="./icons/cryptomator.png" width="30">[Cryptomator](https://cryptomator.org)
+
+Interface de connexion entre ordinateur et téléphone portable :
+
+🟢KDE Connect
+
+Réseau social respectueux :
+
+🔵<img src="./icons/tusky.png" width="30">[Tusky](https://f-droid.org/en/packages/com.keylesspalace.tusky) (Mastodon)
+
+🔵<img src="./icons/element.png" width="30">[Element](https://f-droid.org/es/packages/im.vector.app/) (Matrix)
+
+🔴<img src="./icons/telegram.png" width="30">[Telegram FOSS](https://f-droid.org/packages/org.telegram.messenger/)
+
+🔵<img src="./icons/fedilab.png" width="30">[Fedilab](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon) Mastodon, Pleroma...),
+
+🔵PixelDroid (PixelFed)
+
+🔵Lemmur (Lemmy)
+
+Client respectueux Facebook :
 
 🔴<img src="./icons/frost.png" width="30">[Frost for Facebook](https://f-droid.org/es/packages/com.pitchedapps.frost)
+
+🔴<img src="./icons/webapps.png" width="30">WebApps
+
+Client respectueux Instagram :
+
+🔴<img src="./icons/webapps.png" width="30">WebApps
+
+🔴Barinsta
+
+Client respectueux Twitter :
+
+🔴Fritter
 
 🔴<img src="./icons/twidere.png" width="30">[Twidere](https://f-droid.org/es/packages/org.mariotaku.twidere)
 
 🔴<img src="./icons/webapps.png" width="30">WebApps
+
+WebApps :
+
+🟢<img src="./icons/webapps.png" width="30">WebApps
 
 Suppression de métadonnées :
 
@@ -593,13 +731,35 @@ Suppression de métadonnées :
 
 🟢<img src="./icons/imagepipe.png" width="30">[ImagePipe](https://f-droid.org/es/packages/de.kaffeemitkoffein.imagepipe)
 
+Bureautique :
+
+🟢<img src="./icons/collaboraoffice.png" width="30">[Collabora Office - LibreOffice prof.](https://www.collaboraoffice.com)
+
+🟢LibreOffice
+
+Lecteur ebook :
+
+🟢Librera Reader
+
+🟢KOReader
+
+Exercice physique :
+
+🟢FitoTracker
+
+🟢Workout Time!
+
+Radio internet :
+
+🟢<img src="./icons/radiodroid.png" width="30">[RadioDroid](https://f-droid.org/es/packages/net.programmierecke.radiodroid2)
+
+Gestionnaire des dépenses :
+
+🟢MoneyWallet
+
 Outil de chiffrement pour le cloud :
 
 🟢<img src="./icons/cryptomator.png" width="30">[Cryptomator](https://cryptomator.org)
-
-Radio :
-
-🟢<img src="./icons/radiodroid.png" width="30">[RadioDroid](https://f-droid.org/es/packages/net.programmierecke.radiodroid2)
 
 Organisation évènementielle :
 
@@ -608,6 +768,14 @@ Organisation évènementielle :
 Redirecteur de contenu Youtube, Twitter, Instagram et Google Map :
 
 🟢<img src="./icons/untrackme.png" width="30">[UntrackMe](https://f-droid.org/en/packages/app.fedilab.nitterizeme)
+
+Lecteur rss :
+
+🟢Feeder
+
+🟢Flym
+
+🟢Handy News Reader
 
 Système d'application de remplacement pour Android d'origine: :
 
@@ -619,17 +787,23 @@ Keyboard :
 
 🟢<img src="./icons/florisboard.png" width="30">[FlorisBoard](https://github.com/florisboard/florisboard)
 
-Notes :
+Météorologie :
 
-🟢<img src="./icons/joplin.png" width="30">[Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin&utm_source=GitHub&utm_campaign=README&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+🟢Geometric Weather
+
+🟢Weather
+
+Notes :
 
 🟢<img src="./icons/standardnotes.png" width="30">[Standard Notes](https://play.google.com/store/apps/details?id=com.standardnotes)
 
+🟢<img src="./icons/joplin.png" width="30">[Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin&utm_source=GitHub&utm_campaign=README&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+
 🟢<img src="./icons/nextcloudnotes.png" width="30">[Nextcloud Notes](https://f-droid.org/es/packages/it.niedermann.owncloud.notes)
 
-🟢<img src="./icons/simplenotes.png" width="30">[Simple Notes](https://f-droid.org/es/packages/com.simplemobiletools.notes.pro)
+🟢Notally
 
-🟢<img src="./icons/simplenote.png" width="30">[Simplenote](https://play.google.com/store/apps/details?id=com.automattic.simplenote)
+🟢<img src="./icons/simplenotes.png" width="30">[Simple Notes](https://f-droid.org/es/packages/com.simplemobiletools.notes.pro)
 
 SMS :
 
@@ -643,11 +817,15 @@ Agenda :
 
 🟢<img src="./icons/simplecalendar.png" width="30">[Simple Calendar](https://f-droid.org/es/packages/com.simplemobiletools.calendar.pro)
 
+🟢Proton Calendar
+
 🟢<img src="./icons/etar.png" width="30">[Etar](https://f-droid.org/es/packages/ws.xsoh.etar)
 
 Gestionnaire de fichiers :
 
 🟢<img src="./icons/simplefilemanager.png" width="30">[Simple File Manager](https://f-droid.org/es/packages/com.simplemobiletools.filemanager.pro)
+
+🟢Material Files
 
 Galerie :
 
@@ -664,6 +842,10 @@ Lecteur audio :
 Lecteur PDF :
 
 🟢<img src="./icons/pdfviewerplus.png" width="30">[PDF Viewer Plus](https://f-droid.org/es/packages/com.gsnathan.pdfviewer)
+
+🟢Librera Reader
+
+🟢KOReader
 
 🟢<img src="./icons/mupdfviewer.png" width="30">[MuPDF Viewer](https://f-droid.org/es/packages/com.artifex.mupdf.viewer.app)
 
@@ -689,6 +871,8 @@ Gestionnaire d'appels :
 
 🔴<img src="./icons/simpledialer.png" width="30">[Simple Dialer](https://f-droid.org/es/packages/com.simplemobiletools.dialer)
 
+🔴Emerald Dialer
+
 Clock :
 
 🟢<img src="./icons/simpleclock.png" width="30">[Simple Clock](https://f-droid.org/en/packages/com.simplemobiletools.clock)
@@ -699,9 +883,11 @@ Calculator :
 
 Pour aller plus loin :
 
-Isolateur de réseau d'application et moniteur de trafic:
+Contrôleur de trafic réseau (pare-feu) :
 
 🟢<img src="./icons/rethinkdns.png" width="30">[RethinkDNS*](https://play.google.com/store/apps/details?id=com.celzero.bravedns&hl=es&gl=US)
+
+🟢<img src="./icons/inviziblepro.png" width="30">[InviZible Pro](https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable)
 
 🟢<img src="./icons/netguard.png" width="30">[NetGuard](https://f-droid.org/es/packages/eu.faircode.netguard)
 
@@ -718,6 +904,8 @@ Gestionnaire de confidentialité pour les applications :
 🟢<img src="./icons/appwarden.png" width="30">[App Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227) (root)
 
 Stoppeur d’applications (arrière plan) :
+
+🟢<img src="./icons/rethinkdns.png" width="30">[RethinkDNS*](https://play.google.com/store/apps/details?id=com.celzero.bravedns&hl=es&gl=US)
 
 🟢<img src="./icons/superfreezz.png" width="30">[SuperFreezZ](https://f-droid.org/es/packages/superfreeze.tool.android)
 
@@ -749,9 +937,9 @@ Bloqueur d’usage du micro :
 
 Navigateur :
 
-🔵<img src="./icons/onionbrowser.png" width="30">[Onion Browser](https://apps.apple.com/us/app/onion-browser/id519296448)
-
 🔵<img src="./icons/firefox.png" width="30">[Firefox](https://apps.apple.com/us/app/navegador-firefox/id989804926)
+
+🔵<img src="./icons/onionbrowser.png" width="30">[Onion Browser](https://apps.apple.com/us/app/onion-browser/id519296448)
 
 🔵<img src="./icons/duckduckgobrowser.png" width="30">[DuckDuckGo Browser](https://apps.apple.com/us/app/duckduckgo-privacy-browser/id663592361)
 
@@ -763,9 +951,9 @@ Messagerie instantanée :
 
 🔵<img src="./icons/signal.png" width="30">[Signal](https://apps.apple.com/us/app/signal-mensajer%C3%ADa-privada/id874139669)
 
-🔵<img src="./icons/session.png" width="30">[Session*](https://apps.apple.com/us/app/session-private-messenger/id1470168868)
-
 🔴<img src="./icons/telegram.png" width="30">[Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
+
+🟢<img src="./icons/session.png" width="30">[Session*](https://apps.apple.com/us/app/session-private-messenger/id1470168868)
 
 🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
@@ -783,25 +971,31 @@ Visioconférence :
 
 🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
+🔵<img src="./icons/whereby.png" width="30">[Whereby](https://apps.apple.com/us/app/whereby-video-meetings/id878583078)
+
+🔴<img src="./icons/telegram.png" width="30">[Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
+
 Plateforme vidéo :
 
-🔵<img src="./icons/lbry.png" width="30">[LBRY](https://lbry.tv/)
+🔴<img src="./icons/lbry.png" width="30">[LBRY](https://lbry.tv/)
 
 Bloqueur de publicité/pisteurs :
 
-🔵<img src="./icons/blokada.png" width="30">[Blokada](https://apps.apple.com/us/app/blokada/id1508341781)
+🟢<img src="./icons/blokada.png" width="30">[Blokada](https://apps.apple.com/us/app/blokada/id1508341781)
 
 🟢<img src="./icons/dnscloak.png" width="30">[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)
 
 🟢<img src="./icons/lockdown.png" width="30">[Lockdown](https://apps.apple.com/us/app/lockdown-apps/id1469783711)
 
+Cartes / Navigation GPS :
+
+🔵Magic Earth
+
 Client courriel : 
 
 🔵<img src="./icons/tutanota.png" width="30">[Tutanota](https://apps.apple.com/us/app/tutanota/id922429609)
 
-🔵<img src="./icons/protonmail.png" width="30">[Protonmail](https://apps.apple.com/us/app/protonmail-correo-cifrado/id979659905)
-
-🔵<img src="./icons/ctemplar.png" width="30">[CTemplar](https://apps.apple.com/us/app/ctemplar/id1495837525)
+🔴<img src="./icons/protonmail.png" width="30">[Protonmail](https://apps.apple.com/us/app/protonmail-correo-cifrado/id979659905)
 
 Gestionnaire d’alias pour courriel :
 
@@ -809,52 +1003,43 @@ Gestionnaire d’alias pour courriel :
 
 Client gestionnaire de mots de passe :
 
-🔵<img src="./icons/bitwarden.png" width="30">[Bitwarden](https://apps.apple.com/us/app/bitwarden-gestor-de-contrase/id1137397744)
-
 🟢<img src="./icons/strongbox.png" width="30">[Strongbox](https://apps.apple.com/es/app/strongbox-keepass-pwsafe/id897283731) - KeePass & PwSafe
+
+🔵<img src="./icons/bitwarden.png" width="30">[Bitwarden](https://apps.apple.com/us/app/bitwarden-gestor-de-contrase/id1137397744)
 
 Authentification à deux facteurs :
 
 🟢<img src="./icons/tofuauthenticator.png" width="30">[Tofu Authenticator](https://apps.apple.com/us/app/tofu-authenticator/id1082229305)
 
-Bureautique :
+🟢Raivo OTP
 
-🟢<img src="./icons/collaboraoffice.png" width="30">[Collabora Office - LibreOffice prof.](https://www.collaboraoffice.com)
+VPN:
+
+🔵ProtonVPN
+
+🟢IVPN
+
+🔵Mullvad VPN
+
+🔵Windscribe VPN
 
 Outil de chiffrement pour le cloud :
 
 🟢<img src="./icons/cryptomator.png" width="30">[Cryptomator](https://apps.apple.com/us/app/cryptomator/id953086535)
 
-### 4-3 F-Droid
+Réseau social respectueux :
 
-Afin de trouver et télécharger certaines applications de F-Droid, il est nécessaire d'ajouter leurs référentiels. Pour ce faire, allez dans les paramètres du F-Droid, puis sous "référentiels", activez le référentiel "Guardian Project" et enfin appuyez sur le "+" et saisissez les adresses mentionnées souhaitées :
+🔵Mastodon for iPhone
 
-* Bromite :
-https://fdroid.bromite.org/fdroid/repo
+🔵Element (Matrix)
 
-* Mull :
-https://divestos.org/fdroid/official
+🔴<img src="./icons/telegram.png" width="30">[Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
 
-* Newpipe :
-https://archive.newpipe.net/fdroid/repo
+Bureautique :
 
-Il se peut que Newpipe cesse de fonctionner en raison de modifications apportées par Google sur YouTube. Afin de bénéficier rapidement des dernières mises à jour en corrigeant ces problèmes, il est recommandé d'ajouter le propre référentiel de Newpipe.
+🟢Collabora Office
 
-* Langis (Signal) :
-https://gitlab.com/TheCapsLock/fdroid-patched-apps/raw/master/fdroid/repo
-
-Langis est une version modifiée de Signal à utiliser en dernier recours si les notifications n'arrivent pas avec la version classique de Signal d'Aurora Store.
-
-* Session :
-https://fdroid.getsession.org/fdroid/repo
-
-* Bitwarden :
-https://mobileapp.bitwarden.com/fdroid/repo
-
-Version sans les trackers tiers présents dans la version Google Play.
-
-* Collabora Office :
-https://www.collaboraoffice.com/downloads/fdroid/repo
+🟢LibreOffice
 
 ## 5 Navigateurs
 
@@ -909,22 +1094,19 @@ La méthode d’anonymisation du réseau Tor ralentit les chargements. Il n’es
 Searx est un métamoteur qui ne transmet pas de données personnelles aux moteurs de recherche utilisés. Il permet, si on le souhaite, une configuration très avancée. Les différentes instances (disponibles ici : https://searx.space/) n’offrent pas toutes les
 mêmes garanties de protection de la vie privée (log d’adresses IP ou non, etc.).
 
-🟢https://search.disroot.org : Google results (Startpage), no IP address log, good UI
-
 🔵https://searx.nogafam.es : Google results included, IP address, log good UI
+
+🟢https://search.disroot.org : Google results (Startpage), no IP address log, good UI
 
 🟢https://search.disroot.org : Google results included, no IP address log
 
-
 ### 6-2 Invidious
 
-Invidious donne accès au contenu Youtube (proxy) sans transmettre les données personnelles à Google. Malheureusement, ses différentes instances (disponibles ici : https://instances.invidio.us/) rencontrent fréquemment des problèmes dus aux mesures prises par Google pour empêcher leur fonctionnement.
+Invidious donne accès au contenu Youtube (proxy) sans transmettre les données personnelles à Google. Malheureusement, ses différentes instances (disponibles ici : https://instances.invidio.us/) rencontrent fréquemment des problèmes dus aux mesures prises par Google pour empêcher leur fonctionnement. L'extension Privacy Redirect redirige automatiquement les liens YouTube vers Invidous.
+
 Les instances Invidious qui semblent actuellement être les plus fonctionnelles sont
 
-⚫https://invidious.snopyta.org
-
-⚫https://invidious.xyz
-
+⚫https://yewtu.be
 
 ### 6-3 Visioconférence
 
@@ -962,6 +1144,8 @@ Avec filtrage contre publicité, pisteurs et domaines malicieux :
 
 🔵[Adguard](https://adguard.com/en/adguard-dns/overview.html) (DoH, DoT, DNSCrypt)
 
+🔵[Quad9](https://www.quad9.net) (DoH, DoT, DNSCrypt) (bloquer uniquement les domaines malveillants)
+
 🔵[NextDNS](https://nextdns.io) (DoH, DoT, DNSCrypt)
 
 NixNet DoH : https://adblock.any.dns.nixnet.xyz/dns-query
@@ -995,7 +1179,7 @@ Sans filtrage :
 
 🟢[PowerDNS](https://www.powerdns.com) (DoH)
 
-## 7 Ressources additionnelles et sources
+## 7 Ressources additionnelles (sources vedettes)
 
 **Général**
 
@@ -1004,12 +1188,18 @@ Excellentes ressources pour mieux comprendre le capitalisme de surveillance et s
 https://www.nogafam.es/blog/presentacion
 
 Derrière nos écrans de fumée, Jeff Orlowski (film)
-Rien à cacher, Marc Meillassoux (documental)
+Nothing to Hide,, Marc Meillassoux (documental)
 L’Âge du capitalisme de surveillance, Shoshana Zuboff (livre)
 
-Tutoriels faciles pour la confidentialité :
+Excellents tutoriels pour la confidentialité et la protection des données : 
+
+basique :
 
 https://spreadprivacy.com/tag/device-privacy-tips
+
+https://www.vice.com/en_us/article/d3devm/motherboard-guide-to-notgetting-hacked-online-safety-guide
+
+plein : 
 
 Excellentes chaînes à propos de la confidentialité (avec tutoriels) :
 
@@ -1031,11 +1221,7 @@ https://framasoft.org/en/
 https://snopyta.org/
 https://www.drycat.fr/en
 
-Bonnes pratiques pour la protection des données :
-
-https://www.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide
-
-Excellent site listant des services et programmes respectueux :
+Excellent site répertoriant les services et programmes respectueux : :
 
 https://www.privacytools.io/
 
@@ -1043,13 +1229,12 @@ Opérateurs recommandés :
 
 https://www.eff.org/pages/quien-defiende-tus-datos
 
-**Groupes et canaux Telegram**
+**Groupes et canaux Telegram (et Matrix)**
 
 Respect de la vie privée et autres :
-[t.me/privacid](t.me/privacid)
-[t.me/techloregroup](t.me/techloregroup)
-[t.me/techloreofficial](t.me/techloreofficial)
-[t.me/NoGoolag](t.me/NoGoolag)
+[t.me/privacidadlibre](t.me/privacidadlibre) et #privacidadlibre:matrix.org
+[t.me/techloregroup](t.me/techloregroup) et #techlore:matrix.org
+[t.me/techloreofficial](t.me/techloreofficial) (attention, biais pro Apple)
 
 Linux et autres : 
 [Proyecto tic tac](t.me/grupo_telegram_proyectotictac)
@@ -1060,15 +1245,19 @@ Linux et autres :
 
 Linux :
 
-[Linux Mint](https://linuxmint.com)
+*[MX Linux](https://mxlinux.org)
 
-[MX Linux](https://mxlinux.org)
+*[Linux Mint](https://linuxmint.com)
 
 Android respectueux de la vie privée :
 
-[CalyxOS](https://calyxos.org/what)
+*[CalyxOS](https://calyxos.org)
 
-[/e/ OS](https://e.foundation)
+*[GrapheneOS](https://grapheneos.org)
+
+*[/e/ OS](https://e.foundation)
+
+*Compatibilité des applications avec et sans microG : (https://plexus.techlore.tech)
 
 **Firefox**
 
@@ -1093,6 +1282,12 @@ Les recommandations suivantes sont imparfaites et ne garantissent pas entièreme
 * Supprimer (ou lorsqu'il n'est pas possible de désactiver) toutes les applications nuisibles (Google, antivirus tiers, etc.) ou non utilisées
 * Bloquez l'accès Internet à toutes les applications qui sont désactivées ou ne nécessitent pas d'accès Internet pour fonctionner grâce à une application de pare-feu telle que RethinkDNS
 * Passez en revue toutes les autorisations d'application et de système pour les supprimer si elles sont nuisibles à la vie privée ou inutiles
+
+**GrapheneOS**
+
+Profitez de la fonction offerte uniquement par GrapheneOS pour supprimer l'autorisation d'accès aux capteurs (utilisés insidieusement pour la collecte d'informations et le traçage) à toutes les applications commerciales ou fermées et aussi celles qui n'en ont pas besoin, par précaution :
+
+"Paramètres"> "Applications et notifications"> choisissez une application> "Autorisations"> "Capteurs" > "Voir toutes les applications qui ont cette autorisation"
 
 **Windows**
 
@@ -1121,7 +1316,44 @@ Configuration Wi-Fi :
 Clic droit sur l’icône Wi-Fi, modifier les connections, sélectionner le Wi-Fi actif, sous Wi-Fi sélectionner Adresse MAC clonée : Aléatoire.
 Sous paramètres IPv6, sélectionner Extensions de confidentialité IPv6 : Activé (adresse temporaire préférée)
 
-### 8-2 Applications et programmes
+### 8-2 F-Droid
+
+Afin de trouver et télécharger certaines applications de F-Droid, il est nécessaire d'ajouter leurs référentiels. Pour ce faire, allez dans les paramètres du F-Droid, puis sous "référentiels", activez le référentiel "Guardian Project" et enfin appuyez sur le "+" et saisissez les adresses mentionnées souhaitées :
+
+* Bromite :
+https://fdroid.bromite.org/fdroid/repo
+
+* Mull :
+https://divestos.org/fdroid/official
+
+* Ungoogled Chromium :
+https://www.droidware.info/fdroid/repo
+
+* Newpipe :
+https://archive.newpipe.net/fdroid/repo
+
+Il se peut que Newpipe cesse de fonctionner en raison de modifications apportées par Google sur YouTube. Afin de bénéficier rapidement des dernières mises à jour en corrigeant ces problèmes, il est recommandé d'ajouter le propre référentiel de Newpipe.
+
+* Langis (Signal) :
+https://gitlab.com/TheCapsLock/fdroid-patched-apps/raw/master/fdroid/repo
+
+Langis est une version modifiée de Signal à utiliser en dernier recours si les notifications n'arrivent pas avec la version classique de Signal d'Aurora Store.
+
+* Session :
+https://fdroid.getsession.org/fdroid/repo
+
+* Bitwarden :
+https://mobileapp.bitwarden.com/fdroid/repo
+
+Version sans les trackers tiers présents dans la version Google Play.
+
+* Nebulo :
+https://fdroid.frostnerd.com/fdroid/repo
+
+* Collabora Office :
+https://www.collaboraoffice.com/downloads/fdroid/repo
+
+### 8-3 Applications et programmes
 
 **Telegram**
 
@@ -1137,10 +1369,15 @@ Paramètres> Confidentialité et sécurité> Chats secrets> Aperçu du lien
 **Blokada**
 
 Blocklists > activer les listes noires suivantes :
-- Energized : Basic (ou Blu si mémoire RAM inférieure à 4gb)
+
+- OISD
+- Phishing Army
 - DuckDuckGo Tracker Radar
 - Exodus Privacy
+- Combined Privacy
+- URLhaus
 - (Goodbye Ads : Samsung ou Xiaomi (uniquement pour les modèles de ces marques))
+
 Encryption > sélectionner un serveur DNS parmi les suivants :
 DoH : Blah DNS, Digitale Gesellschaft(Europe), (OpenNIC).
 ((Non chiffré : DNS.Watch, Uncensored DNS, French Data Network(Europe))).
@@ -1148,15 +1385,26 @@ DoH : Blah DNS, Digitale Gesellschaft(Europe), (OpenNIC).
 **FreeTube**
 
 Usar Invidious como proxy para evitar transmitir sus datos a Google :
+
 Settings : - Player Settings : activar "Proxy Videos Through Invidious"
 - Advanced Settings : entrar una instancia Invidious funcional
 
 En caso de problema, cambiar de instancia o simplemente desactivar "Proxy Videos
 Through Invidious".
 
-### 8-3 Firefox
+### 8-4 Firefox
 
 **Configuration générale**
+
+La configuration proposée là bas étant relativement restrictive afin de protéger la vie privée de l'utilisateur, il est recommandé de suivre le cloisonnement proposé au point 5 du document et ainsi d'utiliser au moins un autre navigateur pour pouvoir accéder aux sites moins respectueux des intimité. .
+
+Tout d'abord, si votre réseau ou votre ordinateur est configuré pour utiliser un serveur DNS respectueux et crypté globalement, vous devez désactiver la fonctionnalité "DNS sur HTTPS" activée par défaut dans Firefox. Si ce n'est pas le cas (si vous ne le savez pas, ce n'est probablement pas le cas), il est recommandé de laisser cette fonction activée. Désormais, il faut changer le serveur DNS par défaut puisque Cloudflare est un acteur centralisateur et néfaste pour la confidentialité. Au lieu de cette dernière, il est recommandé de choisir une option respectueuse proposée au point 6.4 du document, en fonction de votre
+préférences et emplacement.
+
+Pour cela : Paramètres Firefox> "Général"> bas "Paramètres réseau"> bas "Activer DNS
+sur HTTPS".
+
+Voici le reste des paramètres généraux recommandés en images :
 
 <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/1.png" width="750">
 <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/2.png" width="750">
@@ -1164,7 +1412,6 @@ Through Invidious".
 <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/4.png" width="750">
 <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/5.png" width="750">
 <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/6.png" width="750">
-<img src="https://raw.githubusercontent.com/adgellida/data-protection-list/master/images/7.png" width="750">
 
 **Configuration des extensions**
 
