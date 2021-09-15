@@ -398,7 +398,7 @@ Notas :
 
 🟢<img src="./icons/gnome.png" width="30">[Gnote](https://wiki.gnome.org/Apps/Gnote)
 
-Antivirus (ClamAV):
+Antivirus (ClamAV) :
 
 🟢ClamTK (Linux)
 
@@ -568,7 +568,7 @@ Navegador :
 
 🟢<img src="./icons/privacybrowser.png" width="30">[Privacy Browser](https://f-droid.org/es/packages/com.stoutner.privacybrowser.standard)
 
-🔵<img src="./icons/ungoogledchromium.png" width="30">[Ungoogled Chromium(](https://uc.droidware.info/fdroid.html)
+🔵<img src="./icons/ungoogledchromium.png" width="30">[Ungoogled Chromium](https://uc.droidware.info/fdroid.html)
 
 Mensajería instantánea :
 
