@@ -52,7 +52,7 @@ Je vous recommande de participer à:
 
 * [Official Telegram Group](https://t.me/privacid)
 * [Official Discord Group](https://discord.gg/b9ey65Q) - Bien que pour diverses raisons de confidentialité et de sécurité, nous ne le recommandons pas.
-* Groupe d'élément officiel - Demander une invitation
+* Groupe d'élément officiel - #privacidadlibre:matrix.org - Demander une invitation
 
 L'objectif du groupe est de promouvoir collectivement de bonnes habitudes en matière de confidentialité, de sécurité et également de programmes/applications open source/gratuits, de services et de systèmes d'exploitation pour résister à la collecte et à l'exploitation de données personnelles par des entreprises privées.
 

@@ -52,7 +52,7 @@ Os recomiendo participar en:
 
 * [Grupo oficial de Telegram](https://t.me/privacid)
 * [Grupo oficial de Discord](https://discord.gg/b9ey65Q) - Aunque debido a varias razones de privacidad, seguridad no lo recomendamos.
-* Grupo oficial de Element - Pedir invitación
+* Grupo oficial de Element - #privacidadlibre:matrix.org - Pedir invitación
 
 El objetivo del grupo es promover colectivamente buenas costumbres en cuanto a la privacidad, seguridad y tambien programas/apps, servicios y sistemas operativos open source/libres para resistir a la recolección y explotación de datos personales por empresas privadas.
 
