@@ -119,15 +119,13 @@ Il faut savoir que chacune d’entre elles propose une ou plusieurs interfaces (
 
 **Desktop :**
 
-🟢<img src="./icons/mxlinux.png" width="30">[MX Linux](https://mxlinux.org) :  convient aux débutants
-
 🟢<img src="./icons/linuxmint.png" width="30">[Linux Mint](https://linuxmint.com) : idéal pour les débutants
+
+🟢<img src="./icons/mxlinux.png" width="30">[MX Linux](https://mxlinux.org) :  convient aux débutants
 
 🟢<img src="./icons/parrotos.png" width="30">[Parrot Home OS](https://www.parrotsec.org) : sécurité et confidentialité renforcées (utilisateurs confirmés)
 
-🟢<img src="./icons/solus.png" width="30">[Solus](https://getsol.us/home) :  convient aux débutants
-
-🟢<img src="./icons/elementaryos.png" width="30">[ElementaryOS](https://elementary.io) : idéal pour les débutants habitués à macOS
+🟢<img src="./icons/zorinos.png" width="30">[Zorin OS](https://zorin.com/os) : idéal pour les débutants venant de Windows ou macOS (support commercial)
 
 🟢<img src="./icons/qubeos.png" width="30">[Qubes OS](https://www.qubes-os.org) : sécurité extrême (utilisateurs avancés)
 
@@ -147,21 +145,30 @@ Il faut savoir que chacune d’entre elles propose une ou plusieurs interfaces (
 
 🟢<img src="./icons/batocera.png" width="30">[Batocera](https://batocera.org) : émulateur de consoles, retrogaming
 
-🟢<img src="./icons/plasmabigscreen.png" width="30">[Plasma BigScreen*](https://plasma-bigscreen.org) : centre multimédia pour TV (commande vocale avec Mycroft AI)
-
 🟢<img src="./icons/raspberrypios.png" width="30">[Raspberry Pi OS](https://www.raspberrypi.org/software) : système d’exploitation classique
 
-🟢<img src="./icons/nymphcast.png" width="30">[Nymphcast](http://nyanko.ws/product_nymphcast.php) : alternative gratuite et écologique au Chromecast
+🟢<img src="./icons/plasmabigscreen.png" width="30">[Plasma BigScreen*](https://plasma-bigscreen.org) : centre multimédia pour TV (commande vocale avec Mycroft AI)
+
+🟢<img src="./icons/nymphcast.png" width="30">[Nymphcast*](http://nyanko.ws/product_nymphcast.php) : alternative gratuite et écologique au Chromecast
 
 **Hardware :**
 
 Les marques suivantes vendent des ordinateurs avec Linux préinstallé :
-Linux Mint
+
+TUXEDO Computers
+
 Slimbook
-PINE64
+
 Librem
-ThinkPenguin
+
 System76
+
+Linux Mint
+
+PINE64
+
+ThinkPenguin
+
 Dell (quelques modèles)
 
 Il existe également d'autres fournisseurs d'ordinateurs moins connus avec Linux préinstallé. Concernant les fournisseurs d'ordinateurs Windows
@@ -179,7 +186,7 @@ Navigateur :
 
 🔴<img src="./icons/brave.png" width="30">[Brave](https://brave.com)
 
-🟢<img src="./icons/ungoogledchromium.png" width="30">[Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
+🔵<img src="./icons/ungoogledchromium.png" width="30">[Ungoogled Chromium*](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
 
 🔵<img src="./icons/iridiumbrowser.png" width="30">[Iridium Browser](https://iridiumbrowser.de)
 
@@ -213,15 +220,17 @@ Courriel :
 
 <img src="./icons/tutanota.png" width="30">[Tutanota](https://tutanota.com) 🔵libre 🔴payer
 
-<img src="./icons/posteo.png" width="30">[Posteo](https://posteo.de) 🔵payer
+<img src="./icons/protonmail.png" width="30">[ProtonMail](https://protonmail.com) 🔵libre 🔵payer
 
 <img src="./icons/disroot.png" width="30">[Disroot](https://disroot.org/en/services/email) 🔵libre
 
-<img src="./icons/protonmail.png" width="30">[Protonmail](https://protonmail.com) 🔴libre 🔴payer
+<img src="./icons/posteo.png" width="30">[Posteo](https://posteo.de) 🔵payer
 
 Plateforme vidéo :
 
-🔴<img src="./icons/lbry.png" width="30">[Odysee - LBRY](https://lbry.com)
+🔵<img src="./icons/lbry.png" width="30">[LBRY - desktop](https://lbry.com)
+
+🔴<img src="./icons/odysee.png" width="30">[Odysee - LBRY web](https://odysee.com)
 
 🟢<img src="./icons/peertube.png" width="30">[PeerTube](https://joinpeertube.org)
 
@@ -239,9 +248,9 @@ Messagerie instantanée :
 
 🔵<img src="./icons/signal.png" width="30">[Signal](https://signal.org)
 
-🔴<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
-
 🟢<img src="./icons/session.png" width="30">[Session*](https://getsession.org)
+
+🔴<img src="./icons/telegram.png" width="30">[Telegram](https://telegram.org)
 
 🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
@@ -295,7 +304,7 @@ Traduction :
 
 🟢<img src="./icons/libretranslate.png" width="30">[LibreTranslate](https://libretranslate.com/)
 
-🔴<img src="./icons/deepl.png" width="30">[DeepL](https://www.deepl.com/translator)
+<img src="./icons/deepl.png" width="30">[DeepL](https://www.deepl.com/translator) 🔴libre 🔵payer
 
 🟢<img src="./icons/apertium.png" width="30">[Apertium](https://www.apertium.org)
 
@@ -304,7 +313,7 @@ Translate)
 
 Bloqueur de publicités/trackers et contrôleur de trafic réseau :
 
-⚫<img src="./icons/portmaster.png" width="30">[Portmaster](https://safing.io/portmaster)
+⚫<img src="./icons/portmaster.png" width="30">[Portmaster*](https://safing.io/portmaster)
 
 Gestionnaire de mots de passe :
 
@@ -332,27 +341,47 @@ VPN :
 
 🔵<img src="./icons/windscribe.png" width="30">[Windscribe](https://windscribe.com/)
 
+Films et séries en ligne :
+
+🔵<img src="./icons/stremio.png" width="30">[Swiss Transfer](https://www.stremio.com) 🔵sans compte 🔴avec compte
+
+🟢<img src="./icons/kodi.png" width="30">[IVPN](https://kodi.tv)
+
 Partage de fichiers :
 
 🟢<img src="./icons/disroot.png" width="30">[Disroot](https://upload.disroot.org)
 
-🔵<img src="./icons/swisstransfer.png" width="30">[Swiss Transfer](https://swisstransfer.com)
-
 🟢<img src="./icons/onionshare.png" width="30">[OnionShare](https://onionshare.org)
+
+🟢<img src="./icons/syncthing.png" width="30">[Syncthing](https://syncthing.net)
+
+🔵<img src="./icons/tresoritsend.png" width="30">[Tresorit Send](https://tresorit.com/)
+
+🔴<img src="./icons/swisstransfer.png" width="30">[Swiss Transfer](https://swisstransfer.com)
 
 Cloud :
 
-🟢<img src="./icons/disroot.png" width="30">[Disroot](https://cloud.disroot.org) (Nextcloud)
+🔵<img src="./icons/kdrive.png" width="30">[Kdrive](https://www.infomaniak.com/es/kdrive)
 
-🟢<img src="./icons/cozycloud.png" width="30">[Cozy Cloud](https://cozy.io)
+🔵<img src="./icons/mega.png" width="30">[Kdrive](https://www.https://mega.nz)
 
 🟢<img src="./icons/nextcloud.png" width="30">[Nextcloud](https://nextcloud.com)
 
-🔵<img src="./icons/kdrive.png" width="30">[Kdrive](https://www.infomaniak.com/es/kdrive) (Infomaniak)
+🔴<img src="./icons/cozycloud.png" width="30">[Cozy Cloud](https://cozy.io)
+
+<img src="./icons/icedrive.png" width="30">[Kdrive](https://icedrive.net) 🔴libre 🔵payer
+
+🔴<img src="./icons/disroot.png" width="30">[Disroot](https://cloud.disroot.org)
 
 Outil de synchronisation peer-to-peer :
 
 🟢<img src="./icons/syncthing.png" width="30">[Syncthing](https://syncthing.net)
+
+Agenda :
+
+🟢<img src="./icons/tutanota.png" width="30">[Tutanota](https://f-droid.org/es/packages/de.tutao.tutanota)
+
+🟢<img src="./icons/protonmail.png" width="30">[ProtonCalendar*](https://protonmail.com)
 
 Courriel temporaire :
 
@@ -372,11 +401,17 @@ Collaboration et organisation :
 
 🟢<img src="./icons/mobilizon.png" width="30">[Mobilizon](https://mobilizon.org/en/)
 
+Wikipedia :
+
+🟢<img src="./icons/wikiless.png" width="30">[Elisa](https://wikiless.org) (proxy Wikipedia)
+
 Lecteur audio :
 
 🟢<img src="./icons/elisa.png" width="30">[Elisa](https://elisa.kde.org)
 
 🟢<img src="./icons/audacious.png" width="30">[Audacious](https://audacious-media-player.org)
+
+🟢<img src="./icons/strawberry.png" width="30">[Strawberry Music Player](https://www.strawberrymusicplayer.org)
 
 Lecteur multimédia :
 
@@ -460,15 +495,23 @@ Mise en page, édition (PAO) :
 
 🟢<img src="./icons/cinelerra.png" width="30">[Cinelerra](http://cinelerra.org)
 
+Gravure de CD/DVD :
+
+🟢<img src="./icons/k3b.png" width="30">[k3b](https://apps.kde.org/k3b)
+
+🟢<img src="./icons/brasero.png" width="30">[Brasero](https://wiki.gnome.org/Apps/Brasero)
+
 Transcodage :
 
-🟢Handbrake
+🟢<img src="./icons/handbrake.png" width="30">[Handbrake](https://handbrake.fr)
 
-🟢MKV
+🟢<img src="./icons/mkv.png" width="30">[MKV](https://www.matroska.org/index.html)
 
 Interface de connexion entre ordinateur et téléphone portable :
 
 🟢KDE Connect
+
+🟢Zorin Connect
 
 Programmes/jeux Windows sous Linux :
 
@@ -481,6 +524,14 @@ Programmes/jeux Windows sous Linux :
 Analyse de trafic réseau :
 
 🟢<img src="./icons/wireshark.png" width="30">[Wireshark](https://www.wireshark.org)
+
+Écosystème tout-en-un :
+
+🔵Infomaniak
+
+🔵Proton*
+
+🔵Cozy Cloud
 
 ## 4 Smartphone
 
@@ -502,6 +553,8 @@ Les options basées sur Linux sont respectueuses de la vie privée et prometteus
 
 🔵<img src="./icons/e.png" width="30">[/e/ OS](https://e.foundation) : LineageOS dégooglisé mais avec microG et services intégrés (compte /e/)
 
+🔵<img src="./icons/divestos.png" width="30">[DivestOS](https://divestos.org/) : LineageOS partiellement amélioré pour la sécurité et la confidentialité
+
 🔵<img src="./icons/lineageosmicrog.png" width="30">[LineageOS for microG](https://lineage.microg.org) : LineageOS avec microG pour une meilleure compatibilité
 
 🔵<img src="./icons/vollaos.png" width="30">[Volla OS](https://volla.online): Android sûr, sans Google Apps mais pas totalement dégooglisé
@@ -512,15 +565,15 @@ Les options basées sur Linux sont respectueuses de la vie privée et prometteus
 
 🔵<img src="./icons/sailfishos.png" width="30">[Sailfish OS](https://sailfishos.org) (partiellement propriétaire)
 
-🔵<img src="./icons/ubuntutouch.png" width="30">[Ubuntu Touch](https://ubuntu-touch.io)
+🔵<img src="./icons/ubuntutouch.png" width="30">[Ubuntu Touch*](https://ubuntu-touch.io)
 
-🔵<img src="./icons/postmarketos.png" width="30">[PostmarketOS](https://postmarketos.org)
+🔵<img src="./icons/postmarketos.png" width="30">[PostmarketOS*](https://postmarketos.org)
 
-🔵<img src="./icons/manjaro.png" width="30">[Manjaro](https://manjaro.org)
+🔵<img src="./icons/mobian.png" width="30">[Mobian*](https://mobian-project.org)
 
-🔵<img src="./icons/mobian.png" width="30">[Mobian](https://mobian-project.org)
+🔵<img src="./icons/pureos.png" width="30">[PureOS*](https://pureos.net)
 
-🔵<img src="./icons/pureos.png" width="30">[PureOS](https://pureos.net)
+🔵<img src="./icons/manjaro.png" width="30">[Manjaro*](https://manjaro.org)
 
 **Matériel préinstallé :**
 
@@ -560,7 +613,9 @@ Navigateur :
 
 🔵<img src="./icons/mull.png" width="30">[mull](https://github.com/Divested-Mobile/mull)
 
-🟢<img src="./icons/privacybrowser.png" width="30">[Privacy Browser](https://f-droid.org/es/packages/com.stoutner.privacybrowser.standard)
+🔵<img src="./icons/privacybrowser.png" width="30">[Privacy Browser](https://f-droid.org/es/packages/com.stoutner.privacybrowser.standard)
+
+🔵<img src="./icons/fossbrowser.png" width="30">[FOSS Browser](https://f-droid.org/es/packages/de.baumann.browser)
 
 🔵<img src="./icons/ungoogledchromium.png" width="30">[Ungoogled Chromium](https://uc.droidware.info/fdroid.html)
 
@@ -570,9 +625,9 @@ Messagerie instantanée :
 
 🔵<img src="./icons/signal.png" width="30">[Signal](https://signal.org)
 
-🔴<img src="./icons/telegram.png" width="30">[Telegram FOSS](https://f-droid.org/packages/org.telegram.messenger/)
+🟢<img src="./icons/session.png" width="30">[Session*](https://getsession.org)
 
-🔵<img src="./icons/session.png" width="30">[Session*](https://getsession.org)
+🔴<img src="./icons/telegram.png" width="30">[Telegram FOSS](https://f-droid.org/packages/org.telegram.messenger/)
 
 🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
@@ -592,9 +647,9 @@ Visioconférence :
 
 🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
-🔴<img src="./icons/telegram.png" width="30">[Telegram FOSS](https://f-droid.org/packages/org.telegram.messenger/)
-
 🔵<img src="./icons/whereby.png" width="30">[Whereby](https://whereby.com)
+
+🔴<img src="./icons/telegram.png" width="30">[Telegram FOSS](https://f-droid.org/packages/org.telegram.messenger)
 
 Plateforme vidéo :
 
@@ -608,7 +663,7 @@ Bloqueur de publicité/pisteurs :
 
 🟢<img src="./icons/rethinkdns.png" width="30">[RethinkDNS*](https://play.google.com/store/apps/details?id=com.celzero.bravedns&hl=es&gl=US)
 
-🔵<img src="./icons/blokada.png" width="30">[Blokada](https://f-droid.org/es/packages/org.blokada.alarm)
+🟢<img src="./icons/blokada.png" width="30">[Blokada](https://f-droid.org/es/packages/org.blokada.alarm)
 
 🟢<img src="./icons/nebulo.png" width="30">[Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen&hl=es&gl=US)
 
@@ -616,9 +671,9 @@ Bloqueur de publicité/pisteurs :
 
 Cartes/navigation GPS :
 
-🟢<img src="./icons/osmand.png" width="30">[OsmAnd+](https://f-droid.org/es/packages/net.osmand.plus/)
-
 🔵<img src="./icons/magicearth.png" width="30">[Magic Earth](https://www.magicearth.com)
+
+🟢<img src="./icons/osmand.png" width="30">[OsmAnd+](https://f-droid.org/es/packages/net.osmand.plus/)
 
 🟢Organic Maps
 
@@ -626,7 +681,7 @@ Client courriel :
 
 🔵<img src="./icons/tutanota.png" width="30">[Tutanota](https://f-droid.org/es/packages/de.tutao.tutanota)
 
-🔴<img src="./icons/protonmail.png" width="30">[Protonmail](https://protonmail.com)
+🔵<img src="./icons/protonmail.png" width="30">[ProtonMail](https://protonmail.com)
 
 ⚫FairEmail
 
@@ -652,15 +707,6 @@ Authentification à deux facteurs :
 
 🟢<img src="./icons/andotp.png" width="30">[andOTP](https://f-droid.org/en/packages/org.shadowice.flocke.andotp)
 
-Web Apps :
-
-🟢<img src="./icons/webapps.png" width="30">[WebApps](https://f-droid.org/en/packages/com.tobykurien.webapps)
-
-
-Bureautique :
-
-🟢<img src="./icons/collaboraoffice.png" width="30">[Collabora Office - LibreOffice prof.](https://play.google.com/store/apps/details?id=com.collabora.libreoffice)
-
 VPN :
 
 🟢<img src="./icons/protonvpn.png" width="30">[ProtonVPN](https://protonvpn.com)
@@ -679,6 +725,18 @@ Outil de synchronisation :
 
 ⚫DAVx5
 
+Cloud :
+
+🔵<img src="./icons/kdrive.png" width="30">[Kdrive](https://www.infomaniak.com/es/kdrive)
+
+🔴<img src="./icons/mega.png" width="30">[Kdrive](https://www.https://mega.nz)
+
+🟢<img src="./icons/nextcloud.png" width="30">[Nextcloud](https://nextcloud.com)
+
+🔴<img src="./icons/cozycloud.png" width="30">[Cozy Drive](https://cozy.io)
+
+🔴<img src="./icons/icedrive.png" width="30">[Kdrive](https://icedrive.net)
+
 Outil de chiffrement pour le cloud :
 
 🟢<img src="./icons/cryptomator.png" width="30">[Cryptomator](https://cryptomator.org)
@@ -687,19 +745,21 @@ Interface de connexion entre ordinateur et téléphone portable :
 
 🟢KDE Connect
 
+🟢Zorin Connect
+
 Réseau social respectueux :
 
 🔵<img src="./icons/tusky.png" width="30">[Tusky](https://f-droid.org/en/packages/com.keylesspalace.tusky) (Mastodon)
 
-🔵<img src="./icons/element.png" width="30">[Element](https://f-droid.org/es/packages/im.vector.app/) (Matrix)
+🔵<img src="./icons/element.png" width="30">[Element](https://f-droid.org/es/packages/im.vector.app) (Matrix)
 
-🔴<img src="./icons/telegram.png" width="30">[Telegram FOSS](https://f-droid.org/packages/org.telegram.messenger/)
+🔴<img src="./icons/telegram.png" width="30">[Telegram FOSS](https://f-droid.org/packages/org.telegram.messenger)
 
 🔵<img src="./icons/fedilab.png" width="30">[Fedilab](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon) Mastodon, Pleroma...),
 
 🔵PixelDroid (PixelFed)
 
-🔵Lemmur (Lemmy)
+🔵<img src="./icons/lemmy.png" width="30">[Lemmur (Lemmy)](https://lemmy.ml)
 
 Client respectueux Facebook :
 
@@ -721,7 +781,7 @@ Client respectueux Twitter :
 
 🔴<img src="./icons/webapps.png" width="30">WebApps
 
-WebApps :
+WebApps createur :
 
 🟢<img src="./icons/webapps.png" width="30">WebApps
 
@@ -743,7 +803,19 @@ Lecteur ebook :
 
 🟢KOReader
 
+La finance :
+
+🟢MoneyWallet
+
+🟢Unstoppable Wallet
+
+🟢MoneyBuster
+
+🟢WeeklyBudget
+
 Exercice physique :
+
+🟢Feeel – home workouts
 
 🟢FitoTracker
 
@@ -753,23 +825,17 @@ Radio internet :
 
 🟢<img src="./icons/radiodroid.png" width="30">[RadioDroid](https://f-droid.org/es/packages/net.programmierecke.radiodroid2)
 
-Gestionnaire des dépenses :
-
-🟢MoneyWallet
-
-Outil de chiffrement pour le cloud :
-
-🟢<img src="./icons/cryptomator.png" width="30">[Cryptomator](https://cryptomator.org)
-
-Organisation évènementielle :
-
-🟢<img src="./icons/mobilizon.png" width="30">[Mobilizon](https://mobilizon.org/en/)
+🟢Transistor – Simple Radio App
 
 Redirecteur de contenu Youtube, Twitter, Instagram et Google Map :
 
 🟢<img src="./icons/untrackme.png" width="30">[UntrackMe](https://f-droid.org/en/packages/app.fedilab.nitterizeme)
 
-Lecteur rss :
+Scanner de codes QR :
+
+⚫QR & Barcode Scanner
+
+Lecteur RSS :
 
 🟢Feeder
 
@@ -785,25 +851,33 @@ Keyboard :
 
 🟢<img src="./icons/openboard.png" width="30">[OpenBoard](https://f-droid.org/es/packages/org.dslul.openboard.inputmethod.latin)
 
-🟢<img src="./icons/florisboard.png" width="30">[FlorisBoard](https://github.com/florisboard/florisboard)
+🟢<img src="./icons/florisboard.png" width="30">[FlorisBoard*](https://github.com/florisboard/florisboard)
+
+Agenda :
+
+🟢<img src="./icons/simplecalendar.png" width="30">[Simple Calendar](https://f-droid.org/es/packages/com.simplemobiletools.calendar.pro)
+
+🟢<img src="./icons/tutanota.png" width="30">[Tutanota](https://f-droid.org/es/packages/de.tutao.tutanota)
+
+🟢Proton Calendar*
+
+🟢<img src="./icons/etar.png" width="30">[Etar](https://f-droid.org/es/packages/ws.xsoh.etar)
+
+Notes :
+
+🟢<img src="./icons/standardnotes.png" width="30">[Standard Notes](https://play.google.com/store/apps/details?id=com.standardnotes)
+
+🟢Quillnote
+
+🟢<img src="./icons/joplin.png" width="30">[Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin&utm_source=GitHub&utm_campaign=README&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+
+🟢<img src="./icons/nextcloudnotes.png" width="30">[Nextcloud Notes](https://f-droid.org/es/packages/it.niedermann.owncloud.notes)
 
 Météorologie :
 
 🟢Geometric Weather
 
 🟢Weather
-
-Notes :
-
-🟢<img src="./icons/standardnotes.png" width="30">[Standard Notes](https://play.google.com/store/apps/details?id=com.standardnotes)
-
-🟢<img src="./icons/joplin.png" width="30">[Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin&utm_source=GitHub&utm_campaign=README&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
-
-🟢<img src="./icons/nextcloudnotes.png" width="30">[Nextcloud Notes](https://f-droid.org/es/packages/it.niedermann.owncloud.notes)
-
-🟢Notally
-
-🟢<img src="./icons/simplenotes.png" width="30">[Simple Notes](https://f-droid.org/es/packages/com.simplemobiletools.notes.pro)
 
 SMS :
 
@@ -813,17 +887,11 @@ SMS :
 
 🔴<img src="./icons/qksms.png" width="30">[QKSMS](https://f-droid.org/en/packages/com.moez.QKSMS/)
 
-Agenda :
-
-🟢<img src="./icons/simplecalendar.png" width="30">[Simple Calendar](https://f-droid.org/es/packages/com.simplemobiletools.calendar.pro)
-
-🟢Proton Calendar
-
-🟢<img src="./icons/etar.png" width="30">[Etar](https://f-droid.org/es/packages/ws.xsoh.etar)
-
 Gestionnaire de fichiers :
 
 🟢<img src="./icons/simplefilemanager.png" width="30">[Simple File Manager](https://f-droid.org/es/packages/com.simplemobiletools.filemanager.pro)
+
+🟢Ghost Commander
 
 🟢Material Files
 
@@ -873,13 +941,17 @@ Gestionnaire d'appels :
 
 🔴Emerald Dialer
 
+Calculator :
+
+🟢<img src="./icons/simplecalculator.png" width="30">[Simple Calculator](https://f-droid.org/en/packages/com.simplemobiletools.calculator)
+
 Clock :
 
 🟢<img src="./icons/simpleclock.png" width="30">[Simple Clock](https://f-droid.org/en/packages/com.simplemobiletools.clock)
 
-Calculator :
+Lecteur multimédia :
 
-🟢<img src="./icons/simplecalculator.png" width="30">[Simple Calculator](https://f-droid.org/en/packages/com.simplemobiletools.calculator)
+🟢<img src="./icons/vlc.png" width="30">[VLC](https://f-droid.org/es/packages/org.videolan.vlc/)
 
 Pour aller plus loin :
 
@@ -909,17 +981,25 @@ Stoppeur d’applications (arrière plan) :
 
 🟢<img src="./icons/superfreezz.png" width="30">[SuperFreezZ](https://f-droid.org/es/packages/superfreeze.tool.android)
 
+Anonymisation réseau par Tor :
+
+🟢<img src="./icons/orbotproxy.png" width="30">[Orbot Proxy](https://play.google.com/store/apps/details?id=org.torproject.android&hl=es&gl=US)
+
+🟢<img src="./icons/inviziblepro.png" width="30">[InviZible Pro](https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable)
+
 Isolateur d’applications :
 
 🟢<img src="./icons/shelter.png" width="30">[Shelter](https://f-droid.org/en/packages/net.typeblog.shelter)
 
 🟢<img src="./icons/insular.png" width="30">[Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid)
 
-Anonymisation réseau par Tor :
+Détecteur de malware :
 
-🟢<img src="./icons/orbotproxy.png" width="30">[Orbot Proxy](https://play.google.com/store/apps/details?id=org.torproject.android&hl=es&gl=US)
+🟢Hypatia (ClamAV)
 
-🟢<img src="./icons/inviziblepro.png" width="30">[InviZible Pro](https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable)
+Alternative au Chromecast pour Raspberry Pi :
+
+🟢Raspicast
 
 Falsification de localisation :
 
@@ -927,7 +1007,7 @@ Falsification de localisation :
 
 Remplacement de Google Services :
 
-🔴<img src="./icons/microg.png" width="30">[MicroG GmsCore](https://microg.org)
+🔵<img src="./icons/microg.png" width="30">[MicroG GmsCore](https://microg.org)
 
 Bloqueur d’usage du micro :
 
@@ -951,9 +1031,9 @@ Messagerie instantanée :
 
 🔵<img src="./icons/signal.png" width="30">[Signal](https://apps.apple.com/us/app/signal-mensajer%C3%ADa-privada/id874139669)
 
-🔴<img src="./icons/telegram.png" width="30">[Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
-
 🟢<img src="./icons/session.png" width="30">[Session*](https://apps.apple.com/us/app/session-private-messenger/id1470168868)
+
+🔴<img src="./icons/telegram.png" width="30">[Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
 
 🔵<img src="./icons/element.png" width="30">[Element](https://app.element.io)
 
@@ -977,7 +1057,7 @@ Visioconférence :
 
 Plateforme vidéo :
 
-🔴<img src="./icons/lbry.png" width="30">[LBRY](https://lbry.tv/)
+🔴<img src="./icons/odysee.png" width="30">[Odysee - LBRY web](https://odysee.com)
 
 Bloqueur de publicité/pisteurs :
 
@@ -991,11 +1071,15 @@ Cartes / Navigation GPS :
 
 🔵Magic Earth
 
+🟢Organic Maps
+
+🔵OsmAnd
+
 Client courriel : 
 
 🔵<img src="./icons/tutanota.png" width="30">[Tutanota](https://apps.apple.com/us/app/tutanota/id922429609)
 
-🔴<img src="./icons/protonmail.png" width="30">[Protonmail](https://apps.apple.com/us/app/protonmail-correo-cifrado/id979659905)
+🔵<img src="./icons/protonmail.png" width="30">[ProtonMail](https://apps.apple.com/us/app/protonmail-correo-cifrado/id979659905)
 
 Gestionnaire d’alias pour courriel :
 
@@ -1023,6 +1107,18 @@ VPN:
 
 🔵Windscribe VPN
 
+Cloud :
+
+🔵<img src="./icons/kdrive.png" width="30">[Kdrive](https://www.infomaniak.com/es/kdrive)
+
+🔴<img src="./icons/mega.png" width="30">[Kdrive](https://apps.apple.com/es/app/mega/id706857885
+
+🟢<img src="./icons/nextcloud.png" width="30">[Nextcloud](https://nextcloud.com)
+
+🔴<img src="./icons/cozycloud.png" width="30">[Cozy Drive](https://cozy.io)
+
+🔴<img src="./icons/icedrive.png" width="30">[Kdrive](https://apps.apple.com/es/app/icedrive-cloud-storage/id1476402680)
+
 Outil de chiffrement pour le cloud :
 
 🟢<img src="./icons/cryptomator.png" width="30">[Cryptomator](https://apps.apple.com/us/app/cryptomator/id953086535)
@@ -1031,9 +1127,9 @@ Réseau social respectueux :
 
 🔵Mastodon for iPhone
 
-🔵Element (Matrix)
-
 🔴<img src="./icons/telegram.png" width="30">[Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
+
+🔵Element (Matrix)
 
 Bureautique :
 
@@ -1052,24 +1148,6 @@ Pour que Firefox protège la vie privée, il est nécessaire de le configurer de
 
 **Extensions :**
 
-Liste complète :
-
-<img src="./icons/ublockorigin.png" width="30">uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - [Firefox](https://addons.mozilla.org/es/firefox/addon/ublock-origin)
-
-<img src="./icons/decentraleyes.png" width="30">Decentraleyes - [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - [Firefox](https://addons.mozilla.org/es/firefox/addon/decentraleyes) - Finished development? - Alternative?
-
-<img src="./icons/canvasblocker.png" width="30">CanvasBlocker - [Chrome](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd) - [Firefox](https://addons.mozilla.org/es/firefox/addon/canvasblocker)
-
-<img src="./icons/chameleon.png" width="30">[Chameleon](https://github.com/ghostwords/chameleon) Finished development? - Alternative?
-
-<img src="./icons/cookieautodelete.png" width="30">Cookie AutoDelete - [Chrome](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete)
-
-<img src="./icons/clearurls.png" width="30">ClearURLs - [Chrome](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) - [Firefox](https://addons.mozilla.org/es/firefox/addon/clearurls)
-
-<img src="./icons/privacyredirect.png" width="30">Privacy Redirect - [Chrome](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
-
-<img src="./icons/https-everywhere.png" width="30">HTTPS Everywhere - [Chrome](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - [Firefox](https://addons.mozilla.org/es/firefox/addon/https-everywhere)
-
 Liste légère :
 
 <img src="./icons/ublockorigin.png" width="30">uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - [Firefox](https://addons.mozilla.org/es/firefox/addon/ublock-origin)
@@ -1079,6 +1157,18 @@ Liste légère :
 <img src="./icons/cookieautodelete.png" width="30">Cookie AutoDelete - [Chrome](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete)
 
 <img src="./icons/https-everywhere.png" width="30">HTTPS Everywhere - [Chrome](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - [Firefox](https://addons.mozilla.org/es/firefox/addon/https-everywhere)
+
+Randomisation de l'empreinte (restrictive) :
+
+<img src="./icons/ublockorigin.png" width="30">uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - [Firefox](https://addons.mozilla.org/es/firefox/addon/ublock-origin)
+
+<img src="./icons/decentraleyes.png" width="30">Decentraleyes - [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - [Firefox](https://addons.mozilla.org/es/firefox/addon/decentraleyes) - Finished development? - Alternative?
+
+<img src="./icons/privacyredirect.png" width="30">Privacy Redirect - [Chrome](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
+
+<img src="./icons/canvasblocker.png" width="30">CanvasBlocker - [Chrome](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd) - [Firefox](https://addons.mozilla.org/es/firefox/addon/canvasblocker)
+
+<img src="./icons/chameleon.png" width="30">[Chameleon](https://github.com/ghostwords/chameleon) Finished development? - Alternative?
 
 ### 5-2 Tor Browser
 
@@ -1094,7 +1184,7 @@ La méthode d’anonymisation du réseau Tor ralentit les chargements. Il n’es
 Searx est un métamoteur qui ne transmet pas de données personnelles aux moteurs de recherche utilisés. Il permet, si on le souhaite, une configuration très avancée. Les différentes instances (disponibles ici : https://searx.space/) n’offrent pas toutes les
 mêmes garanties de protection de la vie privée (log d’adresses IP ou non, etc.).
 
-🔵https://searx.nogafam.es : Google results included, IP address, log good UI
+🔵https://searx.nobigtech.es : Google results included, IP address, log good UI
 
 🟢https://search.disroot.org : Google results (Startpage), no IP address log, good UI
 
@@ -1134,50 +1224,52 @@ Les instances Invidious qui semblent actuellement être les plus fonctionnelles 
 
 ### 6-4 Serveurs DNS
 
-**Intercontinental :**
+Si vous utilisez un VPN, il est conseillé de ne pas changer votre serveur DNS par défaut, afin de ne pas vous démarquer de vos autres utilisateurs. Sinon, remplacez le serveur DNS fourni par votre fournisseur d'accès Internet par un serveur respectueux parmi les recommandations ci-dessous. Utilisez une implémentation cryptée (DoH, DoT, DoQ, DNSCrypt, etc.) dans la mesure du possible.
 
 Avec filtrage contre publicité, pisteurs et domaines malicieux :
 
-🟢[NixNet](https://docs.nixnet.services/NixNet_DNS) (DoH, DoT)
+🟢[BlahDNS](https://blahdns.com) (DoH, DoT, DNSCrypt) (Europe et Asie de l'Est)
 
-🟢[BlahDNS](https://blahdns.com) (DoH, DoT, DNSCrypt)
+🟢[NixNet](https://docs.nixnet.services/NixNet_DNS) (DoH, DoT) (Europe et Amérique du Nord)
 
-🔵[Adguard](https://adguard.com/en/adguard-dns/overview.html) (DoH, DoT, DNSCrypt)
+🔵[Adguard](https://adguard.com/en/adguard-dns/overview.html) (DoH, DoT, DNSCrypt) (Europe, Amérique du Nord et Asie de l'Est)
 
-🔵[Quad9](https://www.quad9.net) (DoH, DoT, DNSCrypt) (bloquer uniquement les domaines malveillants)
+🔵[NextDNS](https://nextdns.io)(DoH, DoT, DNSCrypt) (intercontinental)
 
-🔵[NextDNS](https://nextdns.io) (DoH, DoT, DNSCrypt)
-
-NixNet DoH : https://adblock.any.dns.nixnet.xyz/dns-query
-BlahDNS DoH (Japón) : https://doh-jp.blahdns.com/dns-query
-
-Sans filtrage :
-
-🟢UncensoredDNS (DoT)
-
-🟢DNSWatch (no cifrado)
-
-DNS.Watch IPv4 : 84.200.69.80, 84.200.70.40
-DNS.Watch IPv6 : 2001:1608:10:25::1c04:b12f, 2001:1608:10:25::9249:d69b
-
-**Europe :**
-
-Avec filtrage contre publicité, pisteurs et domaines malicieux :
-
-🟢[BlahDNS](https://blahdns.com) (DoH, DoT, DNSCrypt)
-
-🟢[LibreDNS](https://libredns.gr) (DoH, DoT)
+🔵[LibreDNS](https://libredns.gr)(DoH, DoT) (Europe)
 
 BlahDNS DoH (Alemania) : https://doh-de.blahdns.com/dns-query
-LibreDNS DoH (Alemania) : https://doh.libredns.gr/ads
 
-Sans filtrage :
+BlahDNS DoH (Singapur) : https://doh-sg.blahdns.com/dns-query
 
-🟢[Snopyta](https://snopyta.org) (DoH, DoT)
+BlahDNS DoQ (Finlandia) : quic://dot-fi.blahdns.com:784
 
-🟢[Digitale Gesellschaft](https://digitalegesellschaft.de) (DoH, DoT)
+NixNet DoH (intercontinental) : https://adblock.any.dns.nixnet.xyz/dns-query
 
-🟢[PowerDNS](https://www.powerdns.com) (DoH)
+Filtres contre les domaines malveillants :
+
+🟢[Quad9](https://www.quad9.net) (DoH, DoT, DNSCrypt) (blocs uniquement les domaines malveillants)
+
+DoH : https://dns.quad9.net/dns-query
+
+DoT : tls://dns.quad9.net
+
+IPv4 : 9.9.9.9, 149.112.112.112
+
+IPv6 : 2620:fe::fe, 2620:fe::9
+
+Sans filtres :
+
+🟢[Snopyta](https://snopyta.org) (DoH, DoT) (Europe)
+
+🟢[Digitale Gesellschaft](https://digitalegesellschaft.de) (DoH, DoT) (Europe)
+
+🔵[UncensoredDNS](https://blog.uncensoreddns.org/dns-servers) (DoH) ((Europe et Amérique du Nord)
+
+🔵[DNS.Watch](https://dns.watch) (DoH, DNSCrypt)
+
+Snopyta DoH (Finlandia) : https://fi.doh.dns.snopyta.org/dns-query
+
 
 ## 7 Ressources additionnelles (sources vedettes)
 
@@ -1185,87 +1277,93 @@ Sans filtrage :
 
 Excellentes ressources pour mieux comprendre le capitalisme de surveillance et ses menaces :
 
-https://www.nogafam.es/blog/presentacion
+* https://www.nobigtech.es
 
-Derrière nos écrans de fumée, Jeff Orlowski (film)
-Nothing to Hide,, Marc Meillassoux (documental)
-L’Âge du capitalisme de surveillance, Shoshana Zuboff (livre)
+* Derrière nos écrans de fumée, Jeff Orlowski (film)
+
+* Nothing to Hide,, Marc Meillassoux (documental)
+
+* L’Âge du capitalisme de surveillance, Shoshana Zuboff (livre)
 
 Excellents tutoriels pour la confidentialité et la protection des données : 
 
 basique :
 
-https://spreadprivacy.com/tag/device-privacy-tips
+* https://spreadprivacy.com/tag/device-privacy-tips
 
-https://www.vice.com/en_us/article/d3devm/motherboard-guide-to-notgetting-hacked-online-safety-guide
+* https://www.vice.com/en_us/article/d3devm/motherboard-guide-to-notgetting-hacked-online-safety-guide
 
-plein : 
+plein :
+
+* https://dt.gl/privacy-cookbook-the-story-so-far/
 
 Excellentes chaînes à propos de la confidentialité (avec tutoriels) :
 
-The Hated One : https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q
-
-Techlore : https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg
+* The Hated One : https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q
+ 
+* Techlore : https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg
 
 Associations pour la défense de la vie privée (informations) :
 
-https://ssd.eff.org/
-https://www.laquadrature.net/es/
-https://www.eff.org/deeplinks
+* https://ssd.eff.org/
+
+* https://www.laquadrature.net/es/
+
+* https://www.eff.org/deeplinks
 
 Associations proposant d’excellents services respectant la vie privée :
 
-https://disroot.org/es/
-https://komun.org/
-https://framasoft.org/en/
-https://snopyta.org/
-https://www.drycat.fr/en
+* https://disroot.org/es/
+
+* https://komun.org/
+
+* https://framasoft.org/en/
+
+* https://snopyta.org/
+
+* https://www.drycat.fr/en
 
 Excellent site répertoriant les services et programmes respectueux : :
 
-https://www.privacytools.io/
+* https://www.privacytools.io/
 
 Opérateurs recommandés :
 
-https://www.eff.org/pages/quien-defiende-tus-datos
+* https://www.eff.org/pages/quien-defiende-tus-datos
 
 **Groupes et canaux Telegram (et Matrix)**
 
 Respect de la vie privée et autres :
-[t.me/privacidadlibre](t.me/privacidadlibre) et #privacidadlibre:matrix.org
-[t.me/techloregroup](t.me/techloregroup) et #techlore:matrix.org
-[t.me/techloreofficial](t.me/techloreofficial) (attention, biais pro Apple)
 
-Linux et autres : 
-[Proyecto tic tac](t.me/grupo_telegram_proyectotictac)
-[LinuxMintEs](t.me/LinuxMintEs)
-[mxantixes](t.me/mxantixes)
+* [t.me/privacidadlibre](t.me/privacidadlibre) et #privacidadlibre:matrix.org
+* [t.me/techloregroup](t.me/techloregroup) et #techlore:matrix.org
+* [t.me/techloreofficial](t.me/techloreofficial) (attention, biais pro Apple)
+
+Linux et autres :
+
+* [Proyecto tic tac](t.me/grupo_telegram_proyectotictac)
+* [LinuxMintEs](t.me/LinuxMintEs)
+* [mxantixes](t.me/mxantixes)
 
 **Systèmes d’exploitation**
 
 Linux :
 
-*[MX Linux](https://mxlinux.org)
-
-*[Linux Mint](https://linuxmint.com)
+* [MX Linux](https://mxlinux.org)
+* [Linux Mint](https://linuxmint.com)
 
 Android respectueux de la vie privée :
 
-*[CalyxOS](https://calyxos.org)
-
-*[GrapheneOS](https://grapheneos.org)
-
-*[/e/ OS](https://e.foundation)
-
-*Compatibilité des applications avec et sans microG : (https://plexus.techlore.tech)
+* [CalyxOS](https://calyxos.org)
+* [GrapheneOS](https://grapheneos.org)
+* [/e/ OS](https://e.foundation)
+* Compatibilité des applications avec et sans microG : (https://plexus.techlore.tech)
 
 **Firefox**
 
-[Configuration Firefox](https://www.youtube.com/watch?v=tQhWdsFMc24)
-
-[Configuration Firefox basique](https://12bytes.org/articles/tech/firefox/the-firefox-privacy-guide-for-dummies)
-
-[Configuration Firefox avancée](https://12bytes.org/articles/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs)
+* [Configuration Firefox](https://www.youtube.com/watch?v=tQhWdsFMc24)
+* [Configuration Firefox basique](https://12bytes.org/articles/tech/firefox/the-firefox-privacy-guide-for-dummies)
+* [Configuration Firefox avancée](https://12bytes.org/articles/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs)
 
 ## 8 Configurations
 
@@ -1275,13 +1373,14 @@ Android respectueux de la vie privée :
 
 Les recommandations suivantes sont imparfaites et ne garantissent pas entièrement la protection des données, car il est recommandé d'utiliser une version d'Android modifiée pour la confidentialité au lieu d'Android d'origine. Cela étant dit, dans un effort pour ne pas être entièrement et continuellement décrit avec Android d'origine, suivez les recommandations suivantes :
 
-* Évitez toutes les marques chinoises ou Samsung et préférez une marque, comme Nokia, proposant "Android One" (c'est-à-dire sans couche constructeur supplémentaire)
+* Éviter toutes les marques chinoises ou Samsung et préférez une marque, comme Nokia, proposant "Android One" (c'est-à-dire sans couche constructeur supplémentaire)
 * Ne vous connectez jamais avec un compte Google
-* Utilisez des applications pour pouvoir installer des applications sans Google Play Store
-* Utilisez une application, telle que RethinkDNS ou Blokada, qui vous permet de bloquer les trackers ainsi que les publicités et d'utiliser un serveur DNS respectueux crypté
+* Utiliser des applications pour pouvoir installer des applications sans Google Play Store
+* Installer e utiliser une application, telle que RethinkDNS ou Blokada, qui vous permet de bloquer les trackers ainsi que les publicités et d'utiliser un serveur DNS respectueux crypté
+* Remplacer le clavier par défaut par un respectueux
 * Supprimer (ou lorsqu'il n'est pas possible de désactiver) toutes les applications nuisibles (Google, antivirus tiers, etc.) ou non utilisées
-* Bloquez l'accès Internet à toutes les applications qui sont désactivées ou ne nécessitent pas d'accès Internet pour fonctionner grâce à une application de pare-feu telle que RethinkDNS
-* Passez en revue toutes les autorisations d'application et de système pour les supprimer si elles sont nuisibles à la vie privée ou inutiles
+* Bloquer l'accès Internet à toutes les applications qui sont désactivées ou ne nécessitent pas d'accès Internet pour fonctionner grâce à une application de pare-feu telle que RethinkDNS
+* Passer en revue toutes les autorisations d'application et de système pour les supprimer si elles sont nuisibles à la vie privée ou inutiles
 
 **GrapheneOS**
 
@@ -1293,15 +1392,15 @@ Profitez de la fonction offerte uniquement par GrapheneOS pour supprimer l'autor
 
 Les recommandations suivantes sont imparfaites et ne garantissent pas la protection des données, car il est recommandé d'utiliser une distribution Linux au lieu de Windows. Cela étant dit, dans un effort pour ne pas être entièrement et continuellement décrit avec Windows, suivez les recommandations suivantes :
 
-* N'utilisez aucune version antérieure à Windows 10 car elles sont vulnérables/non sécurisées
-* Ne vous connectez jamais avec un compte Microsoft
-* Désactivez complètement Cortana
+* N'utiliser aucune version antérieure à Windows 10 car elles sont vulnérables/non sécurisées
+* Ne vous connecter jamais avec un compte Microsoft
+* Désactiver complètement Cortana
 * Désactiver l'historique des activités
 * Allez dans les paramètres, sous «vie privée» et désactivez tout dans chacune des catégories à l'exception des autorisations nécessaires pour les applications utilisées
 * Désinstaller (ou lorsqu'il n'est pas possible de désactiver) Edge, Microsoft OneDrive, antivirus (sauf Microsoft Defender) et toutes les applications inutilisées
 * Activer l'adresse MAC aléatoire dans les paramètres Wi-Fi
-* Utilisez de préférence une autre session que l'administrateur pour une utilisation quotidienne
-* Installez le programme ShutUp10 pour avoir plus de contrôle sur la confidentialité
+* Utiliser de préférence une autre session que l'administrateur pour une utilisation quotidienne
+* Installer le programme ShutUp10 pour avoir plus de contrôle sur la confidentialité
 
 **MX Linux**
 
@@ -1386,7 +1485,8 @@ DoH : Blah DNS, Digitale Gesellschaft(Europe), (OpenNIC).
 
 Usar Invidious como proxy para evitar transmitir sus datos a Google :
 
-Settings : - Player Settings : activar "Proxy Videos Through Invidious"
+Settings :
+- Player Settings : activar "Proxy Videos Through Invidious"
 - Advanced Settings : entrar una instancia Invidious funcional
 
 En caso de problema, cambiar de instancia o simplemente desactivar "Proxy Videos
@@ -1398,7 +1498,15 @@ Through Invidious".
 
 La configuration proposée là bas étant relativement restrictive afin de protéger la vie privée de l'utilisateur, il est recommandé de suivre le cloisonnement proposé au point 5 du document et ainsi d'utiliser au moins un autre navigateur pour pouvoir accéder aux sites moins respectueux des intimité. .
 
-Tout d'abord, si votre réseau ou votre ordinateur est configuré pour utiliser un serveur DNS respectueux et crypté globalement, vous devez désactiver la fonctionnalité "DNS sur HTTPS" activée par défaut dans Firefox. Si ce n'est pas le cas (si vous ne le savez pas, ce n'est probablement pas le cas), il est recommandé de laisser cette fonction activée. Désormais, il faut changer le serveur DNS par défaut puisque Cloudflare est un acteur centralisateur et néfaste pour la confidentialité. Au lieu de cette dernière, il est recommandé de choisir une option respectueuse proposée au point 6.4 du document, en fonction de votre
+Profils :
+
+Firefox offre la possibilité d'utiliser plusieurs profils (paramètres) différents en même temps. C'est une solution idéale pour une transition rapide et simple d'une configuration restrictive empêchant une page web de se charger correctement vers une configuration plus légère, sans avoir à changer de navigateur. Les différents paramètres fournis, les extensions installées ou les favoris ajoutés seront enregistrés dans le profil en cours d'utilisation.
+
+Pour accéder aux différents profils de Firefox, saisissez "about:profiles" dans la barre de recherche. Cette page vous permet de créer de nouveaux profils puis de les lancer dans une nouvelle fenêtre séparée à tout moment.
+
+DNS over HTTPS :
+
+Si vous utilisez un VPN ou si votre réseau ou votre ordinateur est configuré pour utiliser un serveur DNS respectueux et crypté globalement, vous devez désactiver la fonctionnalité "DNS sur HTTPS" activée par défaut dans Firefox. Si ce n'est pas le cas (si vous ne le savez pas, ce n'est probablement pas le cas), il est recommandé de laisser cette fonction activée. Désormais, il faut changer le serveur DNS par défaut puisque Cloudflare est un acteur centralisateur et néfaste pour la confidentialité. Au lieu de cette dernière, il est recommandé de choisir une option respectueuse proposée au point 6.4 du document, en fonction de votre
 préférences et emplacement.
 
 Pour cela : Paramètres Firefox> "Général"> bas "Paramètres réseau"> bas "Activer DNS
@@ -1423,6 +1531,7 @@ uBlock :
 - (Ajouter les listes de filterlists.com : Energized : Ultimate Protection, Xtreme + IP + Social extension)
 - Suivez le tutoriel sur la page Web suivante pour définir les règles de filtrage
 dynamique (facultatif mais recommandé):
+
 https://www.maketecheasier.com/ultimate-ublock-origin-superusers-guide/
 
 Chameleon :
