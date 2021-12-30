@@ -50,9 +50,9 @@ Pour participer activement, vous pouvez:
 
 Je vous recommande de participer à:
 
-* [Official Telegram Group](https://t.me/privacid)
-* [Official Discord Group](https://discord.gg/b9ey65Q) - Bien que pour diverses raisons de confidentialité et de sécurité, nous ne le recommandons pas.
-* Groupe d'élément officiel - #privacidadlibre:matrix.org - Demander une invitation
+* <img src="./icons/telegram.png" width="30">[Official Telegram Group](https://t.me/privacid)
+* <img src="./icons/discord.png" width="30">[Official Discord Group](https://t.me/privacid) - Bien que pour diverses raisons de confidentialité et de sécurité, nous ne le recommandons pas.
+* <img src="./icons/matrix.png" width="30">[Official Group on Matrix](https://t.me/privacid)- #privacidadlibre:matrix.org - Demander une invitation
 
 L'objectif du groupe est de promouvoir collectivement de bonnes habitudes en matière de confidentialité, de sécurité et également de programmes/applications open source/gratuits, de services et de systèmes d'exploitation pour résister à la collecte et à l'exploitation de données personnelles par des entreprises privées.
 
@@ -585,9 +585,7 @@ Les options basées sur Linux sont respectueuses de la vie privée et prometteus
 
 [Pinephone](https://www.pine64.org/pinephone) : Manjaro avec autres S.O. Linux compatibles)
 
-D'autres modèles avec /e/ OS pré-installé sont disponibles sur le site /e/ project:
-
-https://esolutions.shop/
+D'autres modèles avec /e/ OS pré-installé sont disponibles sur [le site /e/ project](https://esolutions.shop)
 
 ### 4-2 Applications
 
@@ -683,7 +681,7 @@ Client courriel :
 
 🔵<img src="./icons/protonmail.png" width="30">[ProtonMail](https://protonmail.com)
 
-⚫FairEmail
+⚫[FairEmail](https://email.faircode.eu)
 
 ⚫<img src="./icons/k-9mail.png" width="30">[K-9 Mail](https://f-droid.org/es/packages/com.fsck.k9)
 
@@ -1111,7 +1109,7 @@ Cloud :
 
 🔵<img src="./icons/kdrive.png" width="30">[Kdrive](https://www.infomaniak.com/es/kdrive)
 
-🔴<img src="./icons/mega.png" width="30">[Kdrive](https://apps.apple.com/es/app/mega/id706857885
+🔴<img src="./icons/mega.png" width="30">[MEGA](https://apps.apple.com/es/app/mega/id706857885)
 
 🟢<img src="./icons/nextcloud.png" width="30">[Nextcloud](https://nextcloud.com)
 

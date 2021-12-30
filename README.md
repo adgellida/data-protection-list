@@ -50,9 +50,9 @@ To actively participate you can:
 
 I recommend you participate in:
 
-* [Official Telegram Group](https://t.me/privacid)
-* [Official Discord Group](https://discord.gg/b9ey65Q) - Although due to various privacy and security reasons we do not recommend it.
-* Official Element group - #privacidadlibre:matrix.org - Request invitation
+* <img src="./icons/telegram.png" width="30">[Official Telegram Group](https://t.me/privacid)
+* <img src="./icons/discord.png" width="30">[Official Discord Group](https://t.me/privacid) - Although due to various privacy and security reasons we do not recommend it.
+* <img src="./icons/matrix.png" width="30">[Official Group on Matrix](https://t.me/privacid)- #privacidadlibre:matrix.org - Request invitation
 
 The objective of the group is to collectively promote good customs in terms of privacy, security and also open source/free programs/apps, services and operating systems to resist the collection and exploitation of personal data by private companies.
 
@@ -586,9 +586,7 @@ Linux-based options are privacy-friendly and promising in terms of independence,
 
 [Pinephone](https://www.pine64.org/pinephone) : Manjaro and others Linux O.S. compatibles)
 
-Other models with /e/ OS pre-installed are available at the /e/ project site:
-
-https://esolutions.shop/
+Other models with /e/ OS pre-installed are available at the [/e/ project site](https://esolutions.shop)
 
 ### 4-2 Applications
 
@@ -684,7 +682,7 @@ Mail client :
 
 🔵<img src="./icons/protonmail.png" width="30">[ProtonMail](https://protonmail.com)
 
-⚫FairEmail
+⚫[FairEmail](https://email.faircode.eu)
 
 ⚫<img src="./icons/k-9mail.png" width="30">[K-9 Mail](https://f-droid.org/es/packages/com.fsck.k9)
 
@@ -1112,7 +1110,7 @@ Cloud :
 
 🔵<img src="./icons/kdrive.png" width="30">[Kdrive](https://www.infomaniak.com/es/kdrive)
 
-🔴<img src="./icons/mega.png" width="30">[Kdrive](https://apps.apple.com/es/app/mega/id706857885
+🔴<img src="./icons/mega.png" width="30">[MEGA](https://apps.apple.com/es/app/mega/id706857885)
 
 🟢<img src="./icons/nextcloud.png" width="30">[Nextcloud](https://nextcloud.com)
 

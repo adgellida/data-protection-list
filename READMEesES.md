@@ -50,9 +50,9 @@ Para participar activamente puedes:
 
 Os recomiendo participar en:
 
-* [Grupo oficial de Telegram](https://t.me/privacid)
-* [Grupo oficial de Discord](https://discord.gg/b9ey65Q) - Aunque debido a varias razones de privacidad, seguridad no lo recomendamos.
-* Grupo oficial de Element - #privacidadlibre:matrix.org - Pedir invitación
+* <img src="./icons/telegram.png" width="30">[Official Telegram Group](https://t.me/privacid)
+* <img src="./icons/discord.png" width="30">[Official Discord Group](https://t.me/privacid) - Aunque debido a varias razones de privacidad, seguridad no lo recomendamos.
+* <img src="./icons/matrix.png" width="30">[Official Group on Matrix](https://t.me/privacid)- #privacidadlibre:matrix.org - Pedir invitación
 
 El objetivo del grupo es promover colectivamente buenas costumbres en cuanto a la privacidad, seguridad y tambien programas/apps, servicios y sistemas operativos open source/libres para resistir a la recolección y explotación de datos personales por empresas privadas.
 
@@ -591,9 +591,7 @@ Las opciones basadas en Linux son respetuosas de la privacidad y prometedoras en
 
 [Pinephone](https://www.pine64.org/pinephone) : Manjaro y otros S.O. Linux compatibles)
 
-Otros modelos con /e/ OS preinstalado están disponibles en el sitio del proyecto /e/ :
-
-https://esolutions.shop/
+Otros modelos con /e/ OS preinstalado están disponibles en el [sitio del proyecto /e/](https://esolutions.shop)
 
 ### 4-2 Aplicaciones
 
@@ -689,7 +687,7 @@ Cliente correo :
 
 🔵<img src="./icons/protonmail.png" width="30">[ProtonMail](https://protonmail.com)
 
-⚫FairEmail
+⚫[FairEmail](https://email.faircode.eu)
 
 ⚫<img src="./icons/k-9mail.png" width="30">[K-9 Mail](https://f-droid.org/es/packages/com.fsck.k9)
 
@@ -1123,7 +1121,7 @@ Cloud :
 
 🔵<img src="./icons/kdrive.png" width="30">[Kdrive](https://www.infomaniak.com/es/kdrive)
 
-🔴<img src="./icons/mega.png" width="30">[Kdrive](https://apps.apple.com/es/app/mega/id706857885
+🔴<img src="./icons/mega.png" width="30">[MEGA](https://apps.apple.com/es/app/mega/id706857885)
 
 🟢<img src="./icons/nextcloud.png" width="30">[Nextcloud](https://nextcloud.com)
 
