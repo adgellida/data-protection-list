@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/privacy-first.png" width="80"> data-protection-list
 =============================================
 
-Manual of resistance to surveillance capitalism
+Manual of resistance to surveillance capitalism - Based on [Valentin Delacour version](https://codeberg.org/PrivacyFirst/PrivacyFirst/issues)
 
 # Index
 
@@ -51,7 +51,6 @@ To actively participate you can:
 I recommend you participate in:
 
 * <img src="./icons/telegram.png" width="30">[Official Telegram Group](https://t.me/privacid)
-* <img src="./icons/discord.png" width="30">[Official Discord Group](https://t.me/privacid) - Although due to various privacy and security reasons we do not recommend it.
 * <img src="./icons/matrix.png" width="30">[Official Group on Matrix](https://t.me/privacid)- #privacidadlibre:matrix.org - Request invitation
 
 The objective of the group is to collectively promote good customs in terms of privacy, security and also open source/free programs/apps, services and operating systems to resist the collection and exploitation of personal data by private companies.
