@@ -1554,7 +1554,7 @@ Por motivos de seguridad, se recomienda instalar y usar las tiendas de aplicacio
 implementación es imperfecta.
 De igual forma, el navegador por defecto de /e/ que es un fork de Bromite recibiendo tardíamente las actualizaciones de seguridad y con una huella única, no debe ser utilizado. Instalen y usen en su lugar un navegador recomendado (cf. 4.2).
 
-### 8.2 Sistemas operativos para computadoras
+### 8-2 Sistemas operativos para computadoras
 
 **Windows**
 
@@ -1588,7 +1588,7 @@ Bajo ajustes IPv6, seleccionar Extensiones de confidencialidad IPv6 : Activado
 Advert Blocker (Bloquear-propaganda) :
 Seleccionar todas las opciones a excepción de “UNBLOCK” y luego confirmar.
 
-### 8.3 Aplicaciones
+### 8-3 Aplicaciones
 
 **Neo Store (F-Droid) y Aurora Store**
 
@@ -1645,7 +1645,7 @@ todas las listas bajo “Security” y “Privacy”) > darle clic en “Apply�
 
 En el afán de redirigir o limpiar enlaces abusivos con UntrackMe, mantener presionado un enlace y seleccionar “compartir el enlace”, luego escoger la aplicación UntrackMe, después el navegador deseado y luego “Siempre”.
 
-### 8.4 Servicios y programas
+### 8-4 Servicios y programas
 
 **LibreWolf**
 
@@ -1671,7 +1671,7 @@ Settings : - Player Settings : activar "Proxy Videos Through Invidious"
 - Advanced Settings : entrar una instancia Invidious funcional
 En caso de problema, cambiar de instancia o simplemente desactivar "Proxy Videos Through Invidious".
 
-### 8.5 Firefox y extensiones
+### 8-5 Firefox y extensiones
 
 **Configuración general**
 

@@ -1553,7 +1553,7 @@ For security reasons, it is advised to install and use the app stores Neo Store 
 and Aurora Store (cf. 4.2 and 8.3) instead of /e/OS’s own which is an imperfect implementation.
 Likewise, /e/’s default browser which is their own Bromite fork receiving belatedly security updates and with a unique fingerprint, should not be used. Install and use instead a more secure browser such as the ones recommended in the point 4.2.
 
-### 8.2 Operating Systems for Computers
+### 8-2 Operating Systems for Computers
 
 **Windows**
 
@@ -1584,7 +1584,7 @@ Under IPv6 settings, select IPv6 privacy extensions: Activated (preferred tempor
 Stop Pub (Advert Blocker):
 Select all options except "UNBLOCK" and confirm.
 
-### 8.3 Aplicaciones
+### 8-3 Aplicaciones
 
 **Neo Store (F-Droid) and Aurora Store**
 
@@ -1646,7 +1646,7 @@ click on “DNS” on top > select “On-device blocklists” > click on “Disa
 
 In order to redirect abusive links with UntrackMe, long press a link and select “share link”, then select the app UntrackMe, after click on the desired browser and then select “Always”.
 
-### 8.4 Services and Programs
+### 8-4 Services and Programs
 
 **LibreWolf**
 
@@ -1675,7 +1675,7 @@ Settings: - Player Settings : activate "Proxy Videos Through Invidious"
 In case of malfunction, change Invidious instance or simply deactivate "Proxy Videos
 Through Invidious".
 
-### 8.5 Firefox and Add-ons
+### 8-5 Firefox and Add-ons
 
 **General configuration**
 

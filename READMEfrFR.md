@@ -1555,7 +1555,7 @@ De même, le navigateur par défaut de /e/ qui est leur propre fork de Bromite r
 tardivement les actualisations de sécurité et avec une empreinte unique, ne doit pas
 être utilisé. Installez plutôt un navigateur parmi ceux recommandés au point 4.2.
 
-### 8.2 Systèmes d’exploitation pour ordinateurs
+### 8-2 Systèmes d’exploitation pour ordinateurs
 
 **Windows**
 
@@ -1597,7 +1597,7 @@ temporaire préférée).
 Stop Pub (Advert Blocker) :
 Sélectionner toutes les options sauf "UNBLOCK" puis valider.
 
-### 8.3 Applications
+### 8-3 Applications
 
 **Neo Store (F-Droid) et Aurora Store**
 
@@ -1660,7 +1660,7 @@ toutes les listes sous "Security" et "Privacy") > cliquer sur "Apply"
 
 Pour rediriger des liens abusifs avec UntrackMe, presser longuement un lien puis sélectionner "partager le lien", ensuite choisir l’application UntrackMe, après le navigateur désiré et ensuite "Toujours".
 
-### 8.4 Services et programmes
+### 8-4 Services et programmes
 
 **LibreWolf**
 
@@ -1686,7 +1686,7 @@ Settings : - Player Settings : activer "Proxy Videos Through Invidious"
 En cas de problème, changer d’instance ou tout simplement désactiver "Proxy Videos
 Through Invidious".
 
-### 8.5 Firefox et extensions
+### 8-5 Firefox et extensions
 
 **Configuration générale**
 
