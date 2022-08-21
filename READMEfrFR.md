@@ -1330,11 +1330,11 @@ SearXNG est un métamoteur libre fournissant les résultats combinés de différ
 Instances disponibles :     ⚫https://searx.space
 
 Instances recommandées
-(sans log IP)           :   🟢https://search.sapti.me (Alemania)
+(sans log IP)           :   🟢https://search.sapti.me (Allemagne)
 
-                            🟢https://search.disroot.org (Holanda)
+                            🟢https://search.disroot.org (Pays-Bas)
 
-                            🟢https://search.privacyguides.net (EEUU)
+                            🟢https://search.privacyguides.net (États-Unis))
 
 # Plateformes vidéo
 
@@ -1343,9 +1343,9 @@ Librarian, quant à lui, donne accès au contenu Odysee/LBRY (également abusif)
 
 Instances Invidious :      ⚫https://api.invidious.io
 
-Instances recomendadas :   🟢https://yewtu.be (Holanda)
+Instances recomendadas :   🟢https://yewtu.be (Pays-Bas)
 
-                           🟢https://inv.riverside.rocks (EEUU)
+                           🟢https://inv.riverside.rocks (États-Unis))
 
 Instances Piped :          ⚫https://github.com/TeamPiped/Piped/wiki/Instances
 
@@ -1401,10 +1401,10 @@ DoT (Suiza) : dot-ch.blahdns.com
 
 Excellentes ressources pour mieux comprendre le capitalisme de surveillance et ses menaces :
 
-- Nothing to Hide, Marc Meillassoux (documental)
-- El dilema de las redes sociales, Jeff Orlowski (documental de divulgación)
-- La era del capitalismo de la vigilancia, Shoshana Zuboff (libro)
-- Diez razones para borrar tus redes sociales de inmediato, Jaron Lanier (libro)
+- Nothing to Hide, Marc Meillassoux (documentaire)
+- El dilema de las redes sociales, Jeff Orlowski (documentaire de vulgarisation))
+- La era del capitalismo de la vigilancia, Shoshana Zuboff (livre)
+- Diez razones para borrar tus redes sociales de inmediato, Jaron Lanier (livre)
 
 Excellente chaîne anglophone à propos de la confidentialité :
 
@@ -1412,9 +1412,8 @@ Excellente chaîne anglophone à propos de la confidentialité :
 
 Associations pour la défense de la vie privée :
 
-- https://www.derechosdigitales.org
-- https://r3d.mx
-- https://www.laquadrature.net/es
+- https://framablog.org
+- https://www.laquadrature.net
 - https://www.eff.org/deeplinks (anglophone)
 - https://privacyinternational.org (anglophone)
 
@@ -1430,7 +1429,7 @@ Complet :
 
 Avancé : 
 
-- https://anonymousplanet-ng.org (anglanglophoneófono)
+- https://anonymousplanet-ng.org (anglophone)
 
 Basique :
 
@@ -1460,31 +1459,30 @@ Associations proposant d’excellents services respectant la vie privée :
 
 - https://disroot.org/es
 - https://snopyta.org
-- https://framasoft.org/es
-- https://www.nobigtech.es
+- https://framasoft.org/fr
 
 Évaluation du respect de la vie privée de différents services :
 
-- https://privacyspy.org (anglófono)
+- https://privacyspy.org (anglophone)
 - https://tosdr.org
 
 Outil d’évaluation de sécurité des sites internet :
 
-- https://observatory.mozilla.org (anglófono)
+- https://observatory.mozilla.org (anglophone)
 
 **Groupes vie privée et software libre**
 
 Telegram :
 
-- [t.me/privacidadlibre](t.me/privacidadlibre) (sala de entrada para el grupo privado)
-- [t.me/privateyourtech](t.me/privateyourtech) (anglófono)
-- [t.me/grupo_telegram_proyectotictac](t.me/grupo_telegram_proyectotictac)
+- [t.me/securite_informatique_libre](t.me/securite_informatique_libre)
+- [t.me/privateyourtech](t.me/privateyourtech) (anglophone)
+- [t.me/Linux_Fr](t.me/Linux_Fr)
 
 Matrix :
 
-- #privacidadlibre:matrix.org
-- #privacy:matrix.org (anglófono)
-- #main:privacyguides.org (anglófono)
+- #colinu_general:matrix.org
+- #privacy:matrix.org (anglophone)
+- #main:privacyguides.org (anglophone)
 
 ## 8 Configurations
 
@@ -1496,12 +1494,8 @@ Matrix :
 - vérifier toutes les autorisations des applications afin de les retirer si elles sont né -
 fastes pour la confidentialité ou non nécessaires :
 "Paramètres" > "Applications" > sélectionner l’application > "Autorisations"
-- bloquer l’accès internet de toutes les applications inutilisées ou qui ne nécessitent
-pas d’accès internet pour fonctionner, dans les autorisations des applications ou,
-lorsque cela n’est pas disponible, grâce à une application pare-feu comme RethinkDNS
-- installer et utiliser une application telle RethinkDNS (cf. 8.3) qui permet de bloquer
-pisteurs et publicité ainsi que d’utiliser un résolveur DNS respectueux chiffré (cf. 6.3).
-Comme alternative inférieure, utiliser l’implémentation DoT native d’Android pour définir un résolveur DNS recommandé (DoT) (cf. 6.3) :
+- bloquer l’accès internet de toutes les applications inutilisées ou qui ne nécessitent pas d’accès internet pour fonctionner, dans les autorisations des applications ou, lorsque cela n’est pas disponible, grâce à une application pare-feu comme RethinkDNS
+- installer et utiliser une application telle RethinkDNS (cf. 8.3) qui permet de bloquer pisteurs et publicité ainsi que d’utiliser un résolveur DNS respectueux chiffré (cf. 6.3). Comme alternative inférieure, utiliser l’implémentation DoT native d’Android pour définir un résolveur DNS recommandé (DoT) (cf. 6.3) :
 "Paramètres" > "Réseau et Internet" > "DNS privé" > sélectionner "Nom d’hôte du fournisseur DNS privé" et entrer le résolveur DNS souhaité
 - Si vous devez absolument utiliser des applications abusives requérant des autorisations pour fonctionner, créez et utilisez un profil secondaire, ou plusieurs, afin d’isoler totalement vos activités et ces applications du reste de vos données :
 "Paramètres" > "Système" > "Utilisateurs multiples" > "+ Ajouter un utilisateur"
@@ -1522,9 +1516,7 @@ par les applications libres et respectueuses recommandées au point 4.2
 
 **GrapheneOS**
 
-GrapheneOS intègre un puissant par-feu d’origine, directement dans les paramètres
-des applications, qui vous permet de bloquer totalement l’accès internet aux applications souhaitées. Profitez-en pour désactiver l’accès internet de toutes les applications
-qui ne le nécessitent pas pour fonctionner :
+GrapheneOS intègre un puissant par-feu d’origine, directement dans les paramètres des applications, qui vous permet de bloquer totalement l’accès internet aux applications souhaitées. Profitez-en pour désactiver l’accès internet de toutes les applications qui ne le nécessitent pas pour fonctionner :
 
 "Paramètres" > "Applications" > choisir une application > "Autorisations" > "Network" >
 "Afficher toutes les applications disposant de cette autorisation"
@@ -1537,58 +1529,38 @@ l’accès aux senseurs (utilisé insidieusement pour la collecte d’informatio
 
 **CalyxOS**
 
-CalyxOS intègre un par-feu d’origine, l’application Datura, qui vous permet de bloquer
-l’accès internet aux applications souhaitées avec un haut degré de contrôle. Profitez-
-en pour désactiver l’accès internet de toutes les applications qui ne le nécessitent pas
-pour fonctionner.
+CalyxOS intègre un par-feu d’origine, l’application Datura, qui vous permet de bloquer l’accès internet aux applications souhaitées avec un haut degré de contrôle. Profitezen pour désactiver l’accès internet de toutes les applications qui ne le nécessitent pas pour fonctionner.
 
 **/e/OS**
 
-Attention, les comptes "ecloud" ne sont pas encore chiffrés de bout en bout (prévu). Il
-est donc fortement déconseillé d’en faire usage pour des données personnelles ou im-
-portantes.
+Attention, les comptes "ecloud" ne sont pas encore chiffrés de bout en bout (prévu). Il est donc fortement déconseillé d’en faire usage pour des données personnelles ou importantes.
 
-Pour des motifs de sécurité, il est recommandé d’installer et d’utiliser les magasins
-d’applications Neo Store (F-Droid) et Aurora Store (cf. 4.2 et 8.3) au lieu de celui d’/e/OS
-qui est une implémentation imparfaite.
-De même, le navigateur par défaut de /e/ qui est leur propre fork de Bromite recevant
-tardivement les actualisations de sécurité et avec une empreinte unique, ne doit pas
-être utilisé. Installez plutôt un navigateur parmi ceux recommandés au point 4.2.
+Pour des motifs de sécurité, il est recommandé d’installer et d’utiliser les magasins d’applications Neo Store (F-Droid) et Aurora Store (cf. 4.2 et 8.3) au lieu de celui d’/e/OS qui est une implémentation imparfaite.
+De même, le navigateur par défaut de /e/ qui est leur propre fork de Bromite recevant tardivement les actualisations de sécurité et avec une empreinte unique, ne doit pas être utilisé. Installez plutôt un navigateur parmi ceux recommandés au point 4.2.
 
 ### 8-2 Systèmes d’exploitation pour ordinateurs
 
 **Windows**
 
-Les recommandations suivantes étant imparfaites et ne garantissant pas totalement
-la protection des données, il est recommandé d’utiliser une distribution Linux (cf. 3.1)
-plutôt que Windows. Ceci étant dit, afin de ne pas subir un profilage complet et conti-
-nu avec Windows, suivez les recommandations suivantes :
+Les recommandations suivantes étant imparfaites et ne garantissant pas totalement la protection des données, il est recommandé d’utiliser une distribution Linux (cf. 3.1) plutôt que Windows. Ceci étant dit, afin de ne pas subir un profilage complet et continu avec Windows, suivez les recommandations suivantes :
 - ne pas utiliser de version antérieure à Windows 10 (plus de mise à jour de sécurité)
 - ne jamais se connecter avec un compte Microsoft
 - désactiver complètement Cortana
 - désactiver l’historique d’activité
-- aller dans les paramètres sous "confidentialité" et tout désactiver dans chacune des
-catégories à part les autorisations nécessaires pour les applications utilisées
-- désinstaller (ou lorsque cela n’est pas possible désactiver) Edge, Microsoft OneDrive,
-les antivirus (à part Microsoft Defender) et toutes les applications non utilisées
+- aller dans les paramètres sous "confidentialité" et tout désactiver dans chacune des catégories à part les autorisations nécessaires pour les applications utilisées
+- désinstaller (ou lorsque cela n’est pas possible désactiver) Edge, Microsoft OneDrive, les antivirus (à part Microsoft Defender) et toutes les applications non utilisées
 - activer l'adresse MAC aléatoire dans les paramètres Wi-Fi
 - de préférence utiliser une autre session que celle d’administrateur au quotidien
-- installer le programme O&O ShutUp10++ pour avoir plus de contrôle sur la confiden-
-tialité
-- installer le programme Portmaster de safing.io afin de pouvoir contrôler (et bloquer)
-toutes les connexions entrantes et sortantes avec un degré élevé de contrôle (manuel-
-lement et avec des listes noires prédéfinies pour bloquer pisteurs et publicité) et de
-configurer un résolveur DNS chiffré (cf. 6.3) pour la globalité du système.
+- installer le programme O&O ShutUp10++ pour avoir plus de contrôle sur la confidentialité
+- installer le programme Portmaster de safing.io afin de pouvoir contrôler (et bloquer) toutes les connexions entrantes et sortantes avec un degré élevé de contrôle (manuellement et avec des listes noires prédéfinies pour bloquer pisteurs et publicité) et deconfigurer un résolveur DNS chiffré (cf. 6.3) pour la globalité du système.
 
 **Linux (général)**
 
-Pour des raisons de sécurité, préférez installer des programmes Flatpak plutôt que les
-traditionnels et configurez leurs autorisations grâce au programme Flatseal.
+Pour des raisons de sécurité, préférez installer des programmes Flatpak plutôt que les traditionnels et configurez leurs autorisations grâce au programme Flatseal.
 
 Configuration Wi-Fi avec NetworkManager :
 
-Clic droit sur l’icône Wi-Fi, modifier les connections, sélectionner le Wi-Fi actif, sous Wi-
-Fi sélectionner Adresse MAC clonée : Aléatoire.
+Clic droit sur l’icône Wi-Fi, modifier les connections, sélectionner le Wi-Fi actif, sous WiFi sélectionner Adresse MAC clonée : Aléatoire.
 Sous paramètres IPv6, sélectionner Extensions de confidentialité IPv6 : Activé (adresse
 temporaire préférée).
 
@@ -1604,26 +1576,16 @@ Sélectionner toutes les options sauf "UNBLOCK" puis valider.
 Ces magasins d’applications doivent être téléchargés directement depuis leurs pages :
 https://github.com/NeoApplications/Neo-Store/releases/
 https://auroraoss.com
-Pour les installer, autorisez votre navigateur à installer des applications inconnues
-lorsque invité. Pensez ensuite à retirer cette autorisation pour des motifs de sécurité :
-"Paramètres" Android > "Applications" > navigateur utilisé > "Installation d’applis in-
-connues"
-Rappelez-vous de ne pas vous connecter à Aurora Store avec un compte Google per-
-sonnel. Utilisez en lieu et place le compte anonyme proposé.
-Pour pouvoir trouver et installer certaines applications depuis Neo Store, il est néces-
-saire d’ajouter leurs propres dépôts. Pour cela, aller dans les paramètres de Neo Store
-(en haut à droite), puis sous "dépôts" (symbole en bas), ajouter les dépôts "DivestOS
-Official", "Guardian Project Official" et les autres souhaités pour des applications telles
+Pour les installer, autorisez votre navigateur à installer des applications inconnues lorsque invité. Pensez ensuite à retirer cette autorisation pour des motifs de sécurité :
+"Paramètres" Android > "Applications" > navigateur utilisé > "Installation d’applis inconnues"
+Rappelez-vous de ne pas vous connecter à Aurora Store avec un compte Google personnel. Utilisez en lieu et place le compte anonyme proposé.
+Pour pouvoir trouver et installer certaines applications depuis Neo Store, il est nécessaire d’ajouter leurs propres dépôts. Pour cela, aller dans les paramètres de Neo Store (en haut à droite), puis sous "dépôts" (symbole en bas), ajouter les dépôts "DivestOS Official", "Guardian Project Official" et les autres souhaités pour des applications telles
 que Bromite, Molly (Signal), NewPipe, Bitwarden ou Collabora Office.
 
 **Mull**
 
-Lors de l’installation depuis Neo Store, assurez-vous de sélectionner la version "Dives-
-tOS Official", au lieu de celle de F-Droid, afin de bénéficier le plus rapidement possible
-des actualisations et donc des derniers correctifs de sécurité.
-Mull est déjà en grande partie configuré pour la protection de la vie privée. Il est tou -
-tefois nécessaire d’installer l’extension uBlock Origin à partir du menu et de la configu-
-rer comme indiqué au point 8.5.
+Lors de l’installation depuis Neo Store, assurez-vous de sélectionner la version "DivestOS Official", au lieu de celle de F-Droid, afin de bénéficier le plus rapidement possible des actualisations et donc des derniers correctifs de sécurité.
+Mull est déjà en grande partie configuré pour la protection de la vie privée. Il est toutefois nécessaire d’installer l’extension uBlock Origin à partir du menu et de la configurer comme indiqué au point 8.5.
 
 **NewPipe**
 
@@ -1635,10 +1597,8 @@ Tube" > Sélectionner "FramaTube"
 **Telegram**
 
 Paramètres:
-- "Confidentialité et sécurité" > "Sécurité" > activer "Double authentification" pour pro-
-téger votre compte
-- "Confidentialité et sécurité" > "Échanges secrets" > désactiver "Prévisualiser les liens"
-pour ne pas révéler à Telegram les liens partagés dans les échanges secrets
+- "Confidentialité et sécurité" > "Sécurité" > activer "Double authentification" pour protéger votre compte
+- "Confidentialité et sécurité" > "Échanges secrets" > désactiver "Prévisualiser les liens" pour ne pas révéler à Telegram les liens partagés dans les échanges secrets
 - "Données et stockage" > tout désactiver sous "Téléchargement automatique des médias" pour ne pas télécharger des malware dans des canaux ou groupes publics
 Toujours utiliser les "échanges secrets" (indisponibles pour Telegram desktop) pour
 qu’une conversation soit chiffrée de bout en bout :
@@ -1665,11 +1625,8 @@ Pour rediriger des liens abusifs avec UntrackMe, presser longuement un lien puis
 **LibreWolf**
 
 LibreWolf étant déjà optimisé pour la protection de la vie privée, il est préférable de ne pas changer sa configuration principale ni les paramètres "about:config" afin de ne pas modifier l’empreinte du navigateur et de la rendre ainsi unique.
-Exception notable : voir le point 8.5 sous "Configuration about:config" pour activer
-"privacy.resistFingerprinting.letterboxing".
-Attention, la version de LibreWolf pour Windows ne reçoit pas automatiquement les
-mises à jour. Il est donc important d’aller les chercher manuellement depuis le site
-officiel (en installant à nouveau le fichier d’installation .exe), environ une fois par semaine de préférence, afin de profiter des derniers correctifs de sécurité.
+Exception notable : voir le point 8.5 sous "Configuration about:config" pour activer "privacy.resistFingerprinting.letterboxing".
+Attention, la version de LibreWolf pour Windows ne reçoit pas automatiquement les mises à jour. Il est donc important d’aller les chercher manuellement depuis le site officiel (en installant à nouveau le fichier d’installation .exe), environ une fois par semaine de préférence, afin de profiter des derniers correctifs de sécurité.
 
 **Brave Search**
 
@@ -1722,18 +1679,14 @@ sous "Use Provider" sélectionner "Custom" > entrer l’URL du résolveur DoH so
 
 **Configuration des extensions**
 
-Il est important d’autoriser les extensions suivantes à fonctionner en navigation privée
-et d’activer leurs mises à jour automatiques.
+Il est important d’autoriser les extensions suivantes à fonctionner en navigation privée et d’activer leurs mises à jour automatiques.
 
 uBlock :
 
 - Settings : cocher "I am an advanced user" et tout cocher sous "Privacy"
-- Filter Lists : ajouter TOUTES les listes sauf sous "Regions" (seulement activer pour les
-langues utilisées)
-Les listes sous "Annoyances" et "Multipurpose" peuvent empêcher le fonctionnement
-de réseaux sociaux abusifs
-- Ajouter les listes suivantes depuis filterlists.com : “Actually Legitimate URL Shortener
-Tool” (remplace ClearURLs), “Energized Ultimate Protection”, “Energized IP Extension”,
+- Filter Lists : ajouter TOUTES les listes sauf sous "Regions" (seulement activer pour les langues utilisées)
+Les listes sous "Annoyances" et "Multipurpose" peuvent empêcher le fonctionnement de réseaux sociaux abusifs
+- Ajouter les listes suivantes depuis filterlists.com : “Actually Legitimate URL Shortener Tool” (remplace ClearURLs), “Energized Ultimate Protection”, “Energized IP Extension”,
 “Energized Social Extension”, (“Energized Xtreme Extension”)
 Pour ajouter une liste depuis filterlists.com : cliquer sur le bouton de la liste à gauche
 > cliquer sur "Subscribe" dans le menu étant apparu
@@ -1743,11 +1696,10 @@ https://www.maketecheasier.com/ultimate-ublock-origin-superusers-guide
 
 LocalCDN :
 
-Dans les paramètres aller sous "Advanced" > sous "Generate rule sets for your adblo-
-cker" sélectionner uBlock > copier l’ensemble des règles données > ouvrir l’extension
-uBlock Origin > dans ses paramètres aller sous "My rules" > coller l’ensemble des
-règles copiées dans la partie de droite > cliquer sur "Save" > cliquer sur "Commit".
+Dans les paramètres aller sous "Advanced" > sous "Generate rule sets for your adblocker" sélectionner uBlock > copier l’ensemble des règles données > ouvrir l’extension uBlock Origin > dans ses paramètres aller sous "My rules" > coller l’ensemble des règles copiées dans la partie de droite > cliquer sur "Save" > cliquer sur "Commit".
+
 LibRedirect :
+
 Settings : - activer ou désactiver les plateformes et instances souhaitées (cf. 6.)
 - "YouTube" > "Default Instances" > seulement activer "https://yewtube.be"
 et "https://inv.riverside.rocks"
@@ -1755,16 +1707,13 @@ et "https://inv.riverside.rocks"
 (CanvasBlocker) :
 
 Pas de configuration additionnelle nécessaire
-Note : extension à utiliser uniquement si "privacy.resistFingerprinting" ne vous
-convient pas. Dans le cas contraire, il est généralement plus recommandable d’activer
-ce paramètre dans "about:config" (cf. pages suivantes) plutôt que cette extension.
+Note : extension à utiliser uniquement si "privacy.resistFingerprinting" ne vous convient pas. Dans le cas contraire, il est généralement plus recommandable d’activer ce paramètre dans "about:config" (cf. pages suivantes) plutôt que cette extension.
 
 **Configuration about:config**
 
 Accéder à ces paramètres en entrant "about:config" dans la barre d’adresse de Firefox.
-Ces diverses configurations amélioreront la confidentialité, la sécurité et, dans une
-certaine mesure, les performances. Les éléments entre parenthèses ne sont pas sou-
-haitables pour tous les cas.
+Ces diverses configurations amélioreront la confidentialité, la sécurité et, dans une certaine mesure, les performances. Les éléments entre parenthèses ne sont pas souhaitables pour tous les cas.
+
 accessibility.blockautorefresh = true
 ((accessibility.force_disabled = 1))
 beacon.enabled = false

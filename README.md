@@ -84,7 +84,7 @@ In order to help to choose between the different options mentioned, this list of
 
 🔵blue (respect for privacy under conditions or presence of problematic elements)
 
-🔴red ((does not protect or respect privacy but remains preferable to MAGMA options)
+🔴red (does not protect or respect privacy but remains preferable to MAGMA options)
 
 ⚫colorless (dependence on external factors or lack of elements to form a relevant estimation). The presence of an asterisk indicates that the mentioned option still hasn’t reached maturity.
 
@@ -249,7 +249,7 @@ Mail :
 
 ⚫<img src="./icons/protonmail.png" width="30">[ProtonMail](https://protonmail.com)
 
-⚫<img src="./icons/tutanota.png" width="30">[Tutanota](https://tutanota.com) ⚫gratuito 🔴de pago
+⚫<img src="./icons/tutanota.png" width="30">[Tutanota](https://tutanota.com) ⚫free 🔴paid
 
 ⚫<img src="./icons/mailbox.png" width="30">[mailbox.org](https://mailbox.org)
 
@@ -281,7 +281,7 @@ Youtube :
 
 Translation :
 
-🔵<img src="./icons/deepl.png" width="30">[DeepL](https://www.deepl.com/translator) 🔴gratuito 🔵de pago
+🔵<img src="./icons/deepl.png" width="30">[DeepL](https://www.deepl.com/translator) 🔴free 🔵paid
 
 🔵<img src="./icons/libretranslate.png" width="30">[LibreTranslate](https://libretranslate.com)
 
@@ -341,7 +341,7 @@ Wikipedia Proxy :
 
 Movies and series streaming :
 
-🔴<img src="./icons/stremio.png" width="30">[Stremio](https://www.stremio.com) 🔵sin cuenta 🔴con cuenta
+🔴<img src="./icons/stremio.png" width="30">[Stremio](https://www.stremio.com) 🔵without account 🔴with account
 
 🟢<img src="./icons/kodi.png" width="30">[Kodi](https://kodi.tv)
 
@@ -503,7 +503,7 @@ Cloud :
 
 🔴<img src="./icons/cozycloud.png" width="30">[Cozy Cloud](https://cozy.io)
 
-<img src="./icons/icedrive.png" width="30">[Kdrive](https://icedrive.net) 🔴gratuito 🔵pago
+<img src="./icons/icedrive.png" width="30">[Kdrive](https://icedrive.net) 🔴free 🔵paid
 
 🔴<img src="./icons/disroot.png" width="30">[Disroot](https://cloud.disroot.org)
 
@@ -770,7 +770,7 @@ Video platform :
 
 🔵LibreTube(proxy YouTube)
 
-🔴<img src="./icons/newpipe.png" width="30">[Newpipe](https://newpipe.schabi.org) (🔴cliente Youtube 🟢PeerTube)
+🔴<img src="./icons/newpipe.png" width="30">[Newpipe](https://newpipe.schabi.org) (🔴Youtube client 🟢PeerTube)
 
 🔵Librarian web app(proxy Odysee)
 
@@ -1279,8 +1279,7 @@ As an example, the use of Firefox with a restrictive configuration (cf. 8.5) for
 
 ### 5-1 Add-ons
 
-Add-ons are extensions used to add features to the browser. It is recommended to install the least possible and only trustworthy ones since they can have access to the entirety of the browsing and that their usage can be identified by visited websites and thus be used for tracking purpose (fingerprinting). Some of the following extensions
-are only available for Firefox and its derivatives such as LibreWolf or Mull. Their configurations are detailed in point 8.5.
+Add-ons are extensions used to add features to the browser. It is recommended to install the least possible and only trustworthy ones since they can have access to the entirety of the browsing and that their usage can be identified by visited websites and thus be used for tracking purpose (fingerprinting). Some of the following extensions are only available for Firefox and its derivatives such as LibreWolf or Mull. Their configurations are detailed in point 8.5.
 
 Recommended extensions :
 
@@ -1321,7 +1320,6 @@ With regard to the :
 
 please refer directly to the lists included in LibRedirect and UntrackMe.
 
-
 # SearXNG
 
 SearXNG is a FOSS metasearch engine providing the combined results of traditional search engines (Brave Search, Google, Bing, etc.) without giving away the users’ personal data to them. It allows a particularly advanced configuration.
@@ -1342,9 +1340,9 @@ Librarian gives access to the content of Odysee/LBRY (abusive as well).
 
 Invidious instances :      ⚫https://api.invidious.io
 
-Recommended instances :    🟢https://yewtu.be (Holanda)
+Recommended instances :    🟢https://yewtu.be (Netherlands)
 
-                           🟢https://inv.riverside.rocks (EEUU)
+                           🟢https://inv.riverside.rocks (USA)
 
 Piped instances :          ⚫https://github.com/TeamPiped/Piped/wiki/Instances
 
@@ -1370,7 +1368,7 @@ Librarian instances :      ⚫https://codeberg.org/librarian/librarian
 
 🔵[Grifon](https://bbb.grifon.fr/b) France
 
-🔵[Nixnet](https://meet.nixnet.services/b) UnitedStates
+🔵[Nixnet](https://meet.nixnet.services/b) United States
 
 ### 6-3 DNS Resolvers
 
@@ -1400,10 +1398,10 @@ DoT (Suiza) : dot-ch.blahdns.com
 
 Excellent resources to better understand surveillance capitalism and its threats :
 
-- Nothing to Hide, Marc Meillassoux (documental)
-- El dilema de las redes sociales, Jeff Orlowski (documental de divulgación)
-- La era del capitalismo de la vigilancia, Shoshana Zuboff (libro)
-- Diez razones para borrar tus redes sociales de inmediato, Jaron Lanier (libro)
+- Nothing to Hide, Marc Meillassoux (documentary)
+- El dilema de las redes sociales, Jeff Orlowski (documentary)
+- La era del capitalismo de la vigilancia, Shoshana Zuboff (book)
+- Diez razones para borrar tus redes sociales de inmediato, Jaron Lanier (book)
 
 Excellent channel about privacy (with tutorials) :
 
@@ -1411,11 +1409,9 @@ Excellent channel about privacy (with tutorials) :
 
 Associations for privacy defence :
 
-- https://www.derechosdigitales.org
-- https://r3d.mx
-- https://www.laquadrature.net/es
-- https://www.eff.org/deeplinks (anglófono)
-- https://privacyinternational.org (anglófono)
+- https://www.laquadrature.net
+- https://www.eff.org/deeplinks
+- https://privacyinternational.org
 
 **Specific informations**
 
@@ -1424,12 +1420,12 @@ Excellent tutorials for privacy and data protection :
 Complete :
 
 - https://ssd.eff.org
-- https://privacyguides.org (anglófono)
-- https://dt.gl/privacy-cookbook-the-story-so-far-april-2022 (anglófono)
+- https://privacyguides.org
+- https://dt.gl/privacy-cookbook-the-story-so-far-april-2022
 
 Advanced : 
 
-- https://anonymousplanet-ng.org (anglófono)
+- https://anonymousplanet-ng.org
 
 Basic :
 
@@ -1453,10 +1449,6 @@ VPN use cases and limitations :
 - https://www.ivpn.net/blog/why-you-dont-need-a-vpn
 - https://www.doineedavpn.com
 
-Comparativos de proveedores de internet/operadores :
-
-- https://www.eff.org/pages/quien-defiende-tus-datos
-
 **Services**
 
 Associations offering excellent privacy respectful services :
@@ -1468,26 +1460,24 @@ Associations offering excellent privacy respectful services :
 
 Privacy respect evaluation of different services :
 
-- https://privacyspy.org (anglófono)
+- https://privacyspy.org
 - https://tosdr.org
 
 Websites security evaluation tool :
 
-- https://observatory.mozilla.org (anglófono)
+- https://observatory.mozilla.org
 
 **Privacy and FOSS groups**
 
 Telegram :
 
-- [t.me/privacidadlibre](t.me/privacidadlibre) (sala de entrada para el grupo privado)
-- [t.me/privateyourtech](t.me/privateyourtech) (anglófono)
-- [t.me/grupo_telegram_proyectotictac](t.me/grupo_telegram_proyectotictac)
+- [t.me/privateyourtech](t.me/privateyourtech)
+- [t.me/linux_group](t.me/linux_group)
 
 Matrix :
 
-- #privacidadlibre:matrix.org
-- #privacy:matrix.org (anglófono)
-- #main:privacyguides.org (anglófono)
+- #privacy:matrix.org
+- #main:privacyguides.org
 
 ## 8 Configurations
 
@@ -1496,30 +1486,20 @@ Matrix :
 **Global recommendations for Android and derivatives**
 
 - see point 4.2 and 8.3 in order to install applications without using Google Play Store
-- verify all applications’ permissions in order to revoke them if they are harmful to pri-
-vacy or simply unnecessary :
+- verify all applications’ permissions in order to revoke them if they are harmful to privacy or simply unnecessary :
 “Settings” > “Apps” > select the app > “Permissions”
-- block the internet access of all unused applications or which do not require internet
-access in order to work in the apps’ permissions or when it’s not available, thanks to a
-firewall application such as RethinkDNS
-- install and use an application, such as RethinkDNS (cf. 8.3), allowing to block trackers
-as well as ads and to use a respectful encrypted DNS server (cf. 6.3).
-As an inferior alternative, use the built-in Android DoT implementation to set a recom-
-mended DNS server (DoT) (cf. 6.3):
-“Settings” > “Network & internet” > “Private DNS” > select “Private DNS provider Host-
-name” and enter the desired DNS server
-- If it is necessary to use abusive applications requiring permissions to function, switch
-temporarily to a second user profile (or several ones) in order to totally isolate your
-activities and these applications from the rest of your data:
+- block the internet access of all unused applications or which do not require internet access in order to work in the apps’ permissions or when it’s not available, thanks to a firewall application such as RethinkDNS
+- install and use an application, such as RethinkDNS (cf. 8.3), allowing to block trackers as well as ads and to use a respectful encrypted DNS server (cf. 6.3).
+As an inferior alternative, use the built-in Android DoT implementation to set a recommended DNS server (DoT) (cf. 6.3):
+“Settings” > “Network & internet” > “Private DNS” > select “Private DNS provider Hostname” and enter the desired DNS server
+- If it is necessary to use abusive applications requiring permissions to function, switch temporarily to a second user profile (or several ones) in order to totally isolate your activities and these applications from the rest of your data:
 “Settings” > “System” > “Multiple users” > “+ Add user”
 To receive notifications across different profiles: “Settings” > “System” > “Multiple
 users” > “Send notifications to current user” (repeat for each desired profile)
 
 **Android (original)**
 
-The following measures being insufficient for privacy since the OS is abusive in itself, it
-is recommended to use an Android version modified for privacy (cf. 4.1). That being
-said, in order to avoid a complete and continuous profiling with original Android:
+The following measures being insufficient for privacy since the OS is abusive in itself, it is recommended to use an Android version modified for privacy (cf. 4.1). That being said, in order to avoid a complete and continuous profiling with original Android:
 
 - avoid all Chinese manufacturers as well as Samsung and favour a brand offering “Android One” (no manufacturer overlay)
 - never connect to a Google account
@@ -1595,8 +1575,7 @@ https://auroraoss.com.
 In order to install them, grant the permission to install unknown applications to your browser when prompted and then, remember to withdraw it for security reasons:
 Android “Settings” > “Applications” > browser used > “installation of unknown applications”
 
-Remember not to connect to Aurora Store with a personal Google account. Use in-
-stead the anonymous one.
+Remember not to connect to Aurora Store with a personal Google account. Use instead the anonymous one.
 
 In order to find and install some applications from Neo Store, it is necessary to add
 their own repositories. To do that, go in Neo Store settings (top right), then under “repositories” (bottom symbol), add the repositories “DivestOS Official”, “Guardian Project Official” and the other desired ones for applications such as Bromite, Molly (Signal),
@@ -1604,31 +1583,24 @@ NewPipe, Bitwarden or Collabora Office.
 
 **Mull**
 
-During the installation from Neo Store, make sure to select the “DivestOS Official” version instead of the F-Droid one, in order to benefit as quickly as possible from updates
-and thus from latest security patches.
+During the installation from Neo Store, make sure to select the “DivestOS Official” version instead of the F-Droid one, in order to benefit as quickly as possible from updates and thus from latest security patches.
 Mull is already mostly configured for privacy protection out of the box. However, it is necessary to install the uBlock Origin add-on from the menu and to set it as explained
 in point 8.5.
 
 **NewPipe**
 
-During the installation from Neo Store, make sure to select the “NewPipe upstream re-
-pository” version instead of the F-Droid one, in order to receive as quickly as possible
-the updates fixing possible malfunctions due to YouTube modifications from Google.
+During the installation from Neo Store, make sure to select the “NewPipe upstream repository” version instead of the F-Droid one, in order to receive as quickly as possible the updates fixing possible malfunctions due to YouTube modifications from Google.
 
 To use PeerTube with NewPipe: top left menu > press “YouTube” > select “FramaTube”
 
 **Telegram**
 
 Settings:
-- “Privacy and Security” > “Security” > enable “Two-Step Verification” to
-protect your account
-- “Privacy and Security” > “Secret chats” > disable “Link Previews” in order not to reveal
-to Telegram the shared links in secret chats
-- “Data and Storage” > disable all under “Automatic media download” in order not to
-automatically download malware in public groups or channels
+- “Privacy and Security” > “Security” > enable “Two-Step Verification” to protect your account
+- “Privacy and Security” > “Secret chats” > disable “Link Previews” in order not to reveal to Telegram the shared links in secret chats
+- “Data and Storage” > disable all under “Automatic media download” in order not to automatically download malware in public groups or channels
 
-Always use “secret chats” (unavailable for Telegram desktop) in order for the conversa-
-tions to be end-to-end encrypted:
+Always use “secret chats” (unavailable for Telegram desktop) in order for the conversations to be end-to-end encrypted:
 
 Desired contact profile > the three dots at the top on the right > “Start Secret Chat”
 
@@ -1690,19 +1662,14 @@ In order to access Firefox’s different profiles, enter "about:profiles" in the
 
 Language :
 
-In order to prevent being fingerprinted with the use of another language than the
-most common amongst Firefox’s users, it is recommended to set “English (United
-States)” as the browser’s language.
-In order to do that: Top right menu > “Settings” > under “General” > “Language” > click
-on the current language > “Search for more languages” > “Select a language to add” >
-“English (United States)” > “Add”
+In order to prevent being fingerprinted with the use of another language than the most common amongst Firefox’s users, it is recommended to set “English (United States)” as the browser’s language.
+In order to do that: Top right menu > “Settings” > under “General” > “Language” > click on the current language > “Search for more languages” > “Select a language to add” > “English (United States)” > “Add”
 
 Additionally, deactivate “Check your spelling as you type”.
 
 DNS over HTTPS :
 
-If you are using a VPN or that your network or computer are configured to globally
-use a respectful and encrypted DNS server, the function "DNS over HTTPS" on by default, should be deactivated in order not to bypass the global setup. If it is not the case (if you don’t know then it’s probably not the case), it is recommended to let this function activated. However, it is necessary to change the default DNS server since Cloudflare is a centralizing actor nefarious for privacy. In place of the latter, it is recommended to choose a respectful option suggested in point 6.3 of the document, depending on your preferences and geographical location.
+If you are using a VPN or that your network or computer are configured to globally use a respectful and encrypted DNS server, the function "DNS over HTTPS" on by default, should be deactivated in order not to bypass the global setup. If it is not the case (if you don’t know then it’s probably not the case), it is recommended to let this function activated. However, it is necessary to change the default DNS server since Cloudflare is a centralizing actor nefarious for privacy. In place of the latter, it is recommended to choose a respectful option suggested in point 6.3 of the document, depending on your preferences and geographical location.
 To do this: "General" > all the way down "Network settings" > "Enable DNS over HTTPS"
 > under “Use Provider” select “Custom” > enter the URL of the desired Doh server.
 
@@ -1725,21 +1692,15 @@ uBlock :
 - Settings: tick “I am an advanced user” and tick everything under "Privacy"
 - Filter Lists: activate ALL lists except under "Regions" (only activate for used lan-
 guages)
-The lists under “Annoyances” and “Multipurpose” can prevent abusive social networks
-from working
-- Add the following lists from filterlists.com: Energized: “Actually Legitimate URL
-Shortener Tool” (replaces ClearURLs), “Energized Ultimate Protection”, “Energized IP
-Extension”, “Energized Social Extension”, (“Energized Xtreme Extension”)
-To add a list from filterlists.com : click on the list’s left button > click on "Subscribe" in
-the menu appearing
+The lists under “Annoyances” and “Multipurpose” can prevent abusive social networks from working
+- Add the following lists from filterlists.com: Energized: “Actually Legitimate URL Shortener Tool” (replaces ClearURLs), “Energized Ultimate Protection”, “Energized IP Extension”, “Energized Social Extension”, (“Energized Xtreme Extension”)
+To add a list from filterlists.com : click on the list’s left button > click on "Subscribe" in the menu appearing
 - Follow this website’s tutorial for dynamic filtering rules:
 https://www.maketecheasier.com/ultimate-ublock-origin-superusers-guide
 
 LocalCDN :
 
-In the settings go to "Advanced" > under "Generate rule sets for your adblocker" select
-uBlock > copy the rules given > open uBlock Origin extension > in its settings go under
-"My rules" > paste the copied rules in the part on the right > clic on "Save" > Clic on
+In the settings go to "Advanced" > under "Generate rule sets for your adblocker" select uBlock > copy the rules given > open uBlock Origin extension > in its settings go under "My rules" > paste the copied rules in the part on the right > clic on "Save" > Clic on
 "Commit".
 
 LibRedirect :
@@ -1751,15 +1712,13 @@ Settings: - Enable or disable platforms and instances of your choice (cf. 6.)
 (CanvasBlocker) :
 
 No further configuration required
-Note: only use this add-on if “privacy.resistFingerprinting” does not suit you. Other-
-wise, it is generally more recommendable to activate this parameter in “about:config”
+Note: only use this add-on if “privacy.resistFingerprinting” does not suit you. Otherwise, it is generally more recommendable to activate this parameter in “about:config”
 (cf. following pages) instead of this add-on.
 
 **about:config configuration**
 
-Access to those settings by entering "about:config" in Firefox address bar. Those dif-
-ferent settings improve privacy, security and, to some extent, performances. The ele-
-ments between parenthesis are not advisable in all cases.
+Access to those settings by entering "about:config" in Firefox address bar. Those different settings improve privacy, security and, to some extent, performances. The elements between parenthesis are not advisable in all cases.
+
 accessibility.blockautorefresh = true
 ((accessibility.force_disabled = 1))
 beacon.enabled = false
