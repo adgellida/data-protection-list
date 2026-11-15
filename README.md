@@ -408,6 +408,7 @@ Network traffic monitor :
 🟢<img src="./icons/safingportmaster.png" width="30">[Safing Portmaster](https://safing.io/portmaster)
 
 🟢<img src="./icons/wireshark.png" width="30">[Wireshark](https://www.wireshark.org)
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
 
 # Security :
 
